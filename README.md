@@ -11,7 +11,7 @@ Download and install this package via composer.
 `composer install crcl/worlddata`
 
 ```php
-$oCountry = \WorldData\World::getCountry('DE');
+$oCountry = \CRCL\WorldData\World::getCountry('DE');
 $oCountry->getName(); // Germany
 $oCountry->getContinent(); // ['code' => 'EU', 'name' => 'Europe']
 $oCountry->getCoordinates(); // [latitude , longitude] of country center
@@ -19,7 +19,7 @@ $oCountry->getTimezones(); // [["Europe/Berlin", null]]
 $oCountry->getTld(); // .de
 // Countries with multiple time-zones are represented by an array of time-zone name and time-zone longitude pairs.
 
-$oContinent = \WorldData\World::getContinent('EU');
+$oContinent = \CRCL\WorldData\World::getContinent('EU');
 $oContinent->getCode(); // EU
 $oContinent->getName(); // Europe
 $oContinent->getCountries(); // [Country1, Country2,..]
