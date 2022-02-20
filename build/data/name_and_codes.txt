@@ -1,0 +1,754 @@
+Afghanistan
+AF	AFG	.af
+
+Aland Islands
+AX	ALA	.ax
+
+Albania
+AL	ALB	.al
+
+Algeria
+DZ	DZA	.dz
+
+American Samoa
+AS	ASM	.as
+
+Andorra
+AD	AND	.ad
+
+Angola
+AO	AGO	.ao
+
+Anguilla
+AI	AIA	.ai
+
+Antarctica
+AQ	ATA	.aq
+
+Antigua and Barbuda
+AG	ATG	.ag
+
+Argentina
+AR	ARG	.ar
+
+Armenia
+AM	ARM	.am
+
+Aruba
+AW	ABW	.aw
+
+Australia
+AU	AUS	.au
+
+Austria
+AT	AUT	.at
+
+Azerbaijan
+AZ	AZE	.az
+
+Bahamas
+BS	BHS	.bs
+
+Bahrain
+BH	BHR	.bh
+
+Bangladesh
+BD	BGD	.bd
+
+Barbados
+BB	BRB	.bb
+
+Belarus
+BY	BLR	.by
+
+Belgium
+BE	BEL	.be
+
+Belize
+BZ	BLZ	.bz
+
+Benin
+BJ	BEN	.bj
+
+Bermuda
+BM	BMU	.bm
+
+Bhutan
+BT	BTN	.bt
+
+Bolivia
+BO	BOL	.bo
+
+Bonaire, Saint Eustatius and Saba
+BQ	BES	.bq
+
+Bosnia and Herzegovina
+BA	BIH	.ba
+
+Botswana
+BW	BWA	.bw
+
+Bouvet Island
+BV	BVT	.bv
+
+Brazil
+BR	BRA	.br
+
+British Indian Ocean Territory
+IO	IOT	.io
+
+British Virgin Islands
+VG	VGB	.vg
+
+Brunei
+BN	BRN	.bn
+
+Bulgaria
+BG	BGR	.bg
+
+Burkina Faso
+BF	BFA	.bf
+
+Burundi
+BI	BDI	.bi
+
+Cambodia
+KH	KHM	.kh
+
+Cameroon
+CM	CMR	.cm
+
+Canada
+CA	CAN	.ca
+
+Cape Verde
+CV	CPV	.cv
+
+Cayman Islands
+KY	CYM	.ky
+
+Central African Republic
+CF	CAF	.cf
+
+Chad
+TD	TCD	.td
+
+Chile
+CL	CHL	.cl
+
+China
+CN	CHN	.cn
+
+Christmas Island
+CX	CXR	.cx
+
+Cocos Islands
+CC	CCK	.cc
+
+Colombia
+CO	COL	.co
+
+Comoros
+KM	COM	.km
+
+Cook Islands
+CK	COK	.ck
+
+Costa Rica
+CR	CRI	.cr
+
+Croatia
+HR	HRV	.hr
+
+Cuba
+CU	CUB	.cu
+
+Curacao
+CW	CUW	.cw
+
+Cyprus
+CY	CYP	.cy
+
+Czech Republic
+CZ	CZE	.cz
+
+Democratic Republic of the Congo
+CD	COD	.cd
+
+Denmark
+DK	DNK	.dk
+
+Djibouti
+DJ	DJI	.dj
+
+Dominica
+DM	DMA	.dm
+
+Dominican Republic
+DO	DOM	.do
+
+East Timor
+TL	TLS	.tl
+
+Ecuador
+EC	ECU	.ec
+
+Egypt
+EG	EGY	.eg
+
+El Salvador
+SV	SLV	.sv
+
+Equatorial Guinea
+GQ	GNQ	.gq
+
+Eritrea
+ER	ERI	.er
+
+Estonia
+EE	EST	.ee
+
+Ethiopia
+ET	ETH	.et
+
+Falkland Islands
+FK	FLK	.fk
+
+Faroe Islands
+FO	FRO	.fo
+
+Fiji
+FJ	FJI	.fj
+
+Finland
+FI	FIN	.fi
+
+France
+FR	FRA	.fr
+
+French Guiana
+GF	GUF	.gf
+
+French Polynesia
+PF	PYF	.pf
+
+French Southern Territories
+TF	ATF	.tf
+
+Gabon
+GA	GAB	.ga
+
+Gambia
+GM	GMB	.gm
+
+Georgia
+GE	GEO	.ge
+
+Germany
+DE	DEU	.de
+
+Ghana
+GH	GHA	.gh
+
+Gibraltar
+GI	GIB	.gi
+
+Greece
+GR	GRC	.gr
+
+Greenland
+GL	GRL	.gl
+
+Grenada
+GD	GRD	.gd
+
+Guadeloupe
+GP	GLP	.gp
+
+Guam
+GU	GUM	.gu
+
+Guatemala
+GT	GTM	.gt
+
+Guernsey
+GG	GGY	.gg
+
+Guinea
+GN	GIN	.gn
+
+Guinea-Bissau
+GW	GNB	.gw
+
+Guyana
+GY	GUY	.gy
+
+Haiti
+HT	HTI	.ht
+
+Heard Island and McDonald Islands
+HM	HMD	.hm
+
+Honduras
+HN	HND	.hn
+
+Hong Kong
+HK	HKG	.hk
+
+Hungary
+HU	HUN	.hu
+
+Iceland
+IS	ISL	.is
+
+India
+IN	IND	.in
+
+Indonesia
+ID	IDN	.id
+
+Iran
+IR	IRN	.ir
+
+Iraq
+IQ	IRQ	.iq
+
+Ireland
+IE	IRL	.ie
+
+Isle of Man
+IM	IMN	.im
+
+Israel
+IL	ISR	.il
+
+Italy
+IT	ITA	.it
+
+Ivory Coast
+CI	CIV	.ci
+
+Jamaica
+JM	JAM	.jm
+
+Japan
+JP	JPN	.jp
+
+Jersey
+JE	JEY	.je
+
+Jordan
+JO	JOR	.jo
+
+Kazakhstan
+KZ	KAZ	.kz
+
+Kenya
+KE	KEN	.ke
+
+Kiribati
+KI	KIR	.ki
+
+Kosovo
+XK	XXK
+Kuwait
+KW	KWT	.kw
+
+Kyrgyzstan
+KG	KGZ	.kg
+
+Laos
+LA	LAO	.la
+
+Latvia
+LV	LVA	.lv
+
+Lebanon
+LB	LBN	.lb
+
+Lesotho
+LS	LSO	.ls
+
+Liberia
+LR	LBR	.lr
+
+Libya
+LY	LBY	.ly
+
+Liechtenstein
+LI	LIE	.li
+
+Lithuania
+LT	LTU	.lt
+
+Luxembourg
+LU	LUX	.lu
+
+Macao
+MO	MAC	.mo
+
+Macedonia
+MK	MKD	.mk
+
+Madagascar
+MG	MDG	.mg
+
+Malawi
+MW	MWI	.mw
+
+Malaysia
+MY	MYS	.my
+
+Maldives
+MV	MDV	.mv
+
+Mali
+ML	MLI	.ml
+
+Malta
+MT	MLT	.mt
+
+Marshall Islands
+MH	MHL	.mh
+
+Martinique
+MQ	MTQ	.mq
+
+Mauritania
+MR	MRT	.mr
+
+Mauritius
+MU	MUS	.mu
+
+Mayotte
+YT	MYT	.yt
+
+Mexico
+MX	MEX	.mx
+
+Micronesia
+FM	FSM	.fm
+
+Moldova
+MD	MDA	.md
+
+Monaco
+MC	MCO	.mc
+
+Mongolia
+MN	MNG	.mn
+
+Montenegro
+ME	MNE	.me
+
+Montserrat
+MS	MSR	.ms
+
+Morocco
+MA	MAR	.ma
+
+Mozambique
+MZ	MOZ	.mz
+
+Myanmar
+MM	MMR	.mm
+
+Namibia
+NA	NAM	.na
+
+Nauru
+NR	NRU	.nr
+
+Nepal
+NP	NPL	.np
+
+Netherlands
+NL	NLD	.nl
+
+Netherlands Antilles
+AN	ANT	.an
+
+New Caledonia
+NC	NCL	.nc
+
+New Zealand
+NZ	NZL	.nz
+
+Nicaragua
+NI	NIC	.ni
+
+Niger
+NE	NER	.ne
+
+Nigeria
+NG	NGA	.ng
+
+Niue
+NU	NIU	.nu
+
+Norfolk Island
+NF	NFK	.nf
+
+North Korea
+KP	PRK	.kp
+
+Northern Mariana Islands
+MP	MNP	.mp
+
+Norway
+NO	NOR	.no
+
+Oman
+OM	OMN	.om
+
+Pakistan
+PK	PAK	.pk
+
+Palau
+PW	PLW	.pw
+
+Palestinian Territory
+PS	PSE	.ps
+
+Panama
+PA	PAN	.pa
+
+Papua New Guinea
+PG	PNG	.pg
+
+Paraguay
+PY	PRY	.py
+
+Peru
+PE	PER	.pe
+
+Philippines
+PH	PHL	.ph
+
+Pitcairn
+PN	PCN	.pn
+
+Poland
+PL	POL	.pl
+
+Portugal
+PT	PRT	.pt
+
+Puerto Rico
+PR	PRI	.pr
+
+Qatar
+QA	QAT	.qa
+
+Republic of the Congo
+CG	COG	.cg
+
+Reunion
+RE	REU	.re
+
+Romania
+RO	ROU	.ro
+
+Russia
+RU	RUS	.ru
+
+Rwanda
+RW	RWA	.rw
+
+Saint Barthelemy
+BL	BLM	.gp
+
+Saint Helena
+SH	SHN	.sh
+
+Saint Kitts and Nevis
+KN	KNA	.kn
+
+Saint Lucia
+LC	LCA	.lc
+
+Saint Martin
+MF	MAF	.gp
+
+Saint Pierre and Miquelon
+PM	SPM	.pm
+
+Saint Vincent and the Grenadines
+VC	VCT	.vc
+
+Samoa
+WS	WSM	.ws
+
+San Marino
+SM	SMR	.sm
+
+Sao Tome and Principe
+ST	STP	.st
+
+Saudi Arabia
+SA	SAU	.sa
+
+Senegal
+SN	SEN	.sn
+
+Serbia
+RS	SRB	.rs
+
+Serbia and Montenegro
+CS	SCG	.cs
+
+Seychelles
+SC	SYC	.sc
+
+Sierra Leone
+SL	SLE	.sl
+
+Singapore
+SG	SGP	.sg
+
+Sint Maarten
+SX	SXM	.sx
+
+Slovakia
+SK	SVK	.sk
+
+Slovenia
+SI	SVN	.si
+
+Solomon Islands
+SB	SLB	.sb
+
+Somalia
+SO	SOM	.so
+
+South Africa
+ZA	ZAF	.za
+
+South Georgia and the South Sandwich Islands
+GS	SGS	.gs
+
+South Korea
+KR	KOR	.kr
+
+South Sudan
+SS	SSD
+Spain
+ES	ESP	.es
+
+Sri Lanka
+LK	LKA	.lk
+
+Sudan
+SD	SDN	.sd
+
+Suriname
+SR	SUR	.sr
+
+Svalbard and Jan Mayen
+SJ	SJM	.sj
+
+Swaziland
+SZ	SWZ	.sz
+
+Sweden
+SE	SWE	.se
+
+Switzerland
+CH	CHE	.ch
+
+Syria
+SY	SYR	.sy
+
+Taiwan
+TW	TWN	.tw
+
+Tajikistan
+TJ	TJK	.tj
+
+Tanzania
+TZ	TZA	.tz
+
+Thailand
+TH	THA	.th
+
+Togo
+TG	TGO	.tg
+
+Tokelau
+TK	TKL	.tk
+
+Tonga
+TO	TON	.to
+
+Trinidad and Tobago
+TT	TTO	.tt
+
+Tunisia
+TN	TUN	.tn
+
+Turkey
+TR	TUR	.tr
+
+Turkmenistan
+TM	TKM	.tm
+
+Turks and Caicos Islands
+TC	TCA	.tc
+
+Tuvalu
+TV	TUV	.tv
+
+U.S. Virgin Islands
+VI	VIR	.vi
+
+Uganda
+UG	UGA	.ug
+
+Ukraine
+UA	UKR	.ua
+
+United Arab Emirates
+AE	ARE	.ae
+
+United Kingdom
+GB	GBR	.uk
+
+United States
+US	USA	.us
+
+United States Minor Outlying Islands
+UM	UMI	.um
+
+Uruguay
+UY	URY	.uy
+
+Uzbekistan
+UZ	UZB	.uz
+
+Vanuatu
+VU	VUT	.vu
+
+Vatican
+VA	VAT	.va
+
+Venezuela
+VE	VEN	.ve
+
+Vietnam
+VN	VNM	.vn
+
+Wallis and Futuna
+WF	WLF	.wf
+
+Western Sahara
+EH	ESH	.eh
+
+Yemen
+YE	YEM	.ye
+
+Zambia
+ZM	ZMB	.zm
+
+Zimbabwe
+ZW	ZWE	.zw
+
