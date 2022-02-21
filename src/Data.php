@@ -1,6 +1,6 @@
 <?php
 
-namespace CRCL\WorldData;
+namespace crcl\worlddata;
 
 class Data
 {

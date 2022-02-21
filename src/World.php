@@ -1,28 +1,28 @@
 <?php
 
-namespace CRCL\WorldData;
+namespace crcl\worlddata;
 
 interface IWorld
 {
     /**
      * @param  string  $isoCode  2-letter iso code
      *
-     * @return \CRCL\WorldData\Country | null
+     * @return \CRCL\worlddata\Country | null
      */
-    public static function getCountry(string $isoCode) : ?\CRCL\WorldData\Country;
+    public static function getCountry(string $isoCode) : ?\crcl\worlddata\Country;
 
 
     /**
      * @param  string  $isoCode  2-letter iso code
      *
-     * @return \CRCL\WorldData\Continent | null
+     * @return \CRCL\worlddata\Continent | null
      */
-    public static function getContinent(string $isoCode) : ?\CRCL\WorldData\Continent;
+    public static function getContinent(string $isoCode) : ?\crcl\worlddata\Continent;
 }
 
 class World implements IWorld
 {
-    public static function getCountry(string $isoCode) : ?\CRCL\WorldData\Country
+    public static function getCountry(string $isoCode) : ?\crcl\worlddata\Country
     {
         $isoCode = strtoupper($isoCode);
 
@@ -33,7 +33,7 @@ class World implements IWorld
         return null;
     }
 
-    public static function getContinent(string $isoCode) : ?\CRCL\WorldData\Continent
+    public static function getContinent(string $isoCode) : ?\crcl\worlddata\Continent
     {
         $isoCode = strtoupper($isoCode);
 

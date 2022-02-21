@@ -2,7 +2,7 @@
 
 require 'vendor/autoload.php';
 
-use CRCL\WorldData\Data;
+use crcl\worlddata\Data;
 
 const LINE = "\n===================\n";
 

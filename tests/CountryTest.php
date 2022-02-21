@@ -1,6 +1,6 @@
 <?php
 
-use CRCL\WorldData\World;
+use crcl\worlddata\World;
 use PHPUnit\Framework\TestCase;
 
 class CountryTest extends TestCase

@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "CRCL\\WorldData\\": "src/"
+            "crcl\\worlddata\\": "src/"
         }
     },
     "authors": [

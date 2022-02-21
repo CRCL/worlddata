@@ -1,6 +1,6 @@
 <?php
 
-use CRCL\WorldData\World;
+use crcl\worlddata\World;
 use PHPUnit\Framework\TestCase;
 
 class ContinentTest extends TestCase
@@ -29,7 +29,7 @@ class ContinentTest extends TestCase
 
         $this->assertIsArray($countries);
         $this->assertCount(14, $countries);
-        $this->assertEquals(CRCL\WorldData\Country::class,
+        $this->assertEquals(crcl\worlddata\Country::class,
                             get_class($countries['AR']));
     }
 

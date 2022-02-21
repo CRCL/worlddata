@@ -1,6 +1,6 @@
 <?php
 
-use CRCL\WorldData\Data;
+use crcl\worlddata\Data;
 use PHPUnit\Framework\TestCase;
 
 class DataTest extends TestCase
