@@ -23,6 +23,11 @@ $oContinent = \CRCL\worlddata\World::getContinent('EU');
 $oContinent->getCode(); // EU
 $oContinent->getName(); // Europe
 $oContinent->getCountries(); // [Country1, Country2,..]
+
+
+\crcl\worlddata\World::getCurrency('EUR');
+\crcl\worlddata\World::getLanguage('FR');
+\crcl\worlddata\World::getTld('.de');
 ```
 
 Requirements

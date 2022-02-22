@@ -19,11 +19,6 @@
     'iso-3166-alpha-2' => 'AD',
     'iso-3166-alpha-3' => 'AND',
     'tld' => '.ad',
-    'name_full' => 'The Principality of Andorra',
-    'capital' => 'Andorra la Vella',
-    'emoji' => '🇦🇩',
-    'callingcode' => '376',
-    'currency' => 'EUR',
   ),
   'AE' => 
   array (
@@ -45,11 +40,6 @@
     'iso-3166-alpha-2' => 'AE',
     'iso-3166-alpha-3' => 'ARE',
     'tld' => '.ae',
-    'name_full' => 'The United Arab Emirates',
-    'capital' => 'Abu Dhabi',
-    'emoji' => '🇦🇪',
-    'callingcode' => '971',
-    'currency' => 'AED',
   ),
   'AF' => 
   array (
@@ -71,11 +61,6 @@
     'iso-3166-alpha-2' => 'AF',
     'iso-3166-alpha-3' => 'AFG',
     'tld' => '.af',
-    'name_full' => 'the Islamic Republic of Afghanistan',
-    'capital' => 'Kabul',
-    'emoji' => '🇦🇫',
-    'callingcode' => '93',
-    'currency' => 'AFN',
   ),
   'AG' => 
   array (
@@ -97,11 +82,6 @@
     'iso-3166-alpha-2' => 'AG',
     'iso-3166-alpha-3' => 'ATG',
     'tld' => '.ag',
-    'name_full' => 'Antigua and Barbuda',
-    'capital' => 'Saint John\'s',
-    'emoji' => '🇦🇬',
-    'callingcode' => '1268',
-    'currency' => 'XCD',
   ),
   'AI' => 
   array (
@@ -123,10 +103,6 @@
     'iso-3166-alpha-2' => 'AI',
     'iso-3166-alpha-3' => 'AIA',
     'tld' => '.ai',
-    'name_full' => 'Anguilla',
-    'capital' => 'The Valley',
-    'emoji' => '🇦🇮',
-    'currency' => 'XPF',
   ),
   'AL' => 
   array (
@@ -148,11 +124,6 @@
     'iso-3166-alpha-2' => 'AL',
     'iso-3166-alpha-3' => 'ALB',
     'tld' => '.al',
-    'name_full' => 'The Republic of Albania',
-    'capital' => 'Tirana',
-    'emoji' => '🇦🇱',
-    'callingcode' => '355',
-    'currency' => 'ALL',
   ),
   'AM' => 
   array (
@@ -174,11 +145,6 @@
     'iso-3166-alpha-2' => 'AM',
     'iso-3166-alpha-3' => 'ARM',
     'tld' => '.am',
-    'name_full' => 'The Republic of Armenia',
-    'capital' => 'Yerevan',
-    'emoji' => '🇦🇲',
-    'callingcode' => '374',
-    'currency' => 'AMD',
   ),
   'AN' => 
   array (
@@ -200,9 +166,6 @@
     'iso-3166-alpha-2' => 'AN',
     'iso-3166-alpha-3' => 'ANT',
     'tld' => '.an',
-    'name_full' => 'Netherlands Antilles',
-    'capital' => NULL,
-    'emoji' => NULL,
   ),
   'AO' => 
   array (
@@ -224,11 +187,6 @@
     'iso-3166-alpha-2' => 'AO',
     'iso-3166-alpha-3' => 'AGO',
     'tld' => '.ao',
-    'name_full' => 'the Republic of Angola',
-    'capital' => 'Luanda',
-    'emoji' => '🇦🇴',
-    'callingcode' => '244',
-    'currency' => 'AOA',
   ),
   'AQ' => 
   array (
@@ -361,11 +319,6 @@
     'iso-3166-alpha-2' => 'AR',
     'iso-3166-alpha-3' => 'ARG',
     'tld' => '.ar',
-    'name_full' => 'The Republic of Argentina',
-    'capital' => 'Buenos Aires',
-    'emoji' => '🇦🇷',
-    'callingcode' => '54',
-    'currency' => 'ARS',
   ),
   'AS' => 
   array (
@@ -387,11 +340,6 @@
     'iso-3166-alpha-2' => 'AS',
     'iso-3166-alpha-3' => 'ASM',
     'tld' => '.as',
-    'name_full' => 'American Samoa',
-    'capital' => 'Pago Pago',
-    'emoji' => '🇦🇸',
-    'callingcode' => '1684',
-    'currency' => 'USD',
   ),
   'AT' => 
   array (
@@ -413,11 +361,6 @@
     'iso-3166-alpha-2' => 'AT',
     'iso-3166-alpha-3' => 'AUT',
     'tld' => '.at',
-    'name_full' => 'The Republic Of Austria',
-    'capital' => 'Vienna',
-    'emoji' => '🇦🇹',
-    'callingcode' => '43',
-    'currency' => 'EUR',
   ),
   'AU' => 
   array (
@@ -494,11 +437,6 @@
     'iso-3166-alpha-2' => 'AU',
     'iso-3166-alpha-3' => 'AUS',
     'tld' => '.au',
-    'name_full' => 'The Commonwealth of Australia',
-    'capital' => 'Canberra',
-    'emoji' => '🇦🇺',
-    'callingcode' => '61',
-    'currency' => 'AUD',
   ),
   'AW' => 
   array (
@@ -520,11 +458,6 @@
     'iso-3166-alpha-2' => 'AW',
     'iso-3166-alpha-3' => 'ABW',
     'tld' => '.aw',
-    'name_full' => 'Aruba',
-    'capital' => 'Oranjestad',
-    'emoji' => '🇦🇼',
-    'callingcode' => '297',
-    'currency' => 'AWG',
   ),
   'AX' => 
   array (
@@ -546,11 +479,6 @@
     'iso-3166-alpha-2' => 'AX',
     'iso-3166-alpha-3' => 'ALA',
     'tld' => '.ax',
-    'name_full' => 'Aland Island,Ahvenanmaa',
-    'capital' => 'Mariehamn',
-    'emoji' => '🇦🇽',
-    'callingcode' => '358',
-    'currency' => 'EUR',
   ),
   'AZ' => 
   array (
@@ -572,11 +500,6 @@
     'iso-3166-alpha-2' => 'AZ',
     'iso-3166-alpha-3' => 'AZE',
     'tld' => '.az',
-    'name_full' => 'The Republic of Azerbaijan',
-    'capital' => 'Baku',
-    'emoji' => '🇦🇿',
-    'callingcode' => '994',
-    'currency' => 'AZN',
   ),
   'BA' => 
   array (
@@ -598,11 +521,6 @@
     'iso-3166-alpha-2' => 'BA',
     'iso-3166-alpha-3' => 'BIH',
     'tld' => '.ba',
-    'name_full' => 'Bosnia and Herzegovina',
-    'capital' => 'Sarajevo',
-    'emoji' => '🇧🇦',
-    'callingcode' => '387',
-    'currency' => 'BAM',
   ),
   'BB' => 
   array (
@@ -624,11 +542,6 @@
     'iso-3166-alpha-2' => 'BB',
     'iso-3166-alpha-3' => 'BRB',
     'tld' => '.bb',
-    'name_full' => 'Barbados',
-    'capital' => 'Bridgetown',
-    'emoji' => '🇧🇧',
-    'callingcode' => '1246',
-    'currency' => 'BBD',
   ),
   'BD' => 
   array (
@@ -650,11 +563,6 @@
     'iso-3166-alpha-2' => 'BD',
     'iso-3166-alpha-3' => 'BGD',
     'tld' => '.bd',
-    'name_full' => 'People\'s Republic of Bangladesh',
-    'capital' => 'Dhaka',
-    'emoji' => '🇧🇩',
-    'callingcode' => '880',
-    'currency' => 'BDT',
   ),
   'BE' => 
   array (
@@ -676,11 +584,6 @@
     'iso-3166-alpha-2' => 'BE',
     'iso-3166-alpha-3' => 'BEL',
     'tld' => '.be',
-    'name_full' => 'The Kingdom Of Belgium',
-    'capital' => 'Brussels',
-    'emoji' => '🇧🇪',
-    'callingcode' => '32',
-    'currency' => 'EUR',
   ),
   'BF' => 
   array (
@@ -702,11 +605,6 @@
     'iso-3166-alpha-2' => 'BF',
     'iso-3166-alpha-3' => 'BFA',
     'tld' => '.bf',
-    'name_full' => 'Burkina Faso',
-    'capital' => 'Ouagadougou',
-    'emoji' => '🇧🇫',
-    'callingcode' => '226',
-    'currency' => 'XOF',
   ),
   'BG' => 
   array (
@@ -728,11 +626,6 @@
     'iso-3166-alpha-2' => 'BG',
     'iso-3166-alpha-3' => 'BGR',
     'tld' => '.bg',
-    'name_full' => 'The Republic of Bulgaria',
-    'capital' => 'Sofia',
-    'emoji' => '🇧🇬',
-    'callingcode' => '359',
-    'currency' => 'BGN',
   ),
   'BH' => 
   array (
@@ -754,11 +647,6 @@
     'iso-3166-alpha-2' => 'BH',
     'iso-3166-alpha-3' => 'BHR',
     'tld' => '.bh',
-    'name_full' => 'The Kingdom of Bahrain',
-    'capital' => 'Manama',
-    'emoji' => '🇧🇭',
-    'callingcode' => '973',
-    'currency' => 'BHD',
   ),
   'BI' => 
   array (
@@ -780,11 +668,6 @@
     'iso-3166-alpha-2' => 'BI',
     'iso-3166-alpha-3' => 'BDI',
     'tld' => '.bi',
-    'name_full' => 'The Republic of Burundi',
-    'capital' => 'Bujumbura',
-    'emoji' => '🇧🇮',
-    'callingcode' => '257',
-    'currency' => 'BIF',
   ),
   'BJ' => 
   array (
@@ -806,11 +689,6 @@
     'iso-3166-alpha-2' => 'BJ',
     'iso-3166-alpha-3' => 'BEN',
     'tld' => '.bj',
-    'name_full' => 'the Republic of Benin ',
-    'capital' => 'Porto-Novo',
-    'emoji' => '🇧🇯',
-    'callingcode' => '229',
-    'currency' => 'XOF',
   ),
   'BL' => 
   array (
@@ -827,11 +705,6 @@
       0 => NULL,
       1 => NULL,
     ),
-    'name_full' => 'Collectivitéde Saint-Barthélemy',
-    'capital' => 'Gustavia',
-    'emoji' => '🇧🇱',
-    'callingcode' => '590',
-    'currency' => 'EUR',
   ),
   'BM' => 
   array (
@@ -853,11 +726,6 @@
     'iso-3166-alpha-2' => 'BM',
     'iso-3166-alpha-3' => 'BMU',
     'tld' => '.bm',
-    'name_full' => 'Bermuda',
-    'capital' => 'Hamilton',
-    'emoji' => '🇧🇲',
-    'callingcode' => '1441',
-    'currency' => 'BMD',
   ),
   'BN' => 
   array (
@@ -879,11 +747,6 @@
     'iso-3166-alpha-2' => 'BN',
     'iso-3166-alpha-3' => 'BRN',
     'tld' => '.bn',
-    'name_full' => 'Brunei Darussalam',
-    'capital' => 'Bandar Seri Begawan',
-    'emoji' => '🇧🇳',
-    'callingcode' => '673',
-    'currency' => 'BND',
   ),
   'BO' => 
   array (
@@ -905,11 +768,6 @@
     'iso-3166-alpha-2' => 'BO',
     'iso-3166-alpha-3' => 'BOL',
     'tld' => '.bo',
-    'name_full' => 'The Republic of Bolivia',
-    'capital' => 'Sucre',
-    'emoji' => '🇧🇴',
-    'callingcode' => '591',
-    'currency' => 'BOB',
   ),
   'BQ' => 
   array (
@@ -926,10 +784,6 @@
       0 => NULL,
       1 => NULL,
     ),
-    'name_full' => 'Bonaire, Sint Eustatius and Saba',
-    'capital' => NULL,
-    'emoji' => '🇧🇶',
-    'currency' => 'USD',
   ),
   'BR' => 
   array (
@@ -1021,11 +875,6 @@
     'iso-3166-alpha-2' => 'BR',
     'iso-3166-alpha-3' => 'BRA',
     'tld' => '.br',
-    'name_full' => 'The Federative Republic of Brazil',
-    'capital' => 'Brasília',
-    'emoji' => '🇧🇷',
-    'callingcode' => '55',
-    'currency' => 'BRL',
   ),
   'BS' => 
   array (
@@ -1047,11 +896,6 @@
     'iso-3166-alpha-2' => 'BS',
     'iso-3166-alpha-3' => 'BHS',
     'tld' => '.bs',
-    'name_full' => 'The Commonwealth of The Bahamas',
-    'capital' => 'Nassau',
-    'emoji' => '🇧🇸',
-    'callingcode' => '1242',
-    'currency' => 'BSD',
   ),
   'BT' => 
   array (
@@ -1073,11 +917,6 @@
     'iso-3166-alpha-2' => 'BT',
     'iso-3166-alpha-3' => 'BTN',
     'tld' => '.bt',
-    'name_full' => 'Kingdom of Bhutan',
-    'capital' => 'Thimphu',
-    'emoji' => '🇧🇹',
-    'callingcode' => '975',
-    'currency' => 'BTN',
   ),
   'BV' => 
   array (
@@ -1094,10 +933,6 @@
     'timezone' => 
     array (
     ),
-    'name_full' => 'Bouvet Island',
-    'capital' => '',
-    'emoji' => '🇧🇻',
-    'currency' => 'NOK',
   ),
   'BW' => 
   array (
@@ -1119,11 +954,6 @@
     'iso-3166-alpha-2' => 'BW',
     'iso-3166-alpha-3' => 'BWA',
     'tld' => '.bw',
-    'name_full' => 'The Republic of Botswana',
-    'capital' => 'Gaborone',
-    'emoji' => '🇧🇼',
-    'callingcode' => '267',
-    'currency' => 'BWP',
   ),
   'BY' => 
   array (
@@ -1145,11 +975,6 @@
     'iso-3166-alpha-2' => 'BY',
     'iso-3166-alpha-3' => 'BLR',
     'tld' => '.by',
-    'name_full' => 'The Republic of Belarus',
-    'capital' => 'Minsk',
-    'emoji' => '🇧🇾',
-    'callingcode' => '375',
-    'currency' => 'BYR',
   ),
   'BZ' => 
   array (
@@ -1171,11 +996,6 @@
     'iso-3166-alpha-2' => 'BZ',
     'iso-3166-alpha-3' => 'BLZ',
     'tld' => '.bz',
-    'name_full' => 'Belize',
-    'capital' => 'Belmopan',
-    'emoji' => '🇧🇿',
-    'callingcode' => '501',
-    'currency' => 'BZD',
   ),
   'CA' => 
   array (
@@ -1327,11 +1147,6 @@
     'iso-3166-alpha-2' => 'CA',
     'iso-3166-alpha-3' => 'CAN',
     'tld' => '.ca',
-    'name_full' => 'Canada',
-    'capital' => 'Ottawa',
-    'emoji' => '🇨🇦',
-    'callingcode' => '1',
-    'currency' => 'CAD',
   ),
   'CC' => 
   array (
@@ -1353,11 +1168,6 @@
     'iso-3166-alpha-2' => 'CC',
     'iso-3166-alpha-3' => 'CCK',
     'tld' => '.cc',
-    'name_full' => 'Cocos (Keeling) Islands',
-    'capital' => 'West Island',
-    'emoji' => '🇨🇨',
-    'callingcode' => '61',
-    'currency' => 'AUD',
   ),
   'CD' => 
   array (
@@ -1384,11 +1194,6 @@
     'iso-3166-alpha-2' => 'CD',
     'iso-3166-alpha-3' => 'COD',
     'tld' => '.cd',
-    'name_full' => 'Democratic Republic of the Congo',
-    'capital' => 'Kinshasa',
-    'emoji' => '🇨🇩',
-    'callingcode' => '243',
-    'currency' => 'CDF',
   ),
   'CF' => 
   array (
@@ -1410,11 +1215,6 @@
     'iso-3166-alpha-2' => 'CF',
     'iso-3166-alpha-3' => 'CAF',
     'tld' => '.cf',
-    'name_full' => 'The Central African Republic',
-    'capital' => 'Bangui',
-    'emoji' => '🇨🇫',
-    'callingcode' => '236',
-    'currency' => 'XAF',
   ),
   'CG' => 
   array (
@@ -1436,11 +1236,6 @@
     'iso-3166-alpha-2' => 'CG',
     'iso-3166-alpha-3' => 'COG',
     'tld' => '.cg',
-    'name_full' => 'Republic of the Congo',
-    'capital' => 'Brazzaville',
-    'emoji' => '🇨🇬',
-    'callingcode' => '242',
-    'currency' => 'XAF',
   ),
   'CH' => 
   array (
@@ -1462,11 +1257,6 @@
     'iso-3166-alpha-2' => 'CH',
     'iso-3166-alpha-3' => 'CHE',
     'tld' => '.ch',
-    'name_full' => 'Swiss Confederation',
-    'capital' => 'Bern',
-    'emoji' => '🇨🇭',
-    'callingcode' => '41',
-    'currency' => 'CHE',
   ),
   'CI' => 
   array (
@@ -1488,11 +1278,6 @@
     'iso-3166-alpha-2' => 'CI',
     'iso-3166-alpha-3' => 'CIV',
     'tld' => '.ci',
-    'name_full' => 'the Republic of Cote d’Ivoire',
-    'capital' => 'Yamoussoukro',
-    'emoji' => '🇨🇮',
-    'callingcode' => '225',
-    'currency' => 'XOF',
   ),
   'CK' => 
   array (
@@ -1514,11 +1299,6 @@
     'iso-3166-alpha-2' => 'CK',
     'iso-3166-alpha-3' => 'COK',
     'tld' => '.ck',
-    'name_full' => 'The Cook Islands',
-    'capital' => 'Avarua',
-    'emoji' => '🇨🇰',
-    'callingcode' => '682',
-    'currency' => 'NZD',
   ),
   'CL' => 
   array (
@@ -1545,11 +1325,6 @@
     'iso-3166-alpha-2' => 'CL',
     'iso-3166-alpha-3' => 'CHL',
     'tld' => '.cl',
-    'name_full' => 'Republic of Chile',
-    'capital' => 'Santiago',
-    'emoji' => '🇨🇱',
-    'callingcode' => '56',
-    'currency' => 'CLP',
   ),
   'CM' => 
   array (
@@ -1571,11 +1346,6 @@
     'iso-3166-alpha-2' => 'CM',
     'iso-3166-alpha-3' => 'CMR',
     'tld' => '.cm',
-    'name_full' => 'the Republic of Cameroon',
-    'capital' => 'Yaoundé',
-    'emoji' => '🇨🇲',
-    'callingcode' => '237',
-    'currency' => 'XAF',
   ),
   'CN' => 
   array (
@@ -1617,11 +1387,6 @@
     'iso-3166-alpha-2' => 'CN',
     'iso-3166-alpha-3' => 'CHN',
     'tld' => '.cn',
-    'name_full' => 'People\'s Republic of China',
-    'capital' => 'Beijing',
-    'emoji' => '🇨🇳',
-    'callingcode' => '86',
-    'currency' => 'CNY',
   ),
   'CO' => 
   array (
@@ -1643,11 +1408,6 @@
     'iso-3166-alpha-2' => 'CO',
     'iso-3166-alpha-3' => 'COL',
     'tld' => '.co',
-    'name_full' => 'The Republic of Colombia',
-    'capital' => 'Bogotá',
-    'emoji' => '🇨🇴',
-    'callingcode' => '57',
-    'currency' => 'COP',
   ),
   'CR' => 
   array (
@@ -1669,11 +1429,6 @@
     'iso-3166-alpha-2' => 'CR',
     'iso-3166-alpha-3' => 'CRI',
     'tld' => '.cr',
-    'name_full' => 'Republic of Costa Rica',
-    'capital' => 'San José',
-    'emoji' => '🇨🇷',
-    'callingcode' => '506',
-    'currency' => 'CRC',
   ),
   'CS' => 
   array (
@@ -1711,11 +1466,6 @@
     'iso-3166-alpha-2' => 'CU',
     'iso-3166-alpha-3' => 'CUB',
     'tld' => '.cu',
-    'name_full' => 'The Republic of Cuba',
-    'capital' => 'Havana',
-    'emoji' => '🇨🇺',
-    'callingcode' => '53',
-    'currency' => 'CUC',
   ),
   'CV' => 
   array (
@@ -1737,11 +1487,6 @@
     'iso-3166-alpha-2' => 'CV',
     'iso-3166-alpha-3' => 'CPV',
     'tld' => '.cv',
-    'name_full' => 'Republic of Cabo Verde',
-    'capital' => 'Praia',
-    'emoji' => '🇨🇻',
-    'callingcode' => '238',
-    'currency' => 'CVE',
   ),
   'CW' => 
   array (
@@ -1758,11 +1503,6 @@
       0 => NULL,
       1 => NULL,
     ),
-    'name_full' => 'Curaçao',
-    'capital' => 'Willemstad',
-    'emoji' => '🇨🇼',
-    'callingcode' => '5999',
-    'currency' => 'ANG',
   ),
   'CX' => 
   array (
@@ -1784,11 +1524,6 @@
     'iso-3166-alpha-2' => 'CX',
     'iso-3166-alpha-3' => 'CXR',
     'tld' => '.cx',
-    'name_full' => 'Christmas Island',
-    'capital' => 'Flying Fish Cove',
-    'emoji' => '🇨🇽',
-    'callingcode' => '61',
-    'currency' => 'AUD',
   ),
   'CY' => 
   array (
@@ -1810,11 +1545,6 @@
     'iso-3166-alpha-2' => 'CY',
     'iso-3166-alpha-3' => 'CYP',
     'tld' => '.cy',
-    'name_full' => 'Republic of Cyprus',
-    'capital' => 'Nicosia',
-    'emoji' => '🇨🇾',
-    'callingcode' => '357',
-    'currency' => 'EUR',
   ),
   'CZ' => 
   array (
@@ -1836,11 +1566,6 @@
     'iso-3166-alpha-2' => 'CZ',
     'iso-3166-alpha-3' => 'CZE',
     'tld' => '.cz',
-    'name_full' => 'The Czech Republic',
-    'capital' => 'Prague',
-    'emoji' => '🇨🇿',
-    'callingcode' => '420',
-    'currency' => 'CZK',
   ),
   'DE' => 
   array (
@@ -1862,11 +1587,6 @@
     'iso-3166-alpha-2' => 'DE',
     'iso-3166-alpha-3' => 'DEU',
     'tld' => '.de',
-    'name_full' => 'The Federal Republic of Germany',
-    'capital' => 'Berlin',
-    'emoji' => '🇩🇪',
-    'callingcode' => '49',
-    'currency' => 'EUR',
   ),
   'DJ' => 
   array (
@@ -1888,11 +1608,6 @@
     'iso-3166-alpha-2' => 'DJ',
     'iso-3166-alpha-3' => 'DJI',
     'tld' => '.dj',
-    'name_full' => 'The Republic of Djibouti',
-    'capital' => 'Djibouti',
-    'emoji' => '🇩🇯',
-    'callingcode' => '253',
-    'currency' => 'DJF',
   ),
   'DK' => 
   array (
@@ -1914,11 +1629,6 @@
     'iso-3166-alpha-2' => 'DK',
     'iso-3166-alpha-3' => 'DNK',
     'tld' => '.dk',
-    'name_full' => 'The Kingdom of Denmark',
-    'capital' => 'Copenhagen',
-    'emoji' => '🇩🇰',
-    'callingcode' => '45',
-    'currency' => 'DKK',
   ),
   'DM' => 
   array (
@@ -1940,11 +1650,6 @@
     'iso-3166-alpha-2' => 'DM',
     'iso-3166-alpha-3' => 'DMA',
     'tld' => '.dm',
-    'name_full' => 'The Commonwealth of Dominica',
-    'capital' => 'Roseau',
-    'emoji' => '🇩🇲',
-    'callingcode' => '1767',
-    'currency' => 'XCD',
   ),
   'DO' => 
   array (
@@ -1966,11 +1671,6 @@
     'iso-3166-alpha-2' => 'DO',
     'iso-3166-alpha-3' => 'DOM',
     'tld' => '.do',
-    'name_full' => 'The Dominican Republic',
-    'capital' => 'Santo Domingo',
-    'emoji' => '🇩🇴',
-    'callingcode' => '1809',
-    'currency' => 'DOP',
   ),
   'DZ' => 
   array (
@@ -1992,11 +1692,6 @@
     'iso-3166-alpha-2' => 'DZ',
     'iso-3166-alpha-3' => 'DZA',
     'tld' => '.dz',
-    'name_full' => 'People\'s Democratic Republic of Algeria',
-    'capital' => 'Algiers',
-    'emoji' => '🇩🇿',
-    'callingcode' => '213',
-    'currency' => 'DZD',
   ),
   'EC' => 
   array (
@@ -2023,11 +1718,6 @@
     'iso-3166-alpha-2' => 'EC',
     'iso-3166-alpha-3' => 'ECU',
     'tld' => '.ec',
-    'name_full' => 'The Republic of Ecuador',
-    'capital' => 'Quito',
-    'emoji' => '🇪🇨',
-    'callingcode' => '593',
-    'currency' => 'USD',
   ),
   'EE' => 
   array (
@@ -2049,11 +1739,6 @@
     'iso-3166-alpha-2' => 'EE',
     'iso-3166-alpha-3' => 'EST',
     'tld' => '.ee',
-    'name_full' => 'Republic of Estonia',
-    'capital' => 'Tallinn',
-    'emoji' => '🇪🇪',
-    'callingcode' => '372',
-    'currency' => 'EUR',
   ),
   'EG' => 
   array (
@@ -2075,11 +1760,6 @@
     'iso-3166-alpha-2' => 'EG',
     'iso-3166-alpha-3' => 'EGY',
     'tld' => '.eg',
-    'name_full' => 'the Arab Republic of Egypt ',
-    'capital' => 'Cairo',
-    'emoji' => '🇪🇬',
-    'callingcode' => '20',
-    'currency' => 'EGP',
   ),
   'EH' => 
   array (
@@ -2101,11 +1781,6 @@
     'iso-3166-alpha-2' => 'EH',
     'iso-3166-alpha-3' => 'ESH',
     'tld' => '.eh',
-    'name_full' => 'the Sahrawi Arab Democratic Republic Western Sahara',
-    'capital' => 'El Aaiún',
-    'emoji' => '🇪🇭',
-    'callingcode' => '212',
-    'currency' => 'DZD',
   ),
   'ER' => 
   array (
@@ -2127,11 +1802,6 @@
     'iso-3166-alpha-2' => 'ER',
     'iso-3166-alpha-3' => 'ERI',
     'tld' => '.er',
-    'name_full' => 'the Commonwealth of Eritrea',
-    'capital' => 'Asmara',
-    'emoji' => '🇪🇷',
-    'callingcode' => '291',
-    'currency' => 'ERN',
   ),
   'ES' => 
   array (
@@ -2161,13 +1831,8 @@
       1 => -4.0,
     ),
     'iso-3166-alpha-2' => NULL,
-    'iso-3166-alpha-3' => 'ESP',
-    'tld' => '.es',
-    'name_full' => 'The Kingdom of Spain',
-    'capital' => 'Madrid',
-    'emoji' => '🇪🇸',
-    'callingcode' => '34',
-    'currency' => 'EUR',
+    'iso-3166-alpha-3' => NULL,
+    'tld' => NULL,
   ),
   'ET' => 
   array (
@@ -2189,11 +1854,6 @@
     'iso-3166-alpha-2' => 'ET',
     'iso-3166-alpha-3' => 'ETH',
     'tld' => '.et',
-    'name_full' => 'The Federal Democratic Republic of Ethiopia',
-    'capital' => 'Addis Ababa',
-    'emoji' => '🇪🇹',
-    'callingcode' => '251',
-    'currency' => 'ETB',
   ),
   'FI' => 
   array (
@@ -2215,11 +1875,6 @@
     'iso-3166-alpha-2' => 'FI',
     'iso-3166-alpha-3' => 'FIN',
     'tld' => '.fi',
-    'name_full' => 'The Republic of Finland',
-    'capital' => 'Helsinki',
-    'emoji' => '🇫🇮',
-    'callingcode' => '358',
-    'currency' => 'EUR',
   ),
   'FJ' => 
   array (
@@ -2241,11 +1896,6 @@
     'iso-3166-alpha-2' => 'FJ',
     'iso-3166-alpha-3' => 'FJI',
     'tld' => '.fj',
-    'name_full' => 'The Republic of Fiji',
-    'capital' => 'Suva',
-    'emoji' => '🇫🇯',
-    'callingcode' => '679',
-    'currency' => 'FJD',
   ),
   'FK' => 
   array (
@@ -2267,11 +1917,6 @@
     'iso-3166-alpha-2' => 'FK',
     'iso-3166-alpha-3' => 'FLK',
     'tld' => '.fk',
-    'name_full' => 'Falkland Islands (Malvinas)',
-    'capital' => 'Stanley',
-    'emoji' => '🇫🇰',
-    'callingcode' => '500',
-    'currency' => 'FKP',
   ),
   'FM' => 
   array (
@@ -2303,11 +1948,6 @@
     'iso-3166-alpha-2' => 'FM',
     'iso-3166-alpha-3' => 'FSM',
     'tld' => '.fm',
-    'name_full' => 'Federated States of Micronesia',
-    'capital' => 'Palikir',
-    'emoji' => '🇫🇲',
-    'callingcode' => '691',
-    'currency' => 'USD',
   ),
   'FO' => 
   array (
@@ -2329,11 +1969,6 @@
     'iso-3166-alpha-2' => 'FO',
     'iso-3166-alpha-3' => 'FRO',
     'tld' => '.fo',
-    'name_full' => 'Faroe Islands',
-    'capital' => 'Tórshavn',
-    'emoji' => '🇫🇴',
-    'callingcode' => '298',
-    'currency' => 'DKK',
   ),
   'FR' => 
   array (
@@ -2355,11 +1990,6 @@
     'iso-3166-alpha-2' => 'FR',
     'iso-3166-alpha-3' => 'FRA',
     'tld' => '.fr',
-    'name_full' => 'The French Republic',
-    'capital' => 'Paris',
-    'emoji' => '🇫🇷',
-    'callingcode' => '33',
-    'currency' => 'EUR',
   ),
   'FX' => 
   array (
@@ -2397,11 +2027,6 @@
     'iso-3166-alpha-2' => 'GA',
     'iso-3166-alpha-3' => 'GAB',
     'tld' => '.ga',
-    'name_full' => 'The Gabonese Republic',
-    'capital' => 'Libreville',
-    'emoji' => '🇬🇦',
-    'callingcode' => '241',
-    'currency' => 'XAF',
   ),
   'GB' => 
   array (
@@ -2423,11 +2048,6 @@
     'iso-3166-alpha-2' => 'GB',
     'iso-3166-alpha-3' => 'GBR',
     'tld' => '.uk',
-    'name_full' => 'United Kingdom of Great Britain and Northern Ireland',
-    'capital' => 'London',
-    'emoji' => '🇬🇧',
-    'callingcode' => '44',
-    'currency' => 'GBP',
   ),
   'GD' => 
   array (
@@ -2449,11 +2069,6 @@
     'iso-3166-alpha-2' => 'GD',
     'iso-3166-alpha-3' => 'GRD',
     'tld' => '.gd',
-    'name_full' => 'Grenada',
-    'capital' => 'St. George\'s',
-    'emoji' => '🇬🇩',
-    'callingcode' => '1473',
-    'currency' => 'XCD',
   ),
   'GE' => 
   array (
@@ -2475,11 +2090,6 @@
     'iso-3166-alpha-2' => 'GE',
     'iso-3166-alpha-3' => 'GEO',
     'tld' => '.ge',
-    'name_full' => 'Georgia',
-    'capital' => 'Tbilisi',
-    'emoji' => '🇬🇪',
-    'callingcode' => '995',
-    'currency' => 'GEL',
   ),
   'GF' => 
   array (
@@ -2501,11 +2111,6 @@
     'iso-3166-alpha-2' => 'GF',
     'iso-3166-alpha-3' => 'GUF',
     'tld' => '.gf',
-    'name_full' => 'French Guiana',
-    'capital' => 'Cayenne',
-    'emoji' => '🇬🇫',
-    'callingcode' => '594',
-    'currency' => 'EUR',
   ),
   'GG' => 
   array (
@@ -2527,11 +2132,6 @@
     'iso-3166-alpha-2' => 'GG',
     'iso-3166-alpha-3' => 'GGY',
     'tld' => '.gg',
-    'name_full' => 'Bailiwick of Guernsey',
-    'capital' => 'St. Peter Port',
-    'emoji' => '🇬🇬',
-    'callingcode' => '44',
-    'currency' => 'GBP',
   ),
   'GH' => 
   array (
@@ -2553,11 +2153,6 @@
     'iso-3166-alpha-2' => 'GH',
     'iso-3166-alpha-3' => 'GHA',
     'tld' => '.gh',
-    'name_full' => 'The Republic of Ghana',
-    'capital' => 'Accra',
-    'emoji' => '🇬🇭',
-    'callingcode' => '233',
-    'currency' => 'GHS',
   ),
   'GI' => 
   array (
@@ -2579,11 +2174,6 @@
     'iso-3166-alpha-2' => 'GI',
     'iso-3166-alpha-3' => 'GIB',
     'tld' => '.gi',
-    'name_full' => 'Gibraltar',
-    'capital' => 'Gibraltar',
-    'emoji' => '🇬🇮',
-    'callingcode' => '350',
-    'currency' => 'GIP',
   ),
   'GL' => 
   array (
@@ -2620,11 +2210,6 @@
     'iso-3166-alpha-2' => 'GL',
     'iso-3166-alpha-3' => 'GRL',
     'tld' => '.gl',
-    'name_full' => 'Greenland',
-    'capital' => 'Nuuk',
-    'emoji' => '🇬🇱',
-    'callingcode' => '299',
-    'currency' => 'DKK',
   ),
   'GM' => 
   array (
@@ -2646,11 +2231,6 @@
     'iso-3166-alpha-2' => 'GM',
     'iso-3166-alpha-3' => 'GMB',
     'tld' => '.gm',
-    'name_full' => 'Republic of The Gambia',
-    'capital' => 'Banjul',
-    'emoji' => '🇬🇲',
-    'callingcode' => '220',
-    'currency' => 'GMD',
   ),
   'GN' => 
   array (
@@ -2672,11 +2252,6 @@
     'iso-3166-alpha-2' => 'GN',
     'iso-3166-alpha-3' => 'GIN',
     'tld' => '.gn',
-    'name_full' => 'The Republic of Guinea',
-    'capital' => 'Conakry',
-    'emoji' => '🇬🇳',
-    'callingcode' => '224',
-    'currency' => 'GNF',
   ),
   'GP' => 
   array (
@@ -2698,11 +2273,6 @@
     'iso-3166-alpha-2' => 'GP',
     'iso-3166-alpha-3' => 'GLP',
     'tld' => '.gp',
-    'name_full' => 'Guadeloupe ',
-    'capital' => 'Basse-Terre',
-    'emoji' => '🇬🇵',
-    'callingcode' => '590',
-    'currency' => 'EUR',
   ),
   'GQ' => 
   array (
@@ -2724,11 +2294,6 @@
     'iso-3166-alpha-2' => 'GQ',
     'iso-3166-alpha-3' => 'GNQ',
     'tld' => '.gq',
-    'name_full' => 'The Republic of Equatorial Guinea',
-    'capital' => 'Malabo',
-    'emoji' => '🇬🇶',
-    'callingcode' => '240',
-    'currency' => 'XAF',
   ),
   'GR' => 
   array (
@@ -2750,11 +2315,6 @@
     'iso-3166-alpha-2' => 'GR',
     'iso-3166-alpha-3' => 'GRC',
     'tld' => '.gr',
-    'name_full' => 'The Hellenic Republic',
-    'capital' => 'Athens',
-    'emoji' => '🇬🇷',
-    'callingcode' => '30',
-    'currency' => 'EUR',
   ),
   'GS' => 
   array (
@@ -2776,11 +2336,6 @@
     'iso-3166-alpha-2' => 'GS',
     'iso-3166-alpha-3' => 'SGS',
     'tld' => '.gs',
-    'name_full' => 'South Georgia and the South Sandwich Islands',
-    'capital' => 'King Edward Point',
-    'emoji' => '🇬🇸',
-    'callingcode' => '500',
-    'currency' => 'GBP',
   ),
   'GT' => 
   array (
@@ -2802,11 +2357,6 @@
     'iso-3166-alpha-2' => 'GT',
     'iso-3166-alpha-3' => 'GTM',
     'tld' => '.gt',
-    'name_full' => 'The Republic of Guatemala',
-    'capital' => 'Guatemala City',
-    'emoji' => '🇬🇹',
-    'callingcode' => '502',
-    'currency' => 'GTQ',
   ),
   'GU' => 
   array (
@@ -2828,11 +2378,6 @@
     'iso-3166-alpha-2' => 'GU',
     'iso-3166-alpha-3' => 'GUM',
     'tld' => '.gu',
-    'name_full' => 'The Territory of Guahan,Guam',
-    'capital' => 'Hagåtña',
-    'emoji' => '🇬🇺',
-    'callingcode' => '1671',
-    'currency' => 'USD',
   ),
   'GW' => 
   array (
@@ -2854,11 +2399,6 @@
     'iso-3166-alpha-2' => 'GW',
     'iso-3166-alpha-3' => 'GNB',
     'tld' => '.gw',
-    'name_full' => 'The Republic of Guinea-Bissau',
-    'capital' => 'Bissau',
-    'emoji' => '🇬🇼',
-    'callingcode' => '245',
-    'currency' => 'XOF',
   ),
   'GY' => 
   array (
@@ -2880,11 +2420,6 @@
     'iso-3166-alpha-2' => 'GY',
     'iso-3166-alpha-3' => 'GUY',
     'tld' => '.gy',
-    'name_full' => 'The Republic of Guyana',
-    'capital' => 'Georgetown',
-    'emoji' => '🇬🇾',
-    'callingcode' => '592',
-    'currency' => 'GYD',
   ),
   'HK' => 
   array (
@@ -2906,11 +2441,6 @@
     'iso-3166-alpha-2' => 'HK',
     'iso-3166-alpha-3' => 'HKG',
     'tld' => '.hk',
-    'name_full' => 'Hong Kong Special Administrative Region',
-    'capital' => 'City of Victoria',
-    'emoji' => '🇭🇰',
-    'callingcode' => '852',
-    'currency' => 'HKD',
   ),
   'HM' => 
   array (
@@ -2927,10 +2457,6 @@
     'timezone' => 
     array (
     ),
-    'name_full' => 'Heard Island and McDonald Islands',
-    'capital' => '',
-    'emoji' => '🇭🇲',
-    'currency' => 'AUD',
   ),
   'HN' => 
   array (
@@ -2952,11 +2478,6 @@
     'iso-3166-alpha-2' => 'HN',
     'iso-3166-alpha-3' => 'HND',
     'tld' => '.hn',
-    'name_full' => 'Republic of Honduras',
-    'capital' => 'Tegucigalpa',
-    'emoji' => '🇭🇳',
-    'callingcode' => '504',
-    'currency' => 'HNL',
   ),
   'HR' => 
   array (
@@ -2978,11 +2499,6 @@
     'iso-3166-alpha-2' => 'HR',
     'iso-3166-alpha-3' => 'HRV',
     'tld' => '.hr',
-    'name_full' => 'The Republic of Croatia',
-    'capital' => 'Zagreb',
-    'emoji' => '🇭🇷',
-    'callingcode' => '385',
-    'currency' => 'HRK',
   ),
   'HT' => 
   array (
@@ -3004,11 +2520,6 @@
     'iso-3166-alpha-2' => 'HT',
     'iso-3166-alpha-3' => 'HTI',
     'tld' => '.ht',
-    'name_full' => 'The Republic of Haiti',
-    'capital' => 'Port-au-Prince',
-    'emoji' => '🇭🇹',
-    'callingcode' => '509',
-    'currency' => 'HTG',
   ),
   'HU' => 
   array (
@@ -3030,11 +2541,6 @@
     'iso-3166-alpha-2' => 'HU',
     'iso-3166-alpha-3' => 'HUN',
     'tld' => '.hu',
-    'name_full' => 'Hungary',
-    'capital' => 'Budapest',
-    'emoji' => '🇭🇺',
-    'callingcode' => '36',
-    'currency' => 'HUF',
   ),
   'ID' => 
   array (
@@ -3071,11 +2577,6 @@
     'iso-3166-alpha-2' => 'ID',
     'iso-3166-alpha-3' => 'IDN',
     'tld' => '.id',
-    'name_full' => 'The Republic of Indonesia',
-    'capital' => 'Jakarta',
-    'emoji' => '🇮🇩',
-    'callingcode' => '62',
-    'currency' => 'IDR',
   ),
   'IE' => 
   array (
@@ -3097,11 +2598,6 @@
     'iso-3166-alpha-2' => 'IE',
     'iso-3166-alpha-3' => 'IRL',
     'tld' => '.ie',
-    'name_full' => 'The Republic of Ireland',
-    'capital' => 'Dublin',
-    'emoji' => '🇮🇪',
-    'callingcode' => '353',
-    'currency' => 'EUR',
   ),
   'IL' => 
   array (
@@ -3123,11 +2619,6 @@
     'iso-3166-alpha-2' => 'IL',
     'iso-3166-alpha-3' => 'ISR',
     'tld' => '.il',
-    'name_full' => 'The State of Israel',
-    'capital' => 'Jerusalem',
-    'emoji' => '🇮🇱',
-    'callingcode' => '972',
-    'currency' => 'ILS',
   ),
   'IM' => 
   array (
@@ -3149,11 +2640,6 @@
     'iso-3166-alpha-2' => 'IM',
     'iso-3166-alpha-3' => 'IMN',
     'tld' => '.im',
-    'name_full' => 'Isle of Man',
-    'capital' => 'Douglas',
-    'emoji' => '🇮🇲',
-    'callingcode' => '44',
-    'currency' => 'GBP',
   ),
   'IN' => 
   array (
@@ -3175,11 +2661,6 @@
     'iso-3166-alpha-2' => 'IN',
     'iso-3166-alpha-3' => 'IND',
     'tld' => '.in',
-    'name_full' => 'The Republic of India',
-    'capital' => 'New Delhi',
-    'emoji' => '🇮🇳',
-    'callingcode' => '91',
-    'currency' => 'INR',
   ),
   'IO' => 
   array (
@@ -3201,11 +2682,6 @@
     'iso-3166-alpha-2' => 'IO',
     'iso-3166-alpha-3' => 'IOT',
     'tld' => '.io',
-    'name_full' => 'British Indian Ocean Territory',
-    'capital' => 'Diego Garcia',
-    'emoji' => '🇮🇴',
-    'callingcode' => '246',
-    'currency' => 'GBP',
   ),
   'IQ' => 
   array (
@@ -3227,11 +2703,6 @@
     'iso-3166-alpha-2' => 'IQ',
     'iso-3166-alpha-3' => 'IRQ',
     'tld' => '.iq',
-    'name_full' => 'Republic Of Iraq',
-    'capital' => 'Baghdad',
-    'emoji' => '🇮🇶',
-    'callingcode' => '964',
-    'currency' => 'IQD',
   ),
   'IR' => 
   array (
@@ -3253,11 +2724,6 @@
     'iso-3166-alpha-2' => 'IR',
     'iso-3166-alpha-3' => 'IRN',
     'tld' => '.ir',
-    'name_full' => 'The Islamic Republic of Iran',
-    'capital' => 'Tehran',
-    'emoji' => '🇮🇷',
-    'callingcode' => '98',
-    'currency' => 'IRR',
   ),
   'IS' => 
   array (
@@ -3279,11 +2745,6 @@
     'iso-3166-alpha-2' => 'IS',
     'iso-3166-alpha-3' => 'ISL',
     'tld' => '.is',
-    'name_full' => 'The Republic of Iceland',
-    'capital' => 'Reykjavik',
-    'emoji' => '🇮🇸',
-    'callingcode' => '354',
-    'currency' => 'ISK',
   ),
   'IT' => 
   array (
@@ -3305,11 +2766,6 @@
     'iso-3166-alpha-2' => 'IT',
     'iso-3166-alpha-3' => 'ITA',
     'tld' => '.it',
-    'name_full' => 'The Republic of Italy',
-    'capital' => 'Rome',
-    'emoji' => '🇮🇹',
-    'callingcode' => '39',
-    'currency' => 'EUR',
   ),
   'JE' => 
   array (
@@ -3331,11 +2787,6 @@
     'iso-3166-alpha-2' => 'JE',
     'iso-3166-alpha-3' => 'JEY',
     'tld' => '.je',
-    'name_full' => 'Jersey',
-    'capital' => 'Saint Helier',
-    'emoji' => '🇯🇪',
-    'callingcode' => '44',
-    'currency' => 'GBP',
   ),
   'JM' => 
   array (
@@ -3357,11 +2808,6 @@
     'iso-3166-alpha-2' => 'JM',
     'iso-3166-alpha-3' => 'JAM',
     'tld' => '.jm',
-    'name_full' => 'Jamaica',
-    'capital' => 'Kingston',
-    'emoji' => '🇯🇲',
-    'callingcode' => '1876',
-    'currency' => 'JMD',
   ),
   'JO' => 
   array (
@@ -3383,11 +2829,6 @@
     'iso-3166-alpha-2' => 'JO',
     'iso-3166-alpha-3' => 'JOR',
     'tld' => '.jo',
-    'name_full' => 'The Hashemite Kingdom of Jordan',
-    'capital' => 'Amman',
-    'emoji' => '🇯🇴',
-    'callingcode' => '962',
-    'currency' => 'JOD',
   ),
   'JP' => 
   array (
@@ -3409,11 +2850,6 @@
     'iso-3166-alpha-2' => 'JP',
     'iso-3166-alpha-3' => 'JPN',
     'tld' => '.jp',
-    'name_full' => 'Japan',
-    'capital' => 'Tokyo',
-    'emoji' => '🇯🇵',
-    'callingcode' => '81',
-    'currency' => 'JPY',
   ),
   'KE' => 
   array (
@@ -3435,11 +2871,6 @@
     'iso-3166-alpha-2' => 'KE',
     'iso-3166-alpha-3' => 'KEN',
     'tld' => '.ke',
-    'name_full' => 'The Republic of Kenya',
-    'capital' => 'Nairobi',
-    'emoji' => '🇰🇪',
-    'callingcode' => '254',
-    'currency' => 'KES',
   ),
   'KG' => 
   array (
@@ -3461,11 +2892,6 @@
     'iso-3166-alpha-2' => 'KG',
     'iso-3166-alpha-3' => 'KGZ',
     'tld' => '.kg',
-    'name_full' => 'The Kyrgyz Republic',
-    'capital' => 'Bishkek',
-    'emoji' => '🇰🇬',
-    'callingcode' => '996',
-    'currency' => 'KGS',
   ),
   'KH' => 
   array (
@@ -3487,11 +2913,6 @@
     'iso-3166-alpha-2' => 'KH',
     'iso-3166-alpha-3' => 'KHM',
     'tld' => '.kh',
-    'name_full' => 'Kingdom of Cambodia',
-    'capital' => 'Phnom Penh',
-    'emoji' => '🇰🇭',
-    'callingcode' => '855',
-    'currency' => 'KHR',
   ),
   'KI' => 
   array (
@@ -3523,11 +2944,6 @@
     'iso-3166-alpha-2' => 'KI',
     'iso-3166-alpha-3' => 'KIR',
     'tld' => '.ki',
-    'name_full' => 'The Republic of Kiribati',
-    'capital' => 'South Tarawa',
-    'emoji' => '🇰🇮',
-    'callingcode' => '686',
-    'currency' => 'AUD',
   ),
   'KM' => 
   array (
@@ -3549,11 +2965,6 @@
     'iso-3166-alpha-2' => 'KM',
     'iso-3166-alpha-3' => 'COM',
     'tld' => '.km',
-    'name_full' => 'Union of Comoros',
-    'capital' => 'Moroni',
-    'emoji' => '🇰🇲',
-    'callingcode' => '269',
-    'currency' => 'KMF',
   ),
   'KN' => 
   array (
@@ -3575,11 +2986,6 @@
     'iso-3166-alpha-2' => 'KN',
     'iso-3166-alpha-3' => 'KNA',
     'tld' => '.kn',
-    'name_full' => 'Federation of Saint Christopher and Nevis',
-    'capital' => 'Basseterre',
-    'emoji' => '🇰🇳',
-    'callingcode' => '1869',
-    'currency' => 'XCD',
   ),
   'KP' => 
   array (
@@ -3601,11 +3007,6 @@
     'iso-3166-alpha-2' => 'KP',
     'iso-3166-alpha-3' => 'PRK',
     'tld' => '.kp',
-    'name_full' => 'Democratic People\'s Republic of Korea',
-    'capital' => 'Pyongyang',
-    'emoji' => '🇰🇵',
-    'callingcode' => '850',
-    'currency' => 'KPW',
   ),
   'KR' => 
   array (
@@ -3627,11 +3028,6 @@
     'iso-3166-alpha-2' => 'KR',
     'iso-3166-alpha-3' => 'KOR',
     'tld' => '.kr',
-    'name_full' => 'Republic of Korea',
-    'capital' => 'Seoul',
-    'emoji' => '🇰🇷',
-    'callingcode' => '82',
-    'currency' => 'KRW',
   ),
   'KW' => 
   array (
@@ -3651,13 +3047,8 @@
       1 => 47.75,
     ),
     'iso-3166-alpha-2' => NULL,
-    'iso-3166-alpha-3' => 'KWT',
-    'tld' => '.kw',
-    'name_full' => 'The State of Kuwait',
-    'capital' => 'Kuwait City',
-    'emoji' => '🇰🇼',
-    'callingcode' => '965',
-    'currency' => 'KWD',
+    'iso-3166-alpha-3' => NULL,
+    'tld' => NULL,
   ),
   'KY' => 
   array (
@@ -3679,11 +3070,6 @@
     'iso-3166-alpha-2' => 'KY',
     'iso-3166-alpha-3' => 'CYM',
     'tld' => '.ky',
-    'name_full' => 'Cayman Islands',
-    'capital' => 'George Town',
-    'emoji' => '🇰🇾',
-    'callingcode' => '1345',
-    'currency' => 'KYD',
   ),
   'KZ' => 
   array (
@@ -3725,11 +3111,6 @@
     'iso-3166-alpha-2' => 'KZ',
     'iso-3166-alpha-3' => 'KAZ',
     'tld' => '.kz',
-    'name_full' => 'The Republic of Kazakhstan',
-    'capital' => 'Astana',
-    'emoji' => '🇰🇿',
-    'callingcode' => '76',
-    'currency' => 'KZT',
   ),
   'LA' => 
   array (
@@ -3751,11 +3132,6 @@
     'iso-3166-alpha-2' => 'LA',
     'iso-3166-alpha-3' => 'LAO',
     'tld' => '.la',
-    'name_full' => 'Lao People\'s Democratic Republic',
-    'capital' => 'Vientiane',
-    'emoji' => '🇱🇦',
-    'callingcode' => '856',
-    'currency' => 'LAK',
   ),
   'LB' => 
   array (
@@ -3777,11 +3153,6 @@
     'iso-3166-alpha-2' => 'LB',
     'iso-3166-alpha-3' => 'LBN',
     'tld' => '.lb',
-    'name_full' => 'The Republic of Lebanon',
-    'capital' => 'Beirut',
-    'emoji' => '🇱🇧',
-    'callingcode' => '961',
-    'currency' => 'LBP',
   ),
   'LC' => 
   array (
@@ -3803,11 +3174,6 @@
     'iso-3166-alpha-2' => 'LC',
     'iso-3166-alpha-3' => 'LCA',
     'tld' => '.lc',
-    'name_full' => 'Saint Lucia , St. Lucia',
-    'capital' => 'Castries',
-    'emoji' => '🇱🇨',
-    'callingcode' => '1758',
-    'currency' => 'XCD',
   ),
   'LI' => 
   array (
@@ -3829,11 +3195,6 @@
     'iso-3166-alpha-2' => 'LI',
     'iso-3166-alpha-3' => 'LIE',
     'tld' => '.li',
-    'name_full' => 'Principality of Liechtenstein',
-    'capital' => 'Vaduz',
-    'emoji' => '🇱🇮',
-    'callingcode' => '423',
-    'currency' => 'CHF',
   ),
   'LK' => 
   array (
@@ -3855,11 +3216,6 @@
     'iso-3166-alpha-2' => 'LK',
     'iso-3166-alpha-3' => 'LKA',
     'tld' => '.lk',
-    'name_full' => 'The Democratic Socialist Republic of Sri Lanka',
-    'capital' => 'Colombo',
-    'emoji' => '🇱🇰',
-    'callingcode' => '94',
-    'currency' => 'LKR',
   ),
   'LR' => 
   array (
@@ -3881,11 +3237,6 @@
     'iso-3166-alpha-2' => 'LR',
     'iso-3166-alpha-3' => 'LBR',
     'tld' => '.lr',
-    'name_full' => 'The Republic of Liberia',
-    'capital' => 'Monrovia',
-    'emoji' => '🇱🇷',
-    'callingcode' => '231',
-    'currency' => 'LRD',
   ),
   'LS' => 
   array (
@@ -3907,11 +3258,6 @@
     'iso-3166-alpha-2' => 'LS',
     'iso-3166-alpha-3' => 'LSO',
     'tld' => '.ls',
-    'name_full' => 'The Kingdom of Lesotho',
-    'capital' => 'Maseru',
-    'emoji' => '🇱🇸',
-    'callingcode' => '266',
-    'currency' => 'LSL',
   ),
   'LT' => 
   array (
@@ -3933,11 +3279,6 @@
     'iso-3166-alpha-2' => 'LT',
     'iso-3166-alpha-3' => 'LTU',
     'tld' => '.lt',
-    'name_full' => 'The Republic of Lithuania',
-    'capital' => 'Vilnius',
-    'emoji' => '🇱🇹',
-    'callingcode' => '370',
-    'currency' => 'EUR',
   ),
   'LU' => 
   array (
@@ -3959,11 +3300,6 @@
     'iso-3166-alpha-2' => 'LU',
     'iso-3166-alpha-3' => 'LUX',
     'tld' => '.lu',
-    'name_full' => 'The Grand Duchy of Luxembourg',
-    'capital' => 'Luxembourg',
-    'emoji' => '🇱🇺',
-    'callingcode' => '352',
-    'currency' => 'EUR',
   ),
   'LV' => 
   array (
@@ -3985,11 +3321,6 @@
     'iso-3166-alpha-2' => 'LV',
     'iso-3166-alpha-3' => 'LVA',
     'tld' => '.lv',
-    'name_full' => 'Republic of Latvia',
-    'capital' => 'Riga',
-    'emoji' => '🇱🇻',
-    'callingcode' => '371',
-    'currency' => 'EUR',
   ),
   'LY' => 
   array (
@@ -4011,11 +3342,6 @@
     'iso-3166-alpha-2' => 'LY',
     'iso-3166-alpha-3' => 'LBY',
     'tld' => '.ly',
-    'name_full' => 'State of Libya',
-    'capital' => 'Tripoli',
-    'emoji' => '🇱🇾',
-    'callingcode' => '218',
-    'currency' => 'LYD',
   ),
   'MA' => 
   array (
@@ -4037,11 +3363,6 @@
     'iso-3166-alpha-2' => 'MA',
     'iso-3166-alpha-3' => 'MAR',
     'tld' => '.ma',
-    'name_full' => 'The Kingdom of Morocco',
-    'capital' => 'Rabat',
-    'emoji' => '🇲🇦',
-    'callingcode' => '212',
-    'currency' => 'MAD',
   ),
   'MC' => 
   array (
@@ -4063,11 +3384,6 @@
     'iso-3166-alpha-2' => 'MC',
     'iso-3166-alpha-3' => 'MCO',
     'tld' => '.mc',
-    'name_full' => 'The Principality of Monaco',
-    'capital' => 'Monaco',
-    'emoji' => '🇲🇨',
-    'callingcode' => '377',
-    'currency' => 'EUR',
   ),
   'MD' => 
   array (
@@ -4089,11 +3405,6 @@
     'iso-3166-alpha-2' => 'MD',
     'iso-3166-alpha-3' => 'MDA',
     'tld' => '.md',
-    'name_full' => 'The Republic of Moldova',
-    'capital' => 'Chișinău',
-    'emoji' => '🇲🇩',
-    'callingcode' => '373',
-    'currency' => 'MDL',
   ),
   'ME' => 
   array (
@@ -4115,18 +3426,13 @@
     'iso-3166-alpha-2' => 'ME',
     'iso-3166-alpha-3' => 'MNE',
     'tld' => '.me',
-    'name_full' => 'Montenegro',
-    'capital' => 'Podgorica',
-    'emoji' => '🇲🇪',
-    'callingcode' => '382',
-    'currency' => 'EUR',
   ),
   'MF' => 
   array (
     'name' => 'Saint Martin',
     'iso-3166-alpha-2' => 'MF',
     'iso-3166-alpha-3' => 'MAF',
-    'tld' => '.fr',
+    'tld' => '.gp',
     'continent' => '',
     'timezone' => 
     array (
@@ -4136,11 +3442,6 @@
       0 => NULL,
       1 => NULL,
     ),
-    'name_full' => 'Saint Martin',
-    'capital' => 'Marigot',
-    'emoji' => '🇲🇫',
-    'callingcode' => '590',
-    'currency' => 'EUR',
   ),
   'MG' => 
   array (
@@ -4162,11 +3463,6 @@
     'iso-3166-alpha-2' => 'MG',
     'iso-3166-alpha-3' => 'MDG',
     'tld' => '.mg',
-    'name_full' => 'the Republic of Madagascar ',
-    'capital' => 'Antananarivo',
-    'emoji' => '🇲🇬',
-    'callingcode' => '261',
-    'currency' => 'MGA',
   ),
   'MH' => 
   array (
@@ -4193,11 +3489,6 @@
     'iso-3166-alpha-2' => 'MH',
     'iso-3166-alpha-3' => 'MHL',
     'tld' => '.mh',
-    'name_full' => 'Republic of the Marshall Islands',
-    'capital' => 'Majuro',
-    'emoji' => '🇲🇭',
-    'callingcode' => '692',
-    'currency' => 'USD',
   ),
   'MK' => 
   array (
@@ -4219,11 +3510,6 @@
     'iso-3166-alpha-2' => 'MK',
     'iso-3166-alpha-3' => 'MKD',
     'tld' => '.mk',
-    'name_full' => 'Republic of North Macedonia',
-    'capital' => 'Skopje',
-    'emoji' => '🇲🇰',
-    'callingcode' => '389',
-    'currency' => 'MKD',
   ),
   'ML' => 
   array (
@@ -4245,11 +3531,6 @@
     'iso-3166-alpha-2' => 'ML',
     'iso-3166-alpha-3' => 'MLI',
     'tld' => '.ml',
-    'name_full' => 'The Republic of Mali',
-    'capital' => 'Bamako',
-    'emoji' => '🇲🇱',
-    'callingcode' => '223',
-    'currency' => 'XOF',
   ),
   'MM' => 
   array (
@@ -4271,11 +3552,6 @@
     'iso-3166-alpha-2' => 'MM',
     'iso-3166-alpha-3' => 'MMR',
     'tld' => '.mm',
-    'name_full' => 'Republic Of The Union Of Myanmar',
-    'capital' => 'Naypyidaw',
-    'emoji' => '🇲🇲',
-    'callingcode' => '95',
-    'currency' => 'MMK',
   ),
   'MN' => 
   array (
@@ -4307,11 +3583,6 @@
     'iso-3166-alpha-2' => 'MN',
     'iso-3166-alpha-3' => 'MNG',
     'tld' => '.mn',
-    'name_full' => 'Mongolia',
-    'capital' => 'Ulan Bator',
-    'emoji' => '🇲🇳',
-    'callingcode' => '976',
-    'currency' => 'MNT',
   ),
   'MO' => 
   array (
@@ -4333,11 +3604,6 @@
     'iso-3166-alpha-2' => 'MO',
     'iso-3166-alpha-3' => 'MAC',
     'tld' => '.mo',
-    'name_full' => 'Macao Special Administrative Region',
-    'capital' => '',
-    'emoji' => '🇲🇴',
-    'callingcode' => '853',
-    'currency' => 'MOP',
   ),
   'MP' => 
   array (
@@ -4359,11 +3625,6 @@
     'iso-3166-alpha-2' => 'MP',
     'iso-3166-alpha-3' => 'MNP',
     'tld' => '.mp',
-    'name_full' => 'Northern Mariana Islands',
-    'capital' => 'Saipan',
-    'emoji' => '🇲🇵',
-    'callingcode' => '1670',
-    'currency' => 'USD',
   ),
   'MQ' => 
   array (
@@ -4385,11 +3646,6 @@
     'iso-3166-alpha-2' => 'MQ',
     'iso-3166-alpha-3' => 'MTQ',
     'tld' => '.mq',
-    'name_full' => 'Martinique',
-    'capital' => 'Fort-de-France',
-    'emoji' => '🇲🇶',
-    'callingcode' => '596',
-    'currency' => 'EUR',
   ),
   'MR' => 
   array (
@@ -4411,11 +3667,6 @@
     'iso-3166-alpha-2' => 'MR',
     'iso-3166-alpha-3' => 'MRT',
     'tld' => '.mr',
-    'name_full' => 'The Islamic Republic of Mauritania',
-    'capital' => 'Nouakchott',
-    'emoji' => '🇲🇷',
-    'callingcode' => '222',
-    'currency' => 'MRO',
   ),
   'MS' => 
   array (
@@ -4437,11 +3688,6 @@
     'iso-3166-alpha-2' => 'MS',
     'iso-3166-alpha-3' => 'MSR',
     'tld' => '.ms',
-    'name_full' => 'Montserrat',
-    'capital' => 'Plymouth',
-    'emoji' => '🇲🇸',
-    'callingcode' => '1664',
-    'currency' => 'XCD',
   ),
   'MT' => 
   array (
@@ -4463,11 +3709,6 @@
     'iso-3166-alpha-2' => 'MT',
     'iso-3166-alpha-3' => 'MLT',
     'tld' => '.mt',
-    'name_full' => 'Republic of Malta',
-    'capital' => 'Valletta',
-    'emoji' => '🇲🇹',
-    'callingcode' => '356',
-    'currency' => 'EUR',
   ),
   'MU' => 
   array (
@@ -4489,11 +3730,6 @@
     'iso-3166-alpha-2' => 'MU',
     'iso-3166-alpha-3' => 'MUS',
     'tld' => '.mu',
-    'name_full' => 'the Republic of Mauritius',
-    'capital' => 'Port Louis',
-    'emoji' => '🇲🇺',
-    'callingcode' => '230',
-    'currency' => 'MUR',
   ),
   'MV' => 
   array (
@@ -4515,11 +3751,6 @@
     'iso-3166-alpha-2' => 'MV',
     'iso-3166-alpha-3' => 'MDV',
     'tld' => '.mv',
-    'name_full' => 'The Republic of Maldives',
-    'capital' => 'Malé',
-    'emoji' => '🇲🇻',
-    'callingcode' => '960',
-    'currency' => 'MVR',
   ),
   'MW' => 
   array (
@@ -4541,11 +3772,6 @@
     'iso-3166-alpha-2' => 'MW',
     'iso-3166-alpha-3' => 'MWI',
     'tld' => '.mw',
-    'name_full' => 'The Republic of Malawi',
-    'capital' => 'Lilongwe',
-    'emoji' => '🇲🇼',
-    'callingcode' => '265',
-    'currency' => 'MWK',
   ),
   'MX' => 
   array (
@@ -4602,11 +3828,6 @@
     'iso-3166-alpha-2' => 'MX',
     'iso-3166-alpha-3' => 'MEX',
     'tld' => '.mx',
-    'name_full' => 'The United States of Mexico',
-    'capital' => 'Mexico City',
-    'emoji' => '🇲🇽',
-    'callingcode' => '52',
-    'currency' => 'MXN',
   ),
   'MY' => 
   array (
@@ -4633,11 +3854,6 @@
     'iso-3166-alpha-2' => 'MY',
     'iso-3166-alpha-3' => 'MYS',
     'tld' => '.my',
-    'name_full' => 'Malaysia',
-    'capital' => 'Kuala Lumpur',
-    'emoji' => '🇲🇾',
-    'callingcode' => '60',
-    'currency' => 'MYR',
   ),
   'MZ' => 
   array (
@@ -4659,11 +3875,6 @@
     'iso-3166-alpha-2' => 'MZ',
     'iso-3166-alpha-3' => 'MOZ',
     'tld' => '.mz',
-    'name_full' => 'The Republic of Mozambique',
-    'capital' => 'Maputo',
-    'emoji' => '🇲🇿',
-    'callingcode' => '258',
-    'currency' => 'MZN',
   ),
   'NA' => 
   array (
@@ -4685,11 +3896,6 @@
     'iso-3166-alpha-2' => 'NA',
     'iso-3166-alpha-3' => 'NAM',
     'tld' => '.na',
-    'name_full' => 'The Republic of Namibia',
-    'capital' => 'Windhoek',
-    'emoji' => '🇳🇦',
-    'callingcode' => '264',
-    'currency' => 'NAD',
   ),
   'NC' => 
   array (
@@ -4711,11 +3917,6 @@
     'iso-3166-alpha-2' => 'NC',
     'iso-3166-alpha-3' => 'NCL',
     'tld' => '.nc',
-    'name_full' => 'New Caledonia',
-    'capital' => 'Nouméa',
-    'emoji' => '🇳🇨',
-    'callingcode' => '687',
-    'currency' => 'XPF',
   ),
   'NE' => 
   array (
@@ -4737,11 +3938,6 @@
     'iso-3166-alpha-2' => 'NE',
     'iso-3166-alpha-3' => 'NER',
     'tld' => '.ne',
-    'name_full' => 'The Republic of Niger',
-    'capital' => 'Niamey',
-    'emoji' => '🇳🇪',
-    'callingcode' => '227',
-    'currency' => 'XOF',
   ),
   'NF' => 
   array (
@@ -4763,11 +3959,6 @@
     'iso-3166-alpha-2' => 'NF',
     'iso-3166-alpha-3' => 'NFK',
     'tld' => '.nf',
-    'name_full' => 'Norfolk Island',
-    'capital' => 'Kingston',
-    'emoji' => '🇳🇫',
-    'callingcode' => '672',
-    'currency' => 'AUD',
   ),
   'NG' => 
   array (
@@ -4789,11 +3980,6 @@
     'iso-3166-alpha-2' => 'NG',
     'iso-3166-alpha-3' => 'NGA',
     'tld' => '.ng',
-    'name_full' => 'Federal Republic of Nigeria',
-    'capital' => 'Abuja',
-    'emoji' => '🇳🇬',
-    'callingcode' => '234',
-    'currency' => 'NGN',
   ),
   'NI' => 
   array (
@@ -4815,11 +4001,6 @@
     'iso-3166-alpha-2' => 'NI',
     'iso-3166-alpha-3' => 'NIC',
     'tld' => '.ni',
-    'name_full' => 'The Republic of Nicaragua',
-    'capital' => 'Managua',
-    'emoji' => '🇳🇮',
-    'callingcode' => '505',
-    'currency' => 'NIO',
   ),
   'NL' => 
   array (
@@ -4841,11 +4022,6 @@
     'iso-3166-alpha-2' => 'NL',
     'iso-3166-alpha-3' => 'NLD',
     'tld' => '.nl',
-    'name_full' => 'The Kingdom of Netherlands',
-    'capital' => 'Amsterdam',
-    'emoji' => '🇳🇱',
-    'callingcode' => '31',
-    'currency' => 'EUR',
   ),
   'NO' => 
   array (
@@ -4867,11 +4043,6 @@
     'iso-3166-alpha-2' => 'NO',
     'iso-3166-alpha-3' => 'NOR',
     'tld' => '.no',
-    'name_full' => 'The Kingdom of Norway',
-    'capital' => 'Oslo',
-    'emoji' => '🇳🇴',
-    'callingcode' => '47',
-    'currency' => 'NOK',
   ),
   'NP' => 
   array (
@@ -4893,11 +4064,6 @@
     'iso-3166-alpha-2' => 'NP',
     'iso-3166-alpha-3' => 'NPL',
     'tld' => '.np',
-    'name_full' => 'Federal Democratic Republic of Nepal',
-    'capital' => 'Kathmandu',
-    'emoji' => '🇳🇵',
-    'callingcode' => '977',
-    'currency' => 'NPR',
   ),
   'NR' => 
   array (
@@ -4919,11 +4085,6 @@
     'iso-3166-alpha-2' => 'NR',
     'iso-3166-alpha-3' => 'NRU',
     'tld' => '.nr',
-    'name_full' => 'The Republic of Nauru',
-    'capital' => 'Yaren',
-    'emoji' => '🇳🇷',
-    'callingcode' => '674',
-    'currency' => 'AUD',
   ),
   'NU' => 
   array (
@@ -4945,11 +4106,6 @@
     'iso-3166-alpha-2' => 'NU',
     'iso-3166-alpha-3' => 'NIU',
     'tld' => '.nu',
-    'name_full' => 'Niue',
-    'capital' => 'Alofi',
-    'emoji' => '🇳🇺',
-    'callingcode' => '683',
-    'currency' => 'NZD',
   ),
   'NZ' => 
   array (
@@ -4976,11 +4132,6 @@
     'iso-3166-alpha-2' => 'NZ',
     'iso-3166-alpha-3' => 'NZL',
     'tld' => '.nz',
-    'name_full' => 'New Zealand',
-    'capital' => 'Wellington',
-    'emoji' => '🇳🇿',
-    'callingcode' => '64',
-    'currency' => 'NZD',
   ),
   'OM' => 
   array (
@@ -5002,11 +4153,6 @@
     'iso-3166-alpha-2' => 'OM',
     'iso-3166-alpha-3' => 'OMN',
     'tld' => '.om',
-    'name_full' => 'Sultanate of Oman',
-    'capital' => 'Muscat',
-    'emoji' => '🇴🇲',
-    'callingcode' => '968',
-    'currency' => 'OMR',
   ),
   'PA' => 
   array (
@@ -5028,11 +4174,6 @@
     'iso-3166-alpha-2' => 'PA',
     'iso-3166-alpha-3' => 'PAN',
     'tld' => '.pa',
-    'name_full' => 'The Republic of Panama',
-    'capital' => 'Panama City',
-    'emoji' => '🇵🇦',
-    'callingcode' => '507',
-    'currency' => 'PAB',
   ),
   'PE' => 
   array (
@@ -5054,11 +4195,6 @@
     'iso-3166-alpha-2' => 'PE',
     'iso-3166-alpha-3' => 'PER',
     'tld' => '.pe',
-    'name_full' => 'The Republic of Peru',
-    'capital' => 'Lima',
-    'emoji' => '🇵🇪',
-    'callingcode' => '51',
-    'currency' => 'PEN',
   ),
   'PF' => 
   array (
@@ -5090,11 +4226,6 @@
     'iso-3166-alpha-2' => 'PF',
     'iso-3166-alpha-3' => 'PYF',
     'tld' => '.pf',
-    'name_full' => 'French Polynesia',
-    'capital' => 'Papeetē',
-    'emoji' => '🇵🇫',
-    'callingcode' => '689',
-    'currency' => 'XPF',
   ),
   'PG' => 
   array (
@@ -5116,11 +4247,6 @@
     'iso-3166-alpha-2' => 'PG',
     'iso-3166-alpha-3' => 'PNG',
     'tld' => '.pg',
-    'name_full' => 'The Independent State of Papua New Guinea',
-    'capital' => 'Port Moresby',
-    'emoji' => '🇵🇬',
-    'callingcode' => '675',
-    'currency' => 'PGK',
   ),
   'PH' => 
   array (
@@ -5142,11 +4268,6 @@
     'iso-3166-alpha-2' => 'PH',
     'iso-3166-alpha-3' => 'PHL',
     'tld' => '.ph',
-    'name_full' => 'Republic of the Philippines',
-    'capital' => 'Manila',
-    'emoji' => '🇵🇭',
-    'callingcode' => '63',
-    'currency' => 'PHP',
   ),
   'PK' => 
   array (
@@ -5168,11 +4289,6 @@
     'iso-3166-alpha-2' => 'PK',
     'iso-3166-alpha-3' => 'PAK',
     'tld' => '.pk',
-    'name_full' => 'the Islamic Republic of Pakistan',
-    'capital' => 'Islamabad',
-    'emoji' => '🇵🇰',
-    'callingcode' => '92',
-    'currency' => 'PKR',
   ),
   'PL' => 
   array (
@@ -5194,11 +4310,6 @@
     'iso-3166-alpha-2' => 'PL',
     'iso-3166-alpha-3' => 'POL',
     'tld' => '.pl',
-    'name_full' => 'The Republic of Poland',
-    'capital' => 'Warsaw',
-    'emoji' => '🇵🇱',
-    'callingcode' => '48',
-    'currency' => 'PLN',
   ),
   'PM' => 
   array (
@@ -5220,11 +4331,6 @@
     'iso-3166-alpha-2' => 'PM',
     'iso-3166-alpha-3' => 'SPM',
     'tld' => '.pm',
-    'name_full' => 'Saint Pierre and Miquelon',
-    'capital' => 'Saint-Pierre',
-    'emoji' => '🇵🇲',
-    'callingcode' => '508',
-    'currency' => 'EUR',
   ),
   'PN' => 
   array (
@@ -5246,11 +4352,6 @@
     'iso-3166-alpha-2' => 'PN',
     'iso-3166-alpha-3' => 'PCN',
     'tld' => '.pn',
-    'name_full' => 'Pitcairn Islands',
-    'capital' => 'Adamstown',
-    'emoji' => '🇵🇳',
-    'callingcode' => '64',
-    'currency' => 'NZD',
   ),
   'PR' => 
   array (
@@ -5272,11 +4373,6 @@
     'iso-3166-alpha-2' => 'PR',
     'iso-3166-alpha-3' => 'PRI',
     'tld' => '.pr',
-    'name_full' => 'The Commonwealth of Puerto Rico',
-    'capital' => 'San Juan',
-    'emoji' => '🇵🇷',
-    'callingcode' => '1787',
-    'currency' => 'USD',
   ),
   'PS' => 
   array (
@@ -5298,11 +4394,6 @@
     'iso-3166-alpha-2' => 'PS',
     'iso-3166-alpha-3' => 'PSE',
     'tld' => '.ps',
-    'name_full' => 'The State of Palestine',
-    'capital' => 'Ramallah',
-    'emoji' => '🇵🇸',
-    'callingcode' => '970',
-    'currency' => 'ILS',
   ),
   'PT' => 
   array (
@@ -5334,11 +4425,6 @@
     'iso-3166-alpha-2' => 'PT',
     'iso-3166-alpha-3' => 'PRT',
     'tld' => '.pt',
-    'name_full' => 'Portugal,the Portuguese Republic',
-    'capital' => 'Lisbon',
-    'emoji' => '🇵🇹',
-    'callingcode' => '351',
-    'currency' => 'EUR',
   ),
   'PW' => 
   array (
@@ -5360,11 +4446,6 @@
     'iso-3166-alpha-2' => 'PW',
     'iso-3166-alpha-3' => 'PLW',
     'tld' => '.pw',
-    'name_full' => 'The Republic of Palau',
-    'capital' => 'Ngerulmud',
-    'emoji' => '🇵🇼',
-    'callingcode' => '680',
-    'currency' => 'USD',
   ),
   'PY' => 
   array (
@@ -5386,11 +4467,6 @@
     'iso-3166-alpha-2' => 'PY',
     'iso-3166-alpha-3' => 'PRY',
     'tld' => '.py',
-    'name_full' => 'The Republic of Paraguay',
-    'capital' => 'Asunción',
-    'emoji' => '🇵🇾',
-    'callingcode' => '595',
-    'currency' => 'PYG',
   ),
   'QA' => 
   array (
@@ -5412,11 +4488,6 @@
     'iso-3166-alpha-2' => 'QA',
     'iso-3166-alpha-3' => 'QAT',
     'tld' => '.qa',
-    'name_full' => 'The State of Qatar',
-    'capital' => 'Doha',
-    'emoji' => '🇶🇦',
-    'callingcode' => '974',
-    'currency' => 'QAR',
   ),
   'RE' => 
   array (
@@ -5438,11 +4509,6 @@
     'iso-3166-alpha-2' => 'RE',
     'iso-3166-alpha-3' => 'REU',
     'tld' => '.re',
-    'name_full' => 'Reunion Island',
-    'capital' => 'Saint-Denis',
-    'emoji' => '🇷🇪',
-    'callingcode' => '262',
-    'currency' => 'EUR',
   ),
   'RO' => 
   array (
@@ -5464,11 +4530,6 @@
     'iso-3166-alpha-2' => 'RO',
     'iso-3166-alpha-3' => 'ROU',
     'tld' => '.ro',
-    'name_full' => 'Romania',
-    'capital' => 'Bucharest',
-    'emoji' => '🇷🇴',
-    'callingcode' => '40',
-    'currency' => 'RON',
   ),
   'RS' => 
   array (
@@ -5490,11 +4551,6 @@
     'iso-3166-alpha-2' => 'RS',
     'iso-3166-alpha-3' => 'SRB',
     'tld' => '.rs',
-    'name_full' => 'Republic of Serbia',
-    'capital' => 'Belgrade',
-    'emoji' => '🇷🇸',
-    'callingcode' => '381',
-    'currency' => 'RSD',
   ),
   'RU' => 
   array (
@@ -5586,11 +4642,6 @@
     'iso-3166-alpha-2' => 'RU',
     'iso-3166-alpha-3' => 'RUS',
     'tld' => '.ru',
-    'name_full' => 'Russian Federation',
-    'capital' => 'Moscow',
-    'emoji' => '🇷🇺',
-    'callingcode' => '7',
-    'currency' => 'RUB',
   ),
   'RW' => 
   array (
@@ -5612,11 +4663,6 @@
     'iso-3166-alpha-2' => 'RW',
     'iso-3166-alpha-3' => 'RWA',
     'tld' => '.rw',
-    'name_full' => 'the Republic of Rwanda',
-    'capital' => 'Kigali',
-    'emoji' => '🇷🇼',
-    'callingcode' => '250',
-    'currency' => 'RWF',
   ),
   'SA' => 
   array (
@@ -5638,11 +4684,6 @@
     'iso-3166-alpha-2' => 'SA',
     'iso-3166-alpha-3' => 'SAU',
     'tld' => '.sa',
-    'name_full' => 'Kingdom of Saudi Arabia',
-    'capital' => 'Riyadh',
-    'emoji' => '🇸🇦',
-    'callingcode' => '966',
-    'currency' => 'SAR',
   ),
   'SB' => 
   array (
@@ -5664,11 +4705,6 @@
     'iso-3166-alpha-2' => 'SB',
     'iso-3166-alpha-3' => 'SLB',
     'tld' => '.sb',
-    'name_full' => 'Solomon Islands',
-    'capital' => 'Honiara',
-    'emoji' => '🇸🇧',
-    'callingcode' => '677',
-    'currency' => 'SBD',
   ),
   'SC' => 
   array (
@@ -5690,11 +4726,6 @@
     'iso-3166-alpha-2' => 'SC',
     'iso-3166-alpha-3' => 'SYC',
     'tld' => '.sc',
-    'name_full' => 'the Republic of Seychelles',
-    'capital' => 'Victoria',
-    'emoji' => '🇸🇨',
-    'callingcode' => '248',
-    'currency' => 'SCR',
   ),
   'SD' => 
   array (
@@ -5716,11 +4747,6 @@
     'iso-3166-alpha-2' => 'SD',
     'iso-3166-alpha-3' => 'SDN',
     'tld' => '.sd',
-    'name_full' => 'The Republic of Sudan',
-    'capital' => 'Khartoum',
-    'emoji' => '🇸🇩',
-    'callingcode' => '249',
-    'currency' => 'SDG',
   ),
   'SE' => 
   array (
@@ -5742,11 +4768,6 @@
     'iso-3166-alpha-2' => 'SE',
     'iso-3166-alpha-3' => 'SWE',
     'tld' => '.se',
-    'name_full' => 'The Kingdom of Sweden',
-    'capital' => 'Stockholm',
-    'emoji' => '🇸🇪',
-    'callingcode' => '46',
-    'currency' => 'SEK',
   ),
   'SG' => 
   array (
@@ -5768,11 +4789,6 @@
     'iso-3166-alpha-2' => 'SG',
     'iso-3166-alpha-3' => 'SGP',
     'tld' => '.sg',
-    'name_full' => 'Republic of Singapore',
-    'capital' => 'Singapore',
-    'emoji' => '🇸🇬',
-    'callingcode' => '65',
-    'currency' => 'SGD',
   ),
   'SH' => 
   array (
@@ -5794,10 +4810,6 @@
     'iso-3166-alpha-2' => 'SH',
     'iso-3166-alpha-3' => 'SHN',
     'tld' => '.sh',
-    'name_full' => 'Saint Helena',
-    'capital' => NULL,
-    'emoji' => '🇸🇭',
-    'currency' => 'SHP',
   ),
   'SI' => 
   array (
@@ -5819,11 +4831,6 @@
     'iso-3166-alpha-2' => 'SI',
     'iso-3166-alpha-3' => 'SVN',
     'tld' => '.si',
-    'name_full' => 'The Republic of Slovenia',
-    'capital' => 'Ljubljana',
-    'emoji' => '🇸🇮',
-    'callingcode' => '386',
-    'currency' => 'EUR',
   ),
   'SJ' => 
   array (
@@ -5850,11 +4857,6 @@
     'iso-3166-alpha-2' => 'SJ',
     'iso-3166-alpha-3' => 'SJM',
     'tld' => '.sj',
-    'name_full' => 'Svalbard and Jan Mayen Islands',
-    'capital' => 'Longyearbyen',
-    'emoji' => '🇸🇯',
-    'callingcode' => '4779',
-    'currency' => 'NOK',
   ),
   'SK' => 
   array (
@@ -5876,11 +4878,6 @@
     'iso-3166-alpha-2' => 'SK',
     'iso-3166-alpha-3' => 'SVK',
     'tld' => '.sk',
-    'name_full' => 'Slovak Republic',
-    'capital' => 'Bratislava',
-    'emoji' => '🇸🇰',
-    'callingcode' => '421',
-    'currency' => 'EUR',
   ),
   'SL' => 
   array (
@@ -5902,11 +4899,6 @@
     'iso-3166-alpha-2' => 'SL',
     'iso-3166-alpha-3' => 'SLE',
     'tld' => '.sl',
-    'name_full' => 'The Republic of Sierra Leone',
-    'capital' => 'Freetown',
-    'emoji' => '🇸🇱',
-    'callingcode' => '232',
-    'currency' => 'SLL',
   ),
   'SM' => 
   array (
@@ -5928,11 +4920,6 @@
     'iso-3166-alpha-2' => 'SM',
     'iso-3166-alpha-3' => 'SMR',
     'tld' => '.sm',
-    'name_full' => 'The Republic of San Marino',
-    'capital' => 'City of San Marino',
-    'emoji' => '🇸🇲',
-    'callingcode' => '378',
-    'currency' => 'EUR',
   ),
   'SN' => 
   array (
@@ -5954,11 +4941,6 @@
     'iso-3166-alpha-2' => 'SN',
     'iso-3166-alpha-3' => 'SEN',
     'tld' => '.sn',
-    'name_full' => 'the Republic of Senegal',
-    'capital' => 'Dakar',
-    'emoji' => '🇸🇳',
-    'callingcode' => '221',
-    'currency' => 'XOF',
   ),
   'SO' => 
   array (
@@ -5980,11 +4962,6 @@
     'iso-3166-alpha-2' => 'SO',
     'iso-3166-alpha-3' => 'SOM',
     'tld' => '.so',
-    'name_full' => 'The Somalia Democratic Republic',
-    'capital' => 'Mogadishu',
-    'emoji' => '🇸🇴',
-    'callingcode' => '252',
-    'currency' => 'SOS',
   ),
   'SR' => 
   array (
@@ -6006,18 +4983,13 @@
     'iso-3166-alpha-2' => 'SR',
     'iso-3166-alpha-3' => 'SUR',
     'tld' => '.sr',
-    'name_full' => 'The Republic of Suriname',
-    'capital' => 'Paramaribo',
-    'emoji' => '🇸🇷',
-    'callingcode' => '597',
-    'currency' => 'SRD',
   ),
   'SS' => 
   array (
     'name' => 'South Sudan',
     'iso-3166-alpha-2' => 'SS',
     'iso-3166-alpha-3' => 'SSD',
-    'tld' => '.ss',
+    'tld' => 'Spain',
     'continent' => '',
     'timezone' => 
     array (
@@ -6027,11 +4999,6 @@
       0 => NULL,
       1 => NULL,
     ),
-    'name_full' => 'Republic of South Sudan',
-    'capital' => 'Juba',
-    'emoji' => '🇸🇸',
-    'callingcode' => '211',
-    'currency' => 'SSP',
   ),
   'ST' => 
   array (
@@ -6053,11 +5020,6 @@
     'iso-3166-alpha-2' => 'ST',
     'iso-3166-alpha-3' => 'STP',
     'tld' => '.st',
-    'name_full' => 'the Democratic Republic Sao Tome and Principe',
-    'capital' => 'São Tomé',
-    'emoji' => '🇸🇹',
-    'callingcode' => '239',
-    'currency' => 'STD',
   ),
   'SV' => 
   array (
@@ -6079,11 +5041,6 @@
     'iso-3166-alpha-2' => 'SV',
     'iso-3166-alpha-3' => 'SLV',
     'tld' => '.sv',
-    'name_full' => 'The Republic of El Salvador',
-    'capital' => 'San Salvador',
-    'emoji' => '🇸🇻',
-    'callingcode' => '503',
-    'currency' => 'SVC',
   ),
   'SX' => 
   array (
@@ -6100,11 +5057,6 @@
       0 => NULL,
       1 => NULL,
     ),
-    'name_full' => 'Sint Maarten',
-    'capital' => 'Philipsburg',
-    'emoji' => '🇸🇽',
-    'callingcode' => '1721',
-    'currency' => 'ANG',
   ),
   'SY' => 
   array (
@@ -6126,11 +5078,6 @@
     'iso-3166-alpha-2' => 'SY',
     'iso-3166-alpha-3' => 'SYR',
     'tld' => '.sy',
-    'name_full' => 'Syrian Arab Republic',
-    'capital' => 'Damascus',
-    'emoji' => '🇸🇾',
-    'callingcode' => '963',
-    'currency' => 'SYP',
   ),
   'SZ' => 
   array (
@@ -6152,11 +5099,6 @@
     'iso-3166-alpha-2' => 'SZ',
     'iso-3166-alpha-3' => 'SWZ',
     'tld' => '.sz',
-    'name_full' => 'Kingdom of Eswatini',
-    'capital' => 'Lobamba',
-    'emoji' => '🇸🇿',
-    'callingcode' => '268',
-    'currency' => 'SZL',
   ),
   'TC' => 
   array (
@@ -6178,11 +5120,6 @@
     'iso-3166-alpha-2' => 'TC',
     'iso-3166-alpha-3' => 'TCA',
     'tld' => '.tc',
-    'name_full' => 'Turks and Caicos Islands',
-    'capital' => 'Cockburn Town',
-    'emoji' => '🇹🇨',
-    'callingcode' => '1649',
-    'currency' => 'USD',
   ),
   'TD' => 
   array (
@@ -6204,11 +5141,6 @@
     'iso-3166-alpha-2' => 'TD',
     'iso-3166-alpha-3' => 'TCD',
     'tld' => '.td',
-    'name_full' => 'The Republic of Chad',
-    'capital' => 'N\'Djamena',
-    'emoji' => '🇹🇩',
-    'callingcode' => '235',
-    'currency' => 'XAF',
   ),
   'TF' => 
   array (
@@ -6230,10 +5162,6 @@
     'iso-3166-alpha-2' => 'TF',
     'iso-3166-alpha-3' => 'ATF',
     'tld' => '.tf',
-    'name_full' => 'French Southern Territories',
-    'capital' => 'Port-aux-Français',
-    'emoji' => '🇹🇫',
-    'currency' => 'EUR',
   ),
   'TG' => 
   array (
@@ -6255,11 +5183,6 @@
     'iso-3166-alpha-2' => 'TG',
     'iso-3166-alpha-3' => 'TGO',
     'tld' => '.tg',
-    'name_full' => 'The Republic of Togo',
-    'capital' => 'Lomé',
-    'emoji' => '🇹🇬',
-    'callingcode' => '228',
-    'currency' => 'XOF',
   ),
   'TH' => 
   array (
@@ -6281,11 +5204,6 @@
     'iso-3166-alpha-2' => 'TH',
     'iso-3166-alpha-3' => 'THA',
     'tld' => '.th',
-    'name_full' => 'Kingdom of Thailand',
-    'capital' => 'Bangkok',
-    'emoji' => '🇹🇭',
-    'callingcode' => '66',
-    'currency' => 'THB',
   ),
   'TJ' => 
   array (
@@ -6307,11 +5225,6 @@
     'iso-3166-alpha-2' => 'TJ',
     'iso-3166-alpha-3' => 'TJK',
     'tld' => '.tj',
-    'name_full' => 'The Republic of Tajikistan',
-    'capital' => 'Dushanbe',
-    'emoji' => '🇹🇯',
-    'callingcode' => '992',
-    'currency' => 'TJS',
   ),
   'TK' => 
   array (
@@ -6333,11 +5246,6 @@
     'iso-3166-alpha-2' => 'TK',
     'iso-3166-alpha-3' => 'TKL',
     'tld' => '.tk',
-    'name_full' => 'Tokelau',
-    'capital' => 'Fakaofo',
-    'emoji' => '🇹🇰',
-    'callingcode' => '690',
-    'currency' => 'NZD',
   ),
   'TL' => 
   array (
@@ -6359,11 +5267,6 @@
     'iso-3166-alpha-2' => 'TL',
     'iso-3166-alpha-3' => 'TLS',
     'tld' => '.tl',
-    'name_full' => 'Democratic Republic of East Timor',
-    'capital' => 'Dili',
-    'emoji' => '🇹🇱',
-    'callingcode' => '670',
-    'currency' => 'USD',
   ),
   'TM' => 
   array (
@@ -6385,11 +5288,6 @@
     'iso-3166-alpha-2' => 'TM',
     'iso-3166-alpha-3' => 'TKM',
     'tld' => '.tm',
-    'name_full' => 'Turkmenistan',
-    'capital' => 'Ashgabat',
-    'emoji' => '🇹🇲',
-    'callingcode' => '993',
-    'currency' => 'TMT',
   ),
   'TN' => 
   array (
@@ -6411,11 +5309,6 @@
     'iso-3166-alpha-2' => 'TN',
     'iso-3166-alpha-3' => 'TUN',
     'tld' => '.tn',
-    'name_full' => 'The Republic of Tunisia',
-    'capital' => 'Tunis',
-    'emoji' => '🇹🇳',
-    'callingcode' => '216',
-    'currency' => 'TND',
   ),
   'TO' => 
   array (
@@ -6437,11 +5330,6 @@
     'iso-3166-alpha-2' => 'TO',
     'iso-3166-alpha-3' => 'TON',
     'tld' => '.to',
-    'name_full' => 'The Kingdom of Tonga',
-    'capital' => 'Nuku\'alofa',
-    'emoji' => '🇹🇴',
-    'callingcode' => '676',
-    'currency' => 'TOP',
   ),
   'TP' => 
   array (
@@ -6484,11 +5372,6 @@
     'iso-3166-alpha-2' => 'TR',
     'iso-3166-alpha-3' => 'TUR',
     'tld' => '.tr',
-    'name_full' => 'The Republic of Turkey',
-    'capital' => 'Ankara',
-    'emoji' => '🇹🇷',
-    'callingcode' => '90',
-    'currency' => 'TRY',
   ),
   'TT' => 
   array (
@@ -6510,11 +5393,6 @@
     'iso-3166-alpha-2' => 'TT',
     'iso-3166-alpha-3' => 'TTO',
     'tld' => '.tt',
-    'name_full' => 'Republic of Trinidad and Tobago',
-    'capital' => 'Port of Spain',
-    'emoji' => '🇹🇹',
-    'callingcode' => '1868',
-    'currency' => 'TTD',
   ),
   'TV' => 
   array (
@@ -6536,11 +5414,6 @@
     'iso-3166-alpha-2' => 'TV',
     'iso-3166-alpha-3' => 'TUV',
     'tld' => '.tv',
-    'name_full' => 'Tuvalu',
-    'capital' => 'Funafuti',
-    'emoji' => '🇹🇻',
-    'callingcode' => '688',
-    'currency' => 'AUD',
   ),
   'TW' => 
   array (
@@ -6562,11 +5435,6 @@
     'iso-3166-alpha-2' => 'TW',
     'iso-3166-alpha-3' => 'TWN',
     'tld' => '.tw',
-    'name_full' => 'Taiwan',
-    'capital' => 'Taipei',
-    'emoji' => '🇹🇼',
-    'callingcode' => '886',
-    'currency' => 'TWD',
   ),
   'TZ' => 
   array (
@@ -6588,11 +5456,6 @@
     'iso-3166-alpha-2' => 'TZ',
     'iso-3166-alpha-3' => 'TZA',
     'tld' => '.tz',
-    'name_full' => 'The United Republic of Tanzania',
-    'capital' => 'Dodoma',
-    'emoji' => '🇹🇿',
-    'callingcode' => '255',
-    'currency' => 'TZS',
   ),
   'UA' => 
   array (
@@ -6629,11 +5492,6 @@
     'iso-3166-alpha-2' => 'UA',
     'iso-3166-alpha-3' => 'UKR',
     'tld' => '.ua',
-    'name_full' => 'Ukraine',
-    'capital' => 'Kyiv',
-    'emoji' => '🇺🇦',
-    'callingcode' => '380',
-    'currency' => 'UAH',
   ),
   'UG' => 
   array (
@@ -6655,11 +5513,6 @@
     'iso-3166-alpha-2' => 'UG',
     'iso-3166-alpha-3' => 'UGA',
     'tld' => '.ug',
-    'name_full' => 'The Republic of Uganda',
-    'capital' => 'Kampala',
-    'emoji' => '🇺🇬',
-    'callingcode' => '256',
-    'currency' => 'UGX',
   ),
   'UM' => 
   array (
@@ -6690,12 +5543,7 @@
     ),
     'iso-3166-alpha-2' => 'UM',
     'iso-3166-alpha-3' => 'UMI',
-    'tld' => '.us',
-    'name_full' => 'United States Minor Outlying Islands',
-    'capital' => '',
-    'emoji' => '🇺🇲',
-    'callingcode' => '246',
-    'currency' => 'USD',
+    'tld' => '.um',
   ),
   'US' => 
   array (
@@ -6847,11 +5695,6 @@
     'iso-3166-alpha-2' => 'US',
     'iso-3166-alpha-3' => 'USA',
     'tld' => '.us',
-    'name_full' => 'The United States of America',
-    'capital' => 'Washington D.C.',
-    'emoji' => '🇺🇸',
-    'callingcode' => '1',
-    'currency' => 'USD',
   ),
   'UY' => 
   array (
@@ -6873,11 +5716,6 @@
     'iso-3166-alpha-2' => 'UY',
     'iso-3166-alpha-3' => 'URY',
     'tld' => '.uy',
-    'name_full' => 'The Oriental Republic of Uruguay',
-    'capital' => 'Montevideo',
-    'emoji' => '🇺🇾',
-    'callingcode' => '598',
-    'currency' => 'UYU',
   ),
   'UZ' => 
   array (
@@ -6904,11 +5742,6 @@
     'iso-3166-alpha-2' => 'UZ',
     'iso-3166-alpha-3' => 'UZB',
     'tld' => '.uz',
-    'name_full' => 'The Republic of Uzbekistan',
-    'capital' => 'Tashkent',
-    'emoji' => '🇺🇿',
-    'callingcode' => '998',
-    'currency' => 'UZS',
   ),
   'VA' => 
   array (
@@ -6930,11 +5763,6 @@
     'iso-3166-alpha-2' => 'VA',
     'iso-3166-alpha-3' => 'VAT',
     'tld' => '.va',
-    'name_full' => 'Vatican City State',
-    'capital' => 'Vatican City',
-    'emoji' => '🇻🇦',
-    'callingcode' => '3906698',
-    'currency' => 'EUR',
   ),
   'VC' => 
   array (
@@ -6956,11 +5784,6 @@
     'iso-3166-alpha-2' => 'VC',
     'iso-3166-alpha-3' => 'VCT',
     'tld' => '.vc',
-    'name_full' => 'Saint Vincent and the Grenadines',
-    'capital' => 'Kingstown',
-    'emoji' => '🇻🇨',
-    'callingcode' => '1784',
-    'currency' => 'XCD',
   ),
   'VE' => 
   array (
@@ -6982,11 +5805,6 @@
     'iso-3166-alpha-2' => 'VE',
     'iso-3166-alpha-3' => 'VEN',
     'tld' => '.ve',
-    'name_full' => 'Bolivarian Republic of Venezuela',
-    'capital' => 'Caracas',
-    'emoji' => '🇻🇪',
-    'callingcode' => '58',
-    'currency' => 'VEF',
   ),
   'VG' => 
   array (
@@ -7008,11 +5826,6 @@
     'iso-3166-alpha-2' => 'VG',
     'iso-3166-alpha-3' => 'VGB',
     'tld' => '.vg',
-    'name_full' => 'British Virgin Islands',
-    'capital' => 'Road Town',
-    'emoji' => '🇻🇬',
-    'callingcode' => '1284',
-    'currency' => 'USD',
   ),
   'VI' => 
   array (
@@ -7034,11 +5847,6 @@
     'iso-3166-alpha-2' => 'VI',
     'iso-3166-alpha-3' => 'VIR',
     'tld' => '.vi',
-    'name_full' => 'United States Virgin Islands',
-    'capital' => 'Charlotte Amalie',
-    'emoji' => '🇻🇮',
-    'callingcode' => '1340',
-    'currency' => 'USD',
   ),
   'VN' => 
   array (
@@ -7060,11 +5868,6 @@
     'iso-3166-alpha-2' => 'VN',
     'iso-3166-alpha-3' => 'VNM',
     'tld' => '.vn',
-    'name_full' => 'Socialist Republic of Vietnam',
-    'capital' => 'Hanoi',
-    'emoji' => '🇻🇳',
-    'callingcode' => '84',
-    'currency' => 'VND',
   ),
   'VU' => 
   array (
@@ -7086,11 +5889,6 @@
     'iso-3166-alpha-2' => 'VU',
     'iso-3166-alpha-3' => 'VUT',
     'tld' => '.vu',
-    'name_full' => 'Republic of Vanuatu',
-    'capital' => 'Port Vila',
-    'emoji' => '🇻🇺',
-    'callingcode' => '678',
-    'currency' => 'VUV',
   ),
   'WF' => 
   array (
@@ -7112,11 +5910,6 @@
     'iso-3166-alpha-2' => 'WF',
     'iso-3166-alpha-3' => 'WLF',
     'tld' => '.wf',
-    'name_full' => 'Wallis and Futuna Islands',
-    'capital' => 'Mata-Utu',
-    'emoji' => '🇼🇫',
-    'callingcode' => '681',
-    'currency' => 'XPF',
   ),
   'WS' => 
   array (
@@ -7138,11 +5931,6 @@
     'iso-3166-alpha-2' => 'WS',
     'iso-3166-alpha-3' => 'WSM',
     'tld' => '.ws',
-    'name_full' => 'The Independent State of Samoa',
-    'capital' => 'Apia',
-    'emoji' => '🇼🇸',
-    'callingcode' => '685',
-    'currency' => 'WST',
   ),
   'XK' => 
   array (
@@ -7159,11 +5947,6 @@
       0 => NULL,
       1 => NULL,
     ),
-    'name_full' => 'The Republic of Kosovo',
-    'capital' => 'Pristina',
-    'emoji' => '🇽🇰',
-    'callingcode' => '383',
-    'currency' => 'EUR',
   ),
   'YE' => 
   array (
@@ -7185,11 +5968,6 @@
     'iso-3166-alpha-2' => 'YE',
     'iso-3166-alpha-3' => 'YEM',
     'tld' => '.ye',
-    'name_full' => 'The Republic of Yemen',
-    'capital' => 'Sana\'a',
-    'emoji' => '🇾🇪',
-    'callingcode' => '967',
-    'currency' => 'YER',
   ),
   'YT' => 
   array (
@@ -7211,11 +5989,6 @@
     'iso-3166-alpha-2' => 'YT',
     'iso-3166-alpha-3' => 'MYT',
     'tld' => '.yt',
-    'name_full' => 'Territorial Collectivity of Mayotte',
-    'capital' => 'Mamoudzou',
-    'emoji' => '🇾🇹',
-    'callingcode' => '262',
-    'currency' => 'EUR',
   ),
   'YU' => 
   array (
@@ -7253,11 +6026,6 @@
     'iso-3166-alpha-2' => 'ZA',
     'iso-3166-alpha-3' => 'ZAF',
     'tld' => '.za',
-    'name_full' => 'The Republic of South Africa',
-    'capital' => 'Pretoria',
-    'emoji' => '🇿🇦',
-    'callingcode' => '27',
-    'currency' => 'ZAR',
   ),
   'ZM' => 
   array (
@@ -7279,11 +6047,6 @@
     'iso-3166-alpha-2' => 'ZM',
     'iso-3166-alpha-3' => 'ZMB',
     'tld' => '.zm',
-    'name_full' => 'The Republic of Zambia',
-    'capital' => 'Lusaka',
-    'emoji' => '🇿🇲',
-    'callingcode' => '260',
-    'currency' => 'ZMW',
   ),
   'ZR' => 
   array (
@@ -7321,10 +6084,5 @@
     'iso-3166-alpha-2' => 'ZW',
     'iso-3166-alpha-3' => 'ZWE',
     'tld' => '.zw',
-    'name_full' => 'the Republic of Zimbabwe',
-    'capital' => 'Harare',
-    'emoji' => '🇿🇼',
-    'callingcode' => '263',
-    'currency' => 'ZWL',
   ),
 );

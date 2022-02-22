@@ -19,5 +19,11 @@
         <include>
             <directory suffix=".php">src</directory>
         </include>
+        <exclude>
+            <directory suffix=".php">src/data</directory>
+        </exclude>
+        <report>
+            <html outputDirectory="tests/reports/coverage"/>
+        </report>
     </coverage>
 </phpunit>

@@ -2,25 +2,7 @@
 
 namespace crcl\worlddata;
 
-interface IWorld
-{
-    /**
-     * @param  string  $isoCode  2-letter iso code
-     *
-     * @return \CRCL\worlddata\Country | null
-     */
-    public static function getCountry(string $isoCode) : ?\crcl\worlddata\Country;
-
-
-    /**
-     * @param  string  $isoCode  2-letter iso code
-     *
-     * @return \CRCL\worlddata\Continent | null
-     */
-    public static function getContinent(string $isoCode) : ?\crcl\worlddata\Continent;
-}
-
-class World implements IWorld
+class World
 {
     public static function getCountry(string $isoCode) : ?\crcl\worlddata\Country
     {
@@ -43,5 +25,39 @@ class World implements IWorld
 
         return null;
     }
+
+    public static function getLanguage(string $code) : ?\crcl\worlddata\Language
+    {
+        $code = strtoupper($code);
+
+        if (array_key_exists($code, Data::getLanguages())) {
+            return new Language($code);
+        }
+
+        return null;
+    }
+
+    public static function getCurrency(string $code) : ?\crcl\worlddata\Currency
+    {
+        $code = strtoupper($code);
+
+        if (array_key_exists($code, Data::getCurrencies())) {
+            return new Currency($code);
+        }
+
+        return null;
+    }
+
+    public static function getTld(string $code) : ?\crcl\worlddata\Tld
+    {
+        $code = Tld::normalise($code);
+
+        if (array_key_exists($code, Data::getTLDs())) {
+            return new Tld($code);
+        }
+
+        return null;
+    }
+
 
 }

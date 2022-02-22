@@ -1,6 +1,15 @@
 {
     "name": "crcl/worlddata",
     "description": "Enrich country codes with names, continent, time zone, coordinates and tld.",
+    "keywords": [
+        "laravel",
+        "world data",
+        "continents",
+        "contries",
+        "currencies",
+        "tld",
+        "timezones"
+    ],
     "require": {
         "php": "^8.0"
     },
