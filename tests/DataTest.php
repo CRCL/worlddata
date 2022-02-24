@@ -22,7 +22,7 @@ class DataTest extends TestCase
     {
         foreach (Data::getCountries() as $code => $data) {
             $this->assertArrayHasKey('continent', $data, $code.' has no key "continent"');
-            //$this->assertNotEmpty($data['continent'], $code.' continent is empty');
+            $this->assertNotEmpty($data['continent'], $code.' continent is empty');
         }
     }
 

@@ -917,7 +917,7 @@
     'iso-3166-alpha-2' => 'BQ',
     'iso-3166-alpha-3' => 'BES',
     'tld' => '.bq',
-    'continent' => '',
+    'continent' => 'SA',
     'timezone' =>
     array (
     ),
@@ -1686,7 +1686,7 @@
     'iso-3166-alpha-2' => 'CS',
     'iso-3166-alpha-3' => 'SCG',
     'tld' => '.cs',
-    'continent' => '',
+    'continent' => 'EU',
     'timezone' =>
     array (
     ),
@@ -2369,7 +2369,7 @@
       0 => 48.87,
       1 => 2.33,
     ),
-    'continent' => '',
+    'continent' => 'EU',
     'timezone' =>
     array (
     ),
@@ -4127,7 +4127,7 @@
     'iso-3166-alpha-2' => 'MF',
     'iso-3166-alpha-3' => 'MAF',
     'tld' => '.fr',
-    'continent' => '',
+    'continent' => 'SA',
     'timezone' =>
     array (
     ),
@@ -6018,7 +6018,7 @@
     'iso-3166-alpha-2' => 'SS',
     'iso-3166-alpha-3' => 'SSD',
     'tld' => '.ss',
-    'continent' => '',
+    'continent' => 'AF',
     'timezone' =>
     array (
     ),
@@ -6091,7 +6091,7 @@
     'iso-3166-alpha-2' => 'SX',
     'iso-3166-alpha-3' => 'SXM',
     'tld' => '.sx',
-    'continent' => '',
+    'continent' => 'SA',
     'timezone' =>
     array (
     ),

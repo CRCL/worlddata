@@ -28,7 +28,7 @@ class ContinentTest extends TestCase
         $countries = $oContinent->getCountries();
 
         $this->assertIsArray($countries);
-        $this->assertCount(15, $countries);
+        $this->assertCount(18, $countries);
         $this->assertEquals(crcl\worlddata\Country::class,
                             get_class($countries['AR']));
     }

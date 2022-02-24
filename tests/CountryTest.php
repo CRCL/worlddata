@@ -31,15 +31,17 @@ class CountryTest extends TestCase
         $this->assertEquals(['code' => 'EU', 'name' => 'Europe'],
                             $aContinent);
     }
+    
+    /* no continent is missing
+        public function test_get_continent_test_missing()
+        {
+            $oCountry = World::getCountry('FX');
 
-    public function test_get_continent_test_missing()
-    {
-        $oCountry = World::getCountry('FX');
-
-        $this->assertIsArray($oCountry->getContinent());
-        $this->assertEquals(['code' => '', 'name' => null],
-                            $oCountry->getContinent());
-    }
+            $this->assertIsArray($oCountry->getContinent());
+            $this->assertEquals(['code' => '', 'name' => null],
+                                $oCountry->getContinent());
+        }
+    */
 
     public function test_get_coordinates()
     {
