@@ -26,8 +26,8 @@ class Country
         $code = Data::getCountries()[$this->code]['continent'];
 
         return [
-            'code' => $code,
-            'name' => Data::getContinents()[$code],
+            'code' => $code ?? null,
+            'name' => ($code !== '') ? Data::getContinents()[$code] : null,
         ];
     }
 

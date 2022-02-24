@@ -25,8 +25,19 @@ class CountryTest extends TestCase
     {
         $oCountry = World::getCountry('SE');
 
-        $this->assertIsArray($oCountry->getContinent());
+        $aContinent = $oCountry->getContinent();
+
+        $this->assertIsArray($aContinent);
         $this->assertEquals(['code' => 'EU', 'name' => 'Europe'],
+                            $aContinent);
+    }
+
+    public function test_get_continent_test_missing()
+    {
+        $oCountry = World::getCountry('FX');
+
+        $this->assertIsArray($oCountry->getContinent());
+        $this->assertEquals(['code' => '', 'name' => null],
                             $oCountry->getContinent());
     }
 
