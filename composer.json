@@ -1,7 +1,8 @@
 {
     "name": "crcl/worlddata",
-    "description": "Enrich country codes with names, continent, time zone, coordinates and tld.",
+    "description": "Enrich country codes with names, continent, time zone, coordinates, and top-level domains.",
     "keywords": [
+        "world data", "continents", "countries", "currencies", "tld", "timezones"
     ],
     "require": {
         "php": "^8.0"
