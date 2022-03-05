@@ -1,17 +1,17 @@
 <?php return array (
-  'AD' =>
+  'AD' => 
   array (
     'name' => 'Andorra',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Andorra',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 42.5,
       1 => 1.5,
@@ -24,20 +24,21 @@
     'emoji' => '🇦🇩',
     'callingcode' => '376',
     'currency' => 'EUR',
+    'code' => 'AD',
   ),
-  'AE' =>
+  'AE' => 
   array (
     'name' => 'United Arab Emirates',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Dubai',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 24.0,
       1 => 54.0,
@@ -50,20 +51,21 @@
     'emoji' => '🇦🇪',
     'callingcode' => '971',
     'currency' => 'AED',
+    'code' => 'AE',
   ),
-  'AF' =>
+  'AF' => 
   array (
     'name' => 'Afghanistan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Kabul',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 33.0,
       1 => 65.0,
@@ -76,20 +78,21 @@
     'emoji' => '🇦🇫',
     'callingcode' => '93',
     'currency' => 'AFN',
+    'code' => 'AF',
   ),
-  'AG' =>
+  'AG' => 
   array (
     'name' => 'Antigua and Barbuda',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Antigua',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 17.05,
       1 => -61.8,
@@ -102,20 +105,21 @@
     'emoji' => '🇦🇬',
     'callingcode' => '1268',
     'currency' => 'XCD',
+    'code' => 'AG',
   ),
-  'AI' =>
+  'AI' => 
   array (
     'name' => 'Anguilla',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Anguilla',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 18.22,
       1 => -63.05,
@@ -127,20 +131,21 @@
     'capital' => 'The Valley',
     'emoji' => '🇦🇮',
     'currency' => 'XPF',
+    'code' => 'AI',
   ),
-  'AL' =>
+  'AL' => 
   array (
     'name' => 'Albania',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Tirane',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 41.0,
       1 => 20.0,
@@ -153,20 +158,21 @@
     'emoji' => '🇦🇱',
     'callingcode' => '355',
     'currency' => 'ALL',
+    'code' => 'AL',
   ),
-  'AM' =>
+  'AM' => 
   array (
     'name' => 'Armenia',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Yerevan',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 40.0,
       1 => 45.0,
@@ -179,20 +185,21 @@
     'emoji' => '🇦🇲',
     'callingcode' => '374',
     'currency' => 'AMD',
+    'code' => 'AM',
   ),
-  'AN' =>
+  'AN' => 
   array (
     'name' => 'Netherlands Antilles',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Curacao',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 12.17,
       1 => -69.0,
@@ -203,20 +210,21 @@
     'name_full' => 'Netherlands Antilles',
     'capital' => NULL,
     'emoji' => NULL,
+    'code' => 'AN',
   ),
-  'AO' =>
+  'AO' => 
   array (
     'name' => 'Angola',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Luanda',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -12.5,
       1 => 18.5,
@@ -229,65 +237,66 @@
     'emoji' => '🇦🇴',
     'callingcode' => '244',
     'currency' => 'AOA',
+    'code' => 'AO',
   ),
-  'AQ' =>
+  'AQ' => 
   array (
     'name' => 'Antarctica',
     'continent' => 'AN',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Antarctica/Casey',
         1 => 110.516667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Antarctica/Davis',
         1 => 77.966667,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Antarctica/DumontDUrville',
         1 => 140.016667,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'Antarctica/Mawson',
         1 => 62.883333,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'Antarctica/McMurdo',
         1 => 166.6,
       ),
-      5 =>
+      5 => 
       array (
         0 => 'Antarctica/Palmer',
         1 => -64.1,
       ),
-      6 =>
+      6 => 
       array (
         0 => 'Antarctica/Rothera',
         1 => -68.133333,
       ),
-      7 =>
+      7 => 
       array (
         0 => 'Antarctica/South_Pole',
         1 => 0,
       ),
-      8 =>
+      8 => 
       array (
         0 => 'Antarctica/Syowa',
         1 => 39.59,
       ),
-      9 =>
+      9 => 
       array (
         0 => 'Antarctica/Vostok',
         1 => 106.9,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -77.85,
       1 => 166.67,
@@ -295,65 +304,66 @@
     'iso-3166-alpha-2' => 'AQ',
     'iso-3166-alpha-3' => 'ATA',
     'tld' => '.aq',
+    'code' => 'AQ',
   ),
-  'AR' =>
+  'AR' => 
   array (
     'name' => 'Argentina',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Argentina/Buenos_Aires',
         1 => -58.45,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'America/Argentina/Catamarca',
         1 => -65.783333,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'America/Argentina/Cordoba',
         1 => -64.183333,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'America/Argentina/Jujuy',
         1 => -65.3,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'America/Argentina/La_Rioja',
         1 => -66.85,
       ),
-      5 =>
+      5 => 
       array (
         0 => 'America/Argentina/Mendoza',
         1 => -68.816667,
       ),
-      6 =>
+      6 => 
       array (
         0 => 'America/Argentina/Rio_Gallegos',
         1 => -69.216667,
       ),
-      7 =>
+      7 => 
       array (
         0 => 'America/Argentina/San_Juan',
         1 => -68.516667,
       ),
-      8 =>
+      8 => 
       array (
         0 => 'America/Argentina/Tucuman',
         1 => -65.216667,
       ),
-      9 =>
+      9 => 
       array (
         0 => 'America/Argentina/Ushuaia',
         1 => -68.3,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -34.0,
       1 => -64.0,
@@ -366,20 +376,21 @@
     'emoji' => '🇦🇷',
     'callingcode' => '54',
     'currency' => 'ARS',
+    'code' => 'AR',
   ),
-  'AS' =>
+  'AS' => 
   array (
     'name' => 'American Samoa',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Pago_Pago',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -14.32,
       1 => -170.5,
@@ -392,20 +403,21 @@
     'emoji' => '🇦🇸',
     'callingcode' => '1684',
     'currency' => 'USD',
+    'code' => 'AS',
   ),
-  'AT' =>
+  'AT' => 
   array (
     'name' => 'Austria',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Vienna',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 47.33,
       1 => 13.33,
@@ -418,75 +430,76 @@
     'emoji' => '🇦🇹',
     'callingcode' => '43',
     'currency' => 'EUR',
+    'code' => 'AT',
   ),
-  'AU' =>
+  'AU' => 
   array (
     'name' => 'Australia',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Australia/Adelaide',
         1 => 138.583333,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Australia/Brisbane',
         1 => 153.033333,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Australia/Broken_Hill',
         1 => 141.45,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'Australia/Currie',
         1 => 143.866667,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'Australia/Darwin',
         1 => 130.833333,
       ),
-      5 =>
+      5 => 
       array (
         0 => 'Australia/Eucla',
         1 => 128.866667,
       ),
-      6 =>
+      6 => 
       array (
         0 => 'Australia/Hobart',
         1 => 147.316667,
       ),
-      7 =>
+      7 => 
       array (
         0 => 'Australia/Lindeman',
         1 => 149,
       ),
-      8 =>
+      8 => 
       array (
         0 => 'Australia/Lord_Howe',
         1 => 159.083333,
       ),
-      9 =>
+      9 => 
       array (
         0 => 'Australia/Melbourne',
         1 => 144.966667,
       ),
-      10 =>
+      10 => 
       array (
         0 => 'Australia/Perth',
         1 => 115.85,
       ),
-      11 =>
+      11 => 
       array (
         0 => 'Australia/Sydney',
         1 => 151.216667,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -25.0,
       1 => 135.0,
@@ -499,20 +512,21 @@
     'emoji' => '🇦🇺',
     'callingcode' => '61',
     'currency' => 'AUD',
+    'code' => 'AU',
   ),
-  'AW' =>
+  'AW' => 
   array (
     'name' => 'Aruba',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Aruba',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 12.5,
       1 => -69.97,
@@ -525,20 +539,21 @@
     'emoji' => '🇦🇼',
     'callingcode' => '297',
     'currency' => 'AWG',
+    'code' => 'AW',
   ),
-  'AX' =>
+  'AX' => 
   array (
     'name' => 'Aland Islands',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Mariehamn',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 60.12,
       1 => 19.9,
@@ -551,20 +566,21 @@
     'emoji' => '🇦🇽',
     'callingcode' => '358',
     'currency' => 'EUR',
+    'code' => 'AX',
   ),
-  'AZ' =>
+  'AZ' => 
   array (
     'name' => 'Azerbaijan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Baku',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 40.5,
       1 => 47.5,
@@ -577,20 +593,21 @@
     'emoji' => '🇦🇿',
     'callingcode' => '994',
     'currency' => 'AZN',
+    'code' => 'AZ',
   ),
-  'BA' =>
+  'BA' => 
   array (
     'name' => 'Bosnia and Herzegovina',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Sarajevo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 44.25,
       1 => 17.83,
@@ -603,20 +620,21 @@
     'emoji' => '🇧🇦',
     'callingcode' => '387',
     'currency' => 'BAM',
+    'code' => 'BA',
   ),
-  'BB' =>
+  'BB' => 
   array (
     'name' => 'Barbados',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Barbados',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.17,
       1 => -59.53,
@@ -629,20 +647,21 @@
     'emoji' => '🇧🇧',
     'callingcode' => '1246',
     'currency' => 'BBD',
+    'code' => 'BB',
   ),
-  'BD' =>
+  'BD' => 
   array (
     'name' => 'Bangladesh',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Dhaka',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 24.0,
       1 => 90.0,
@@ -655,20 +674,21 @@
     'emoji' => '🇧🇩',
     'callingcode' => '880',
     'currency' => 'BDT',
+    'code' => 'BD',
   ),
-  'BE' =>
+  'BE' => 
   array (
     'name' => 'Belgium',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Brussels',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 50.83,
       1 => 4.0,
@@ -681,20 +701,21 @@
     'emoji' => '🇧🇪',
     'callingcode' => '32',
     'currency' => 'EUR',
+    'code' => 'BE',
   ),
-  'BF' =>
+  'BF' => 
   array (
     'name' => 'Burkina Faso',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Ouagadougou',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.0,
       1 => -2.0,
@@ -707,20 +728,21 @@
     'emoji' => '🇧🇫',
     'callingcode' => '226',
     'currency' => 'XOF',
+    'code' => 'BF',
   ),
-  'BG' =>
+  'BG' => 
   array (
     'name' => 'Bulgaria',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Sofia',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 43.0,
       1 => 25.0,
@@ -733,20 +755,21 @@
     'emoji' => '🇧🇬',
     'callingcode' => '359',
     'currency' => 'BGN',
+    'code' => 'BG',
   ),
-  'BH' =>
+  'BH' => 
   array (
     'name' => 'Bahrain',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Bahrain',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 26.0,
       1 => 50.5,
@@ -759,20 +782,21 @@
     'emoji' => '🇧🇭',
     'callingcode' => '973',
     'currency' => 'BHD',
+    'code' => 'BH',
   ),
-  'BI' =>
+  'BI' => 
   array (
     'name' => 'Burundi',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Bujumbura',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -3.5,
       1 => 30.0,
@@ -785,20 +809,21 @@
     'emoji' => '🇧🇮',
     'callingcode' => '257',
     'currency' => 'BIF',
+    'code' => 'BI',
   ),
-  'BJ' =>
+  'BJ' => 
   array (
     'name' => 'Benin',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Porto-Novo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 9.5,
       1 => 2.25,
@@ -811,18 +836,19 @@
     'emoji' => '🇧🇯',
     'callingcode' => '229',
     'currency' => 'XOF',
+    'code' => 'BJ',
   ),
-  'BL' =>
+  'BL' => 
   array (
     'name' => 'Saint Barthelemy',
     'iso-3166-alpha-2' => 'BL',
     'iso-3166-alpha-3' => 'BLM',
     'tld' => '.gp',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => NULL,
       1 => NULL,
@@ -832,20 +858,21 @@
     'emoji' => '🇧🇱',
     'callingcode' => '590',
     'currency' => 'EUR',
+    'code' => 'BL',
   ),
-  'BM' =>
+  'BM' => 
   array (
     'name' => 'Bermuda',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Atlantic/Bermuda',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 32.33,
       1 => -64.75,
@@ -858,20 +885,21 @@
     'emoji' => '🇧🇲',
     'callingcode' => '1441',
     'currency' => 'BMD',
+    'code' => 'BM',
   ),
-  'BN' =>
+  'BN' => 
   array (
     'name' => 'Brunei',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Brunei',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 4.5,
       1 => 114.67,
@@ -884,20 +912,21 @@
     'emoji' => '🇧🇳',
     'callingcode' => '673',
     'currency' => 'BND',
+    'code' => 'BN',
   ),
-  'BO' =>
+  'BO' => 
   array (
     'name' => 'Bolivia',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/La_Paz',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -17.0,
       1 => -65.0,
@@ -910,18 +939,19 @@
     'emoji' => '🇧🇴',
     'callingcode' => '591',
     'currency' => 'BOB',
+    'code' => 'BO',
   ),
-  'BQ' =>
+  'BQ' => 
   array (
     'name' => 'Bonaire, Saint Eustatius and Saba ',
     'iso-3166-alpha-2' => 'BQ',
     'iso-3166-alpha-3' => 'BES',
     'tld' => '.bq',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => NULL,
       1 => NULL,
@@ -930,90 +960,91 @@
     'capital' => NULL,
     'emoji' => '🇧🇶',
     'currency' => 'USD',
+    'code' => 'BQ',
   ),
-  'BR' =>
+  'BR' => 
   array (
     'name' => 'Brazil',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Araguaina',
         1 => -48.2,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'America/Bahia',
         1 => -38.516667,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'America/Belem',
         1 => -48.483333,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'America/Boa_Vista',
         1 => -60.666667,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'America/Campo_Grande',
         1 => -54.616667,
       ),
-      5 =>
+      5 => 
       array (
         0 => 'America/Cuiaba',
         1 => -56.083333,
       ),
-      6 =>
+      6 => 
       array (
         0 => 'America/Eirunepe',
         1 => -69.866667,
       ),
-      7 =>
+      7 => 
       array (
         0 => 'America/Fortaleza',
         1 => -38.5,
       ),
-      8 =>
+      8 => 
       array (
         0 => 'America/Maceio',
         1 => -35.716667,
       ),
-      9 =>
+      9 => 
       array (
         0 => 'America/Manaus',
         1 => -60.016667,
       ),
-      10 =>
+      10 => 
       array (
         0 => 'America/Noronha',
         1 => -32.416667,
       ),
-      11 =>
+      11 => 
       array (
         0 => 'America/Porto_Velho',
         1 => -63.9,
       ),
-      12 =>
+      12 => 
       array (
         0 => 'America/Recife',
         1 => -34.9,
       ),
-      13 =>
+      13 => 
       array (
         0 => 'America/Rio_Branco',
         1 => -67.8,
       ),
-      14 =>
+      14 => 
       array (
         0 => 'America/Sao_Paulo',
         1 => -46.616667,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -10.0,
       1 => -55.0,
@@ -1026,20 +1057,21 @@
     'emoji' => '🇧🇷',
     'callingcode' => '55',
     'currency' => 'BRL',
+    'code' => 'BR',
   ),
-  'BS' =>
+  'BS' => 
   array (
     'name' => 'Bahamas',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Nassau',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 24.0,
       1 => -76.0,
@@ -1052,20 +1084,21 @@
     'emoji' => '🇧🇸',
     'callingcode' => '1242',
     'currency' => 'BSD',
+    'code' => 'BS',
   ),
-  'BT' =>
+  'BT' => 
   array (
     'name' => 'Bhutan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Thimphu',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 27.5,
       1 => 90.5,
@@ -1078,12 +1111,13 @@
     'emoji' => '🇧🇹',
     'callingcode' => '975',
     'currency' => 'BTN',
+    'code' => 'BT',
   ),
-  'BV' =>
+  'BV' => 
   array (
     'name' => 'Bouvet Island',
     'continent' => 'AN',
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -54.43,
       1 => 3.4,
@@ -1091,27 +1125,28 @@
     'iso-3166-alpha-2' => 'BV',
     'iso-3166-alpha-3' => 'BVT',
     'tld' => '.bv',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
     'name_full' => 'Bouvet Island',
     'capital' => '',
     'emoji' => '🇧🇻',
     'currency' => 'NOK',
+    'code' => 'BV',
   ),
-  'BW' =>
+  'BW' => 
   array (
     'name' => 'Botswana',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Gaborone',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -22.0,
       1 => 24.0,
@@ -1124,20 +1159,21 @@
     'emoji' => '🇧🇼',
     'callingcode' => '267',
     'currency' => 'BWP',
+    'code' => 'BW',
   ),
-  'BY' =>
+  'BY' => 
   array (
     'name' => 'Belarus',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Minsk',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 53.0,
       1 => 28.0,
@@ -1150,20 +1186,21 @@
     'emoji' => '🇧🇾',
     'callingcode' => '375',
     'currency' => 'BYR',
+    'code' => 'BY',
   ),
-  'BZ' =>
+  'BZ' => 
   array (
     'name' => 'Belize',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Belize',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 17.25,
       1 => -88.75,
@@ -1176,150 +1213,151 @@
     'emoji' => '🇧🇿',
     'callingcode' => '501',
     'currency' => 'BZD',
+    'code' => 'BZ',
   ),
-  'CA' =>
+  'CA' => 
   array (
     'name' => 'Canada',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Atikokan',
         1 => -91.621667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'America/Blanc-Sablon',
         1 => -57.116667,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'America/Cambridge_Bay',
         1 => -105.052778,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'America/Dawson',
         1 => -139.416667,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'America/Dawson_Creek',
         1 => -120.233333,
       ),
-      5 =>
+      5 => 
       array (
         0 => 'America/Edmonton',
         1 => -113.466667,
       ),
-      6 =>
+      6 => 
       array (
         0 => 'America/Glace_Bay',
         1 => -59.95,
       ),
-      7 =>
+      7 => 
       array (
         0 => 'America/Goose_Bay',
         1 => -60.416667,
       ),
-      8 =>
+      8 => 
       array (
         0 => 'America/Halifax',
         1 => -63.6,
       ),
-      9 =>
+      9 => 
       array (
         0 => 'America/Inuvik',
         1 => -133.716667,
       ),
-      10 =>
+      10 => 
       array (
         0 => 'America/Iqaluit',
         1 => -68.466667,
       ),
-      11 =>
+      11 => 
       array (
         0 => 'America/Moncton',
         1 => -64.783333,
       ),
-      12 =>
+      12 => 
       array (
         0 => 'America/Montreal',
         1 => -73.566667,
       ),
-      13 =>
+      13 => 
       array (
         0 => 'America/Nipigon',
         1 => -88.266667,
       ),
-      14 =>
+      14 => 
       array (
         0 => 'America/Pangnirtung',
         1 => -65.733333,
       ),
-      15 =>
+      15 => 
       array (
         0 => 'America/Rainy_River',
         1 => -94.566667,
       ),
-      16 =>
+      16 => 
       array (
         0 => 'America/Rankin_Inlet',
         1 => -92.083056,
       ),
-      17 =>
+      17 => 
       array (
         0 => 'America/Regina',
         1 => -104.65,
       ),
-      18 =>
+      18 => 
       array (
         0 => 'America/Resolute',
         1 => -94.829167,
       ),
-      19 =>
+      19 => 
       array (
         0 => 'America/St_Johns',
         1 => -52.716667,
       ),
-      20 =>
+      20 => 
       array (
         0 => 'America/Swift_Current',
         1 => -107.833333,
       ),
-      21 =>
+      21 => 
       array (
         0 => 'America/Thunder_Bay',
         1 => -89.25,
       ),
-      22 =>
+      22 => 
       array (
         0 => 'America/Toronto',
         1 => -79.383333,
       ),
-      23 =>
+      23 => 
       array (
         0 => 'America/Vancouver',
         1 => -123.116667,
       ),
-      24 =>
+      24 => 
       array (
         0 => 'America/Whitehorse',
         1 => -135.05,
       ),
-      25 =>
+      25 => 
       array (
         0 => 'America/Winnipeg',
         1 => -97.15,
       ),
-      26 =>
+      26 => 
       array (
         0 => 'America/Yellowknife',
         1 => -114.35,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 60.0,
       1 => -96.0,
@@ -1332,20 +1370,21 @@
     'emoji' => '🇨🇦',
     'callingcode' => '1',
     'currency' => 'CAD',
+    'code' => 'CA',
   ),
-  'CC' =>
+  'CC' => 
   array (
     'name' => 'Cocos Islands',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Cocos',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -12.17,
       1 => 96.83,
@@ -1358,25 +1397,26 @@
     'emoji' => '🇨🇨',
     'callingcode' => '61',
     'currency' => 'AUD',
+    'code' => 'CC',
   ),
-  'CD' =>
+  'CD' => 
   array (
     'name' => 'Democratic Republic of the Congo',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Kinshasa',
         1 => 15.3,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Africa/Lubumbashi',
         1 => 27.466667,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -3.52,
       1 => 23.42,
@@ -1389,20 +1429,21 @@
     'emoji' => '🇨🇩',
     'callingcode' => '243',
     'currency' => 'CDF',
+    'code' => 'CD',
   ),
-  'CF' =>
+  'CF' => 
   array (
     'name' => 'Central African Republic',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Bangui',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 7.0,
       1 => 21.0,
@@ -1415,20 +1456,21 @@
     'emoji' => '🇨🇫',
     'callingcode' => '236',
     'currency' => 'XAF',
+    'code' => 'CF',
   ),
-  'CG' =>
+  'CG' => 
   array (
     'name' => 'Republic of the Congo',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Brazzaville',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -1.0,
       1 => 15.0,
@@ -1441,20 +1483,21 @@
     'emoji' => '🇨🇬',
     'callingcode' => '242',
     'currency' => 'XAF',
+    'code' => 'CG',
   ),
-  'CH' =>
+  'CH' => 
   array (
     'name' => 'Switzerland',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Zurich',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 47.0,
       1 => 8.0,
@@ -1467,20 +1510,21 @@
     'emoji' => '🇨🇭',
     'callingcode' => '41',
     'currency' => 'CHE',
+    'code' => 'CH',
   ),
-  'CI' =>
+  'CI' => 
   array (
     'name' => 'Ivory Coast',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Abidjan',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 8.0,
       1 => -5.0,
@@ -1493,20 +1537,21 @@
     'emoji' => '🇨🇮',
     'callingcode' => '225',
     'currency' => 'XOF',
+    'code' => 'CI',
   ),
-  'CK' =>
+  'CK' => 
   array (
     'name' => 'Cook Islands',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Rarotonga',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -20.0,
       1 => -158.0,
@@ -1519,25 +1564,26 @@
     'emoji' => '🇨🇰',
     'callingcode' => '682',
     'currency' => 'NZD',
+    'code' => 'CK',
   ),
-  'CL' =>
+  'CL' => 
   array (
     'name' => 'Chile',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Santiago',
         1 => -70.666667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Pacific/Easter',
         1 => -109.433333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -30.0,
       1 => -71.0,
@@ -1550,20 +1596,21 @@
     'emoji' => '🇨🇱',
     'callingcode' => '56',
     'currency' => 'CLP',
+    'code' => 'CL',
   ),
-  'CM' =>
+  'CM' => 
   array (
     'name' => 'Cameroon',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Douala',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 6.0,
       1 => 12.0,
@@ -1576,40 +1623,41 @@
     'emoji' => '🇨🇲',
     'callingcode' => '237',
     'currency' => 'XAF',
+    'code' => 'CM',
   ),
-  'CN' =>
+  'CN' => 
   array (
     'name' => 'China',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Chongqing',
         1 => 106.583333,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Asia/Harbin',
         1 => 126.683333,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Asia/Kashgar',
         1 => 75.983333,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'Asia/Shanghai',
         1 => 121.466667,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'Asia/Urumqi',
         1 => 87.583333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 35.0,
       1 => 105.0,
@@ -1622,20 +1670,21 @@
     'emoji' => '🇨🇳',
     'callingcode' => '86',
     'currency' => 'CNY',
+    'code' => 'CN',
   ),
-  'CO' =>
+  'CO' => 
   array (
     'name' => 'Colombia',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Bogota',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 4.0,
       1 => -72.0,
@@ -1648,20 +1697,21 @@
     'emoji' => '🇨🇴',
     'callingcode' => '57',
     'currency' => 'COP',
+    'code' => 'CO',
   ),
-  'CR' =>
+  'CR' => 
   array (
     'name' => 'Costa Rica',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Costa_Rica',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 10.0,
       1 => -84.0,
@@ -1674,11 +1724,12 @@
     'emoji' => '🇨🇷',
     'callingcode' => '506',
     'currency' => 'CRC',
+    'code' => 'CR',
   ),
-  'CS' =>
+  'CS' => 
   array (
     'name' => 'Serbia and Montenegro',
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 44.8,
       1 => 20.5,
@@ -1687,23 +1738,24 @@
     'iso-3166-alpha-3' => 'SCG',
     'tld' => '.cs',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
+    'code' => 'CS',
   ),
-  'CU' =>
+  'CU' => 
   array (
     'name' => 'Cuba',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Havana',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 21.5,
       1 => -80.0,
@@ -1716,20 +1768,21 @@
     'emoji' => '🇨🇺',
     'callingcode' => '53',
     'currency' => 'CUC',
+    'code' => 'CU',
   ),
-  'CV' =>
+  'CV' => 
   array (
     'name' => 'Cape Verde',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Atlantic/Cape_Verde',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 16.0,
       1 => -24.0,
@@ -1742,18 +1795,19 @@
     'emoji' => '🇨🇻',
     'callingcode' => '238',
     'currency' => 'CVE',
+    'code' => 'CV',
   ),
-  'CW' =>
+  'CW' => 
   array (
     'name' => 'Curacao',
     'iso-3166-alpha-2' => 'CW',
     'iso-3166-alpha-3' => 'CUW',
     'tld' => '.cw',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => NULL,
       1 => NULL,
@@ -1763,20 +1817,21 @@
     'emoji' => '🇨🇼',
     'callingcode' => '5999',
     'currency' => 'ANG',
+    'code' => 'CW',
   ),
-  'CX' =>
+  'CX' => 
   array (
     'name' => 'Christmas Island',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Christmas',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -10.5,
       1 => 105.67,
@@ -1789,20 +1844,21 @@
     'emoji' => '🇨🇽',
     'callingcode' => '61',
     'currency' => 'AUD',
+    'code' => 'CX',
   ),
-  'CY' =>
+  'CY' => 
   array (
     'name' => 'Cyprus',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Nicosia',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 35.0,
       1 => 33.0,
@@ -1815,20 +1871,21 @@
     'emoji' => '🇨🇾',
     'callingcode' => '357',
     'currency' => 'EUR',
+    'code' => 'CY',
   ),
-  'CZ' =>
+  'CZ' => 
   array (
     'name' => 'Czech Republic',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Prague',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 49.75,
       1 => 15.0,
@@ -1841,20 +1898,21 @@
     'emoji' => '🇨🇿',
     'callingcode' => '420',
     'currency' => 'CZK',
+    'code' => 'CZ',
   ),
-  'DE' =>
+  'DE' => 
   array (
     'name' => 'Germany',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Berlin',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 51.5,
       1 => 10.5,
@@ -1867,20 +1925,21 @@
     'emoji' => '🇩🇪',
     'callingcode' => '49',
     'currency' => 'EUR',
+    'code' => 'DE',
   ),
-  'DJ' =>
+  'DJ' => 
   array (
     'name' => 'Djibouti',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Djibouti',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 11.5,
       1 => 42.5,
@@ -1893,20 +1952,21 @@
     'emoji' => '🇩🇯',
     'callingcode' => '253',
     'currency' => 'DJF',
+    'code' => 'DJ',
   ),
-  'DK' =>
+  'DK' => 
   array (
     'name' => 'Denmark',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Copenhagen',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 56.0,
       1 => 10.0,
@@ -1919,20 +1979,21 @@
     'emoji' => '🇩🇰',
     'callingcode' => '45',
     'currency' => 'DKK',
+    'code' => 'DK',
   ),
-  'DM' =>
+  'DM' => 
   array (
     'name' => 'Dominica',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Dominica',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 15.5,
       1 => -61.33,
@@ -1945,20 +2006,21 @@
     'emoji' => '🇩🇲',
     'callingcode' => '1767',
     'currency' => 'XCD',
+    'code' => 'DM',
   ),
-  'DO' =>
+  'DO' => 
   array (
     'name' => 'Dominican Republic',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Santo_Domingo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 19.0,
       1 => -70.67,
@@ -1971,20 +2033,21 @@
     'emoji' => '🇩🇴',
     'callingcode' => '1809',
     'currency' => 'DOP',
+    'code' => 'DO',
   ),
-  'DZ' =>
+  'DZ' => 
   array (
     'name' => 'Algeria',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Algiers',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 28.0,
       1 => 3.0,
@@ -1997,25 +2060,26 @@
     'emoji' => '🇩🇿',
     'callingcode' => '213',
     'currency' => 'DZD',
+    'code' => 'DZ',
   ),
-  'EC' =>
+  'EC' => 
   array (
     'name' => 'Ecuador',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Guayaquil',
         1 => -79.833333,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Pacific/Galapagos',
         1 => -89.6,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -2.0,
       1 => -77.5,
@@ -2028,20 +2092,21 @@
     'emoji' => '🇪🇨',
     'callingcode' => '593',
     'currency' => 'USD',
+    'code' => 'EC',
   ),
-  'EE' =>
+  'EE' => 
   array (
     'name' => 'Estonia',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Tallinn',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 59.0,
       1 => 26.0,
@@ -2054,20 +2119,21 @@
     'emoji' => '🇪🇪',
     'callingcode' => '372',
     'currency' => 'EUR',
+    'code' => 'EE',
   ),
-  'EG' =>
+  'EG' => 
   array (
     'name' => 'Egypt',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Cairo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 27.0,
       1 => 30.0,
@@ -2080,20 +2146,21 @@
     'emoji' => '🇪🇬',
     'callingcode' => '20',
     'currency' => 'EGP',
+    'code' => 'EG',
   ),
-  'EH' =>
+  'EH' => 
   array (
     'name' => 'Western Sahara',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/El_Aaiun',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 23.0,
       1 => -14.0,
@@ -2106,20 +2173,21 @@
     'emoji' => '🇪🇭',
     'callingcode' => '212',
     'currency' => 'DZD',
+    'code' => 'EH',
   ),
-  'ER' =>
+  'ER' => 
   array (
     'name' => 'Eritrea',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Asmara',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 15.0,
       1 => 39.0,
@@ -2132,30 +2200,31 @@
     'emoji' => '🇪🇷',
     'callingcode' => '291',
     'currency' => 'ERN',
+    'code' => 'ER',
   ),
-  'ES' =>
+  'ES' => 
   array (
     'name' => 'Spain',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Ceuta',
         1 => -5.316667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Atlantic/Canary',
         1 => -15.4,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Europe/Madrid',
         1 => -3.683333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 40.0,
       1 => -4.0,
@@ -2168,20 +2237,21 @@
     'emoji' => '🇪🇸',
     'callingcode' => '34',
     'currency' => 'EUR',
+    'code' => 'ES',
   ),
-  'ET' =>
+  'ET' => 
   array (
     'name' => 'Ethiopia',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Addis_Ababa',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 8.0,
       1 => 39.0,
@@ -2194,20 +2264,21 @@
     'emoji' => '🇪🇹',
     'callingcode' => '251',
     'currency' => 'ETB',
+    'code' => 'ET',
   ),
-  'FI' =>
+  'FI' => 
   array (
     'name' => 'Finland',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Helsinki',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 64.0,
       1 => 26.0,
@@ -2220,20 +2291,21 @@
     'emoji' => '🇫🇮',
     'callingcode' => '358',
     'currency' => 'EUR',
+    'code' => 'FI',
   ),
-  'FJ' =>
+  'FJ' => 
   array (
     'name' => 'Fiji',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Fiji',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -18.0,
       1 => 178.0,
@@ -2246,20 +2318,21 @@
     'emoji' => '🇫🇯',
     'callingcode' => '679',
     'currency' => 'FJD',
+    'code' => 'FJ',
   ),
-  'FK' =>
+  'FK' => 
   array (
     'name' => 'Falkland Islands',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Atlantic/Stanley',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -51.75,
       1 => -59.0,
@@ -2272,30 +2345,31 @@
     'emoji' => '🇫🇰',
     'callingcode' => '500',
     'currency' => 'FKP',
+    'code' => 'FK',
   ),
-  'FM' =>
+  'FM' => 
   array (
     'name' => 'Micronesia',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Kosrae',
         1 => 162.983333,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Pacific/Ponape',
         1 => 158.216667,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Pacific/Truk',
         1 => 151.783333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 5.0,
       1 => 152.0,
@@ -2308,20 +2382,21 @@
     'emoji' => '🇫🇲',
     'callingcode' => '691',
     'currency' => 'USD',
+    'code' => 'FM',
   ),
-  'FO' =>
+  'FO' => 
   array (
     'name' => 'Faroe Islands',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Atlantic/Faroe',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 62.0,
       1 => -7.0,
@@ -2334,20 +2409,21 @@
     'emoji' => '🇫🇴',
     'callingcode' => '298',
     'currency' => 'DKK',
+    'code' => 'FO',
   ),
-  'FR' =>
+  'FR' => 
   array (
     'name' => 'France',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Paris',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 46.0,
       1 => 2.0,
@@ -2360,36 +2436,38 @@
     'emoji' => '🇫🇷',
     'callingcode' => '33',
     'currency' => 'EUR',
+    'code' => 'FR',
   ),
-  'FX' =>
+  'FX' => 
   array (
     'name' => 'France, Metropolitan',
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 48.87,
       1 => 2.33,
     ),
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
     'iso-3166-alpha-2' => NULL,
     'iso-3166-alpha-3' => NULL,
     'tld' => NULL,
+    'code' => 'FX',
   ),
-  'GA' =>
+  'GA' => 
   array (
     'name' => 'Gabon',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Libreville',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -1.0,
       1 => 11.75,
@@ -2402,20 +2480,21 @@
     'emoji' => '🇬🇦',
     'callingcode' => '241',
     'currency' => 'XAF',
+    'code' => 'GA',
   ),
-  'GB' =>
+  'GB' => 
   array (
     'name' => 'United Kingdom',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/London',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 54.0,
       1 => -4.5,
@@ -2428,20 +2507,21 @@
     'emoji' => '🇬🇧',
     'callingcode' => '44',
     'currency' => 'GBP',
+    'code' => 'GB',
   ),
-  'GD' =>
+  'GD' => 
   array (
     'name' => 'Grenada',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Grenada',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 12.12,
       1 => -61.67,
@@ -2454,20 +2534,21 @@
     'emoji' => '🇬🇩',
     'callingcode' => '1473',
     'currency' => 'XCD',
+    'code' => 'GD',
   ),
-  'GE' =>
+  'GE' => 
   array (
     'name' => 'Georgia',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Tbilisi',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 42.0,
       1 => 43.5,
@@ -2480,20 +2561,21 @@
     'emoji' => '🇬🇪',
     'callingcode' => '995',
     'currency' => 'GEL',
+    'code' => 'GE',
   ),
-  'GF' =>
+  'GF' => 
   array (
     'name' => 'French Guiana',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Cayenne',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 4.0,
       1 => -53.0,
@@ -2506,20 +2588,21 @@
     'emoji' => '🇬🇫',
     'callingcode' => '594',
     'currency' => 'EUR',
+    'code' => 'GF',
   ),
-  'GG' =>
+  'GG' => 
   array (
     'name' => 'Guernsey',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Guernsey',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 49.45,
       1 => -2.55,
@@ -2532,20 +2615,21 @@
     'emoji' => '🇬🇬',
     'callingcode' => '44',
     'currency' => 'GBP',
+    'code' => 'GG',
   ),
-  'GH' =>
+  'GH' => 
   array (
     'name' => 'Ghana',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Accra',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 8.0,
       1 => -2.0,
@@ -2558,20 +2642,21 @@
     'emoji' => '🇬🇭',
     'callingcode' => '233',
     'currency' => 'GHS',
+    'code' => 'GH',
   ),
-  'GI' =>
+  'GI' => 
   array (
     'name' => 'Gibraltar',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Gibraltar',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 36.13,
       1 => -5.35,
@@ -2584,35 +2669,36 @@
     'emoji' => '🇬🇮',
     'callingcode' => '350',
     'currency' => 'GIP',
+    'code' => 'GI',
   ),
-  'GL' =>
+  'GL' => 
   array (
     'name' => 'Greenland',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Danmarkshavn',
         1 => -18.666667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'America/Godthab',
         1 => -51.733333,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'America/Scoresbysund',
         1 => -21.966667,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'America/Thule',
         1 => -68.783333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 72.0,
       1 => -40.0,
@@ -2625,20 +2711,21 @@
     'emoji' => '🇬🇱',
     'callingcode' => '299',
     'currency' => 'DKK',
+    'code' => 'GL',
   ),
-  'GM' =>
+  'GM' => 
   array (
     'name' => 'Gambia',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Banjul',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.5,
       1 => -15.5,
@@ -2651,20 +2738,21 @@
     'emoji' => '🇬🇲',
     'callingcode' => '220',
     'currency' => 'GMD',
+    'code' => 'GM',
   ),
-  'GN' =>
+  'GN' => 
   array (
     'name' => 'Guinea',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Conakry',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 11.0,
       1 => -10.0,
@@ -2677,20 +2765,21 @@
     'emoji' => '🇬🇳',
     'callingcode' => '224',
     'currency' => 'GNF',
+    'code' => 'GN',
   ),
-  'GP' =>
+  'GP' => 
   array (
     'name' => 'Guadeloupe',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Guadeloupe',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 16.25,
       1 => -61.58,
@@ -2703,20 +2792,21 @@
     'emoji' => '🇬🇵',
     'callingcode' => '590',
     'currency' => 'EUR',
+    'code' => 'GP',
   ),
-  'GQ' =>
+  'GQ' => 
   array (
     'name' => 'Equatorial Guinea',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Malabo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 2.0,
       1 => 10.0,
@@ -2729,20 +2819,21 @@
     'emoji' => '🇬🇶',
     'callingcode' => '240',
     'currency' => 'XAF',
+    'code' => 'GQ',
   ),
-  'GR' =>
+  'GR' => 
   array (
     'name' => 'Greece',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Athens',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 39.0,
       1 => 22.0,
@@ -2755,20 +2846,21 @@
     'emoji' => '🇬🇷',
     'callingcode' => '30',
     'currency' => 'EUR',
+    'code' => 'GR',
   ),
-  'GS' =>
+  'GS' => 
   array (
     'name' => 'South Georgia and the South Sandwich Islands',
     'continent' => 'AN',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Atlantic/South_Georgia',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -54.5,
       1 => -37.0,
@@ -2781,20 +2873,21 @@
     'emoji' => '🇬🇸',
     'callingcode' => '500',
     'currency' => 'GBP',
+    'code' => 'GS',
   ),
-  'GT' =>
+  'GT' => 
   array (
     'name' => 'Guatemala',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Guatemala',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 15.5,
       1 => -90.25,
@@ -2807,20 +2900,21 @@
     'emoji' => '🇬🇹',
     'callingcode' => '502',
     'currency' => 'GTQ',
+    'code' => 'GT',
   ),
-  'GU' =>
+  'GU' => 
   array (
     'name' => 'Guam',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Guam',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.47,
       1 => 144.83,
@@ -2833,20 +2927,21 @@
     'emoji' => '🇬🇺',
     'callingcode' => '1671',
     'currency' => 'USD',
+    'code' => 'GU',
   ),
-  'GW' =>
+  'GW' => 
   array (
     'name' => 'Guinea-Bissau',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Bissau',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 12.0,
       1 => -15.0,
@@ -2859,20 +2954,21 @@
     'emoji' => '🇬🇼',
     'callingcode' => '245',
     'currency' => 'XOF',
+    'code' => 'GW',
   ),
-  'GY' =>
+  'GY' => 
   array (
     'name' => 'Guyana',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Guyana',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 5.0,
       1 => -59.0,
@@ -2885,20 +2981,21 @@
     'emoji' => '🇬🇾',
     'callingcode' => '592',
     'currency' => 'GYD',
+    'code' => 'GY',
   ),
-  'HK' =>
+  'HK' => 
   array (
     'name' => 'Hong Kong',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Hong_Kong',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 22.25,
       1 => 114.17,
@@ -2911,12 +3008,13 @@
     'emoji' => '🇭🇰',
     'callingcode' => '852',
     'currency' => 'HKD',
+    'code' => 'HK',
   ),
-  'HM' =>
+  'HM' => 
   array (
     'name' => 'Heard Island and McDonald Islands',
     'continent' => 'AN',
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -53.1,
       1 => 73.52,
@@ -2924,27 +3022,28 @@
     'iso-3166-alpha-2' => 'HM',
     'iso-3166-alpha-3' => 'HMD',
     'tld' => '.hm',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
     'name_full' => 'Heard Island and McDonald Islands',
     'capital' => '',
     'emoji' => '🇭🇲',
     'currency' => 'AUD',
+    'code' => 'HM',
   ),
-  'HN' =>
+  'HN' => 
   array (
     'name' => 'Honduras',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Tegucigalpa',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 15.0,
       1 => -86.5,
@@ -2957,20 +3056,21 @@
     'emoji' => '🇭🇳',
     'callingcode' => '504',
     'currency' => 'HNL',
+    'code' => 'HN',
   ),
-  'HR' =>
+  'HR' => 
   array (
     'name' => 'Croatia',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Zagreb',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 45.17,
       1 => 15.5,
@@ -2983,20 +3083,21 @@
     'emoji' => '🇭🇷',
     'callingcode' => '385',
     'currency' => 'HRK',
+    'code' => 'HR',
   ),
-  'HT' =>
+  'HT' => 
   array (
     'name' => 'Haiti',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Port-au-Prince',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 19.0,
       1 => -72.42,
@@ -3009,20 +3110,21 @@
     'emoji' => '🇭🇹',
     'callingcode' => '509',
     'currency' => 'HTG',
+    'code' => 'HT',
   ),
-  'HU' =>
+  'HU' => 
   array (
     'name' => 'Hungary',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Budapest',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 47.0,
       1 => 20.0,
@@ -3035,35 +3137,36 @@
     'emoji' => '🇭🇺',
     'callingcode' => '36',
     'currency' => 'HUF',
+    'code' => 'HU',
   ),
-  'ID' =>
+  'ID' => 
   array (
     'name' => 'Indonesia',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Jakarta',
         1 => 106.8,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Asia/Jayapura',
         1 => 140.7,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Asia/Makassar',
         1 => 119.4,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'Asia/Pontianak',
         1 => 109.333333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -5.0,
       1 => 120.0,
@@ -3076,20 +3179,21 @@
     'emoji' => '🇮🇩',
     'callingcode' => '62',
     'currency' => 'IDR',
+    'code' => 'ID',
   ),
-  'IE' =>
+  'IE' => 
   array (
     'name' => 'Ireland',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Dublin',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 53.0,
       1 => -8.0,
@@ -3102,20 +3206,21 @@
     'emoji' => '🇮🇪',
     'callingcode' => '353',
     'currency' => 'EUR',
+    'code' => 'IE',
   ),
-  'IL' =>
+  'IL' => 
   array (
     'name' => 'Israel',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Jerusalem',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 31.5,
       1 => 34.75,
@@ -3128,20 +3233,21 @@
     'emoji' => '🇮🇱',
     'callingcode' => '972',
     'currency' => 'ILS',
+    'code' => 'IL',
   ),
-  'IM' =>
+  'IM' => 
   array (
     'name' => 'Isle of Man',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Isle_of_Man',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 54.23,
       1 => -4.55,
@@ -3154,20 +3260,21 @@
     'emoji' => '🇮🇲',
     'callingcode' => '44',
     'currency' => 'GBP',
+    'code' => 'IM',
   ),
-  'IN' =>
+  'IN' => 
   array (
     'name' => 'India',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Calcutta',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 20.0,
       1 => 77.0,
@@ -3180,20 +3287,21 @@
     'emoji' => '🇮🇳',
     'callingcode' => '91',
     'currency' => 'INR',
+    'code' => 'IN',
   ),
-  'IO' =>
+  'IO' => 
   array (
     'name' => 'British Indian Ocean Territory',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Chagos',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -6.0,
       1 => 71.5,
@@ -3206,20 +3314,21 @@
     'emoji' => '🇮🇴',
     'callingcode' => '246',
     'currency' => 'GBP',
+    'code' => 'IO',
   ),
-  'IQ' =>
+  'IQ' => 
   array (
     'name' => 'Iraq',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Baghdad',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 33.0,
       1 => 44.0,
@@ -3232,20 +3341,21 @@
     'emoji' => '🇮🇶',
     'callingcode' => '964',
     'currency' => 'IQD',
+    'code' => 'IQ',
   ),
-  'IR' =>
+  'IR' => 
   array (
     'name' => 'Iran',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Tehran',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 32.0,
       1 => 53.0,
@@ -3258,20 +3368,21 @@
     'emoji' => '🇮🇷',
     'callingcode' => '98',
     'currency' => 'IRR',
+    'code' => 'IR',
   ),
-  'IS' =>
+  'IS' => 
   array (
     'name' => 'Iceland',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Atlantic/Reykjavik',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 65.0,
       1 => -18.0,
@@ -3284,20 +3395,21 @@
     'emoji' => '🇮🇸',
     'callingcode' => '354',
     'currency' => 'ISK',
+    'code' => 'IS',
   ),
-  'IT' =>
+  'IT' => 
   array (
     'name' => 'Italy',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Rome',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 42.83,
       1 => 12.83,
@@ -3310,20 +3422,21 @@
     'emoji' => '🇮🇹',
     'callingcode' => '39',
     'currency' => 'EUR',
+    'code' => 'IT',
   ),
-  'JE' =>
+  'JE' => 
   array (
     'name' => 'Jersey',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Jersey',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 49.19,
       1 => -2.11,
@@ -3336,20 +3449,21 @@
     'emoji' => '🇯🇪',
     'callingcode' => '44',
     'currency' => 'GBP',
+    'code' => 'JE',
   ),
-  'JM' =>
+  'JM' => 
   array (
     'name' => 'Jamaica',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Jamaica',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 18.25,
       1 => -77.5,
@@ -3362,20 +3476,21 @@
     'emoji' => '🇯🇲',
     'callingcode' => '1876',
     'currency' => 'JMD',
+    'code' => 'JM',
   ),
-  'JO' =>
+  'JO' => 
   array (
     'name' => 'Jordan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Amman',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 31.0,
       1 => 36.0,
@@ -3388,20 +3503,21 @@
     'emoji' => '🇯🇴',
     'callingcode' => '962',
     'currency' => 'JOD',
+    'code' => 'JO',
   ),
-  'JP' =>
+  'JP' => 
   array (
     'name' => 'Japan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Tokyo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 36.0,
       1 => 138.0,
@@ -3414,20 +3530,21 @@
     'emoji' => '🇯🇵',
     'callingcode' => '81',
     'currency' => 'JPY',
+    'code' => 'JP',
   ),
-  'KE' =>
+  'KE' => 
   array (
     'name' => 'Kenya',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Nairobi',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 1.0,
       1 => 38.0,
@@ -3440,20 +3557,21 @@
     'emoji' => '🇰🇪',
     'callingcode' => '254',
     'currency' => 'KES',
+    'code' => 'KE',
   ),
-  'KG' =>
+  'KG' => 
   array (
     'name' => 'Kyrgyzstan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Bishkek',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 41.0,
       1 => 75.0,
@@ -3466,20 +3584,21 @@
     'emoji' => '🇰🇬',
     'callingcode' => '996',
     'currency' => 'KGS',
+    'code' => 'KG',
   ),
-  'KH' =>
+  'KH' => 
   array (
     'name' => 'Cambodia',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Phnom_Penh',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.0,
       1 => 105.0,
@@ -3492,30 +3611,31 @@
     'emoji' => '🇰🇭',
     'callingcode' => '855',
     'currency' => 'KHR',
+    'code' => 'KH',
   ),
-  'KI' =>
+  'KI' => 
   array (
     'name' => 'Kiribati',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Enderbury',
         1 => -171.083333,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Pacific/Kiritimati',
         1 => -157.333333,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Pacific/Tarawa',
         1 => 173,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -5.0,
       1 => -170.0,
@@ -3528,20 +3648,21 @@
     'emoji' => '🇰🇮',
     'callingcode' => '686',
     'currency' => 'AUD',
+    'code' => 'KI',
   ),
-  'KM' =>
+  'KM' => 
   array (
     'name' => 'Comoros',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Comoro',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -12.17,
       1 => 44.25,
@@ -3554,20 +3675,21 @@
     'emoji' => '🇰🇲',
     'callingcode' => '269',
     'currency' => 'KMF',
+    'code' => 'KM',
   ),
-  'KN' =>
+  'KN' => 
   array (
     'name' => 'Saint Kitts and Nevis',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/St_Kitts',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 17.33,
       1 => -62.75,
@@ -3580,20 +3702,21 @@
     'emoji' => '🇰🇳',
     'callingcode' => '1869',
     'currency' => 'XCD',
+    'code' => 'KN',
   ),
-  'KP' =>
+  'KP' => 
   array (
     'name' => 'North Korea',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Pyongyang',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 40.0,
       1 => 127.0,
@@ -3606,20 +3729,21 @@
     'emoji' => '🇰🇵',
     'callingcode' => '850',
     'currency' => 'KPW',
+    'code' => 'KP',
   ),
-  'KR' =>
+  'KR' => 
   array (
     'name' => 'South Korea',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Seoul',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 37.0,
       1 => 127.5,
@@ -3632,20 +3756,21 @@
     'emoji' => '🇰🇷',
     'callingcode' => '82',
     'currency' => 'KRW',
+    'code' => 'KR',
   ),
-  'KW' =>
+  'KW' => 
   array (
     'name' => 'Kuwait',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Kuwait',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 29.5,
       1 => 47.75,
@@ -3658,20 +3783,21 @@
     'emoji' => '🇰🇼',
     'callingcode' => '965',
     'currency' => 'KWD',
+    'code' => 'KW',
   ),
-  'KY' =>
+  'KY' => 
   array (
     'name' => 'Cayman Islands',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Cayman',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 19.5,
       1 => -80.67,
@@ -3684,40 +3810,41 @@
     'emoji' => '🇰🇾',
     'callingcode' => '1345',
     'currency' => 'KYD',
+    'code' => 'KY',
   ),
-  'KZ' =>
+  'KZ' => 
   array (
     'name' => 'Kazakhstan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Almaty',
         1 => 76.95,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Asia/Aqtau',
         1 => 50.266667,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Asia/Aqtobe',
         1 => 57.166667,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'Asia/Oral',
         1 => 51.35,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'Asia/Qyzylorda',
         1 => 65.466667,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 48.0,
       1 => 68.0,
@@ -3730,20 +3857,21 @@
     'emoji' => '🇰🇿',
     'callingcode' => '76',
     'currency' => 'KZT',
+    'code' => 'KZ',
   ),
-  'LA' =>
+  'LA' => 
   array (
     'name' => 'Laos',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Vientiane',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 18.0,
       1 => 105.0,
@@ -3756,20 +3884,21 @@
     'emoji' => '🇱🇦',
     'callingcode' => '856',
     'currency' => 'LAK',
+    'code' => 'LA',
   ),
-  'LB' =>
+  'LB' => 
   array (
     'name' => 'Lebanon',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Beirut',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 33.83,
       1 => 35.83,
@@ -3782,20 +3911,21 @@
     'emoji' => '🇱🇧',
     'callingcode' => '961',
     'currency' => 'LBP',
+    'code' => 'LB',
   ),
-  'LC' =>
+  'LC' => 
   array (
     'name' => 'Saint Lucia',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/St_Lucia',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.88,
       1 => -60.97,
@@ -3808,20 +3938,21 @@
     'emoji' => '🇱🇨',
     'callingcode' => '1758',
     'currency' => 'XCD',
+    'code' => 'LC',
   ),
-  'LI' =>
+  'LI' => 
   array (
     'name' => 'Liechtenstein',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Vaduz',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 47.17,
       1 => 9.53,
@@ -3834,20 +3965,21 @@
     'emoji' => '🇱🇮',
     'callingcode' => '423',
     'currency' => 'CHF',
+    'code' => 'LI',
   ),
-  'LK' =>
+  'LK' => 
   array (
     'name' => 'Sri Lanka',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Colombo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 7.0,
       1 => 81.0,
@@ -3860,20 +3992,21 @@
     'emoji' => '🇱🇰',
     'callingcode' => '94',
     'currency' => 'LKR',
+    'code' => 'LK',
   ),
-  'LR' =>
+  'LR' => 
   array (
     'name' => 'Liberia',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Monrovia',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 6.5,
       1 => -9.5,
@@ -3886,20 +4019,21 @@
     'emoji' => '🇱🇷',
     'callingcode' => '231',
     'currency' => 'LRD',
+    'code' => 'LR',
   ),
-  'LS' =>
+  'LS' => 
   array (
     'name' => 'Lesotho',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Maseru',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -29.5,
       1 => 28.25,
@@ -3912,20 +4046,21 @@
     'emoji' => '🇱🇸',
     'callingcode' => '266',
     'currency' => 'LSL',
+    'code' => 'LS',
   ),
-  'LT' =>
+  'LT' => 
   array (
     'name' => 'Lithuania',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Vilnius',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 56.0,
       1 => 24.0,
@@ -3938,20 +4073,21 @@
     'emoji' => '🇱🇹',
     'callingcode' => '370',
     'currency' => 'EUR',
+    'code' => 'LT',
   ),
-  'LU' =>
+  'LU' => 
   array (
     'name' => 'Luxembourg',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Luxembourg',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 49.75,
       1 => 6.17,
@@ -3964,20 +4100,21 @@
     'emoji' => '🇱🇺',
     'callingcode' => '352',
     'currency' => 'EUR',
+    'code' => 'LU',
   ),
-  'LV' =>
+  'LV' => 
   array (
     'name' => 'Latvia',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Riga',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 57.0,
       1 => 25.0,
@@ -3990,20 +4127,21 @@
     'emoji' => '🇱🇻',
     'callingcode' => '371',
     'currency' => 'EUR',
+    'code' => 'LV',
   ),
-  'LY' =>
+  'LY' => 
   array (
     'name' => 'Libya',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Tripoli',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 25.0,
       1 => 17.0,
@@ -4016,20 +4154,21 @@
     'emoji' => '🇱🇾',
     'callingcode' => '218',
     'currency' => 'LYD',
+    'code' => 'LY',
   ),
-  'MA' =>
+  'MA' => 
   array (
     'name' => 'Morocco',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Casablanca',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 32.0,
       1 => -5.0,
@@ -4042,20 +4181,21 @@
     'emoji' => '🇲🇦',
     'callingcode' => '212',
     'currency' => 'MAD',
+    'code' => 'MA',
   ),
-  'MC' =>
+  'MC' => 
   array (
     'name' => 'Monaco',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Monaco',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 43.73,
       1 => 7.42,
@@ -4068,20 +4208,21 @@
     'emoji' => '🇲🇨',
     'callingcode' => '377',
     'currency' => 'EUR',
+    'code' => 'MC',
   ),
-  'MD' =>
+  'MD' => 
   array (
     'name' => 'Moldova',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Chisinau',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 47.0,
       1 => 29.0,
@@ -4094,20 +4235,21 @@
     'emoji' => '🇲🇩',
     'callingcode' => '373',
     'currency' => 'MDL',
+    'code' => 'MD',
   ),
-  'ME' =>
+  'ME' => 
   array (
     'name' => 'Montenegro',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Podgorica',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 42.8,
       1 => 19.2,
@@ -4120,18 +4262,19 @@
     'emoji' => '🇲🇪',
     'callingcode' => '382',
     'currency' => 'EUR',
+    'code' => 'ME',
   ),
-  'MF' =>
+  'MF' => 
   array (
     'name' => 'Saint Martin',
     'iso-3166-alpha-2' => 'MF',
     'iso-3166-alpha-3' => 'MAF',
     'tld' => '.fr',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => NULL,
       1 => NULL,
@@ -4141,20 +4284,21 @@
     'emoji' => '🇲🇫',
     'callingcode' => '590',
     'currency' => 'EUR',
+    'code' => 'MF',
   ),
-  'MG' =>
+  'MG' => 
   array (
     'name' => 'Madagascar',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Antananarivo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -20.0,
       1 => 47.0,
@@ -4167,25 +4311,26 @@
     'emoji' => '🇲🇬',
     'callingcode' => '261',
     'currency' => 'MGA',
+    'code' => 'MG',
   ),
-  'MH' =>
+  'MH' => 
   array (
     'name' => 'Marshall Islands',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Kwajalein',
         1 => 167.333333,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Pacific/Majuro',
         1 => 171.2,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 11.0,
       1 => 168.0,
@@ -4198,20 +4343,21 @@
     'emoji' => '🇲🇭',
     'callingcode' => '692',
     'currency' => 'USD',
+    'code' => 'MH',
   ),
-  'MK' =>
+  'MK' => 
   array (
     'name' => 'Macedonia',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Skopje',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 41.83,
       1 => 22.0,
@@ -4224,20 +4370,21 @@
     'emoji' => '🇲🇰',
     'callingcode' => '389',
     'currency' => 'MKD',
+    'code' => 'MK',
   ),
-  'ML' =>
+  'ML' => 
   array (
     'name' => 'Mali',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Bamako',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 17.0,
       1 => -4.0,
@@ -4250,20 +4397,21 @@
     'emoji' => '🇲🇱',
     'callingcode' => '223',
     'currency' => 'XOF',
+    'code' => 'ML',
   ),
-  'MM' =>
+  'MM' => 
   array (
     'name' => 'Myanmar',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Rangoon',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 22.0,
       1 => 98.0,
@@ -4276,30 +4424,31 @@
     'emoji' => '🇲🇲',
     'callingcode' => '95',
     'currency' => 'MMK',
+    'code' => 'MM',
   ),
-  'MN' =>
+  'MN' => 
   array (
     'name' => 'Mongolia',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Choibalsan',
         1 => 114.5,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Asia/Hovd',
         1 => 91.65,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Asia/Ulaanbaatar',
         1 => 106.883333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 46.0,
       1 => 105.0,
@@ -4312,20 +4461,21 @@
     'emoji' => '🇲🇳',
     'callingcode' => '976',
     'currency' => 'MNT',
+    'code' => 'MN',
   ),
-  'MO' =>
+  'MO' => 
   array (
     'name' => 'Macao',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Macau',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 22.0,
       1 => 113.0,
@@ -4338,20 +4488,21 @@
     'emoji' => '🇲🇴',
     'callingcode' => '853',
     'currency' => 'MOP',
+    'code' => 'MO',
   ),
-  'MP' =>
+  'MP' => 
   array (
     'name' => 'Northern Mariana Islands',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Saipan',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 15.12,
       1 => 145.67,
@@ -4364,20 +4515,21 @@
     'emoji' => '🇲🇵',
     'callingcode' => '1670',
     'currency' => 'USD',
+    'code' => 'MP',
   ),
-  'MQ' =>
+  'MQ' => 
   array (
     'name' => 'Martinique',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Martinique',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 14.67,
       1 => -61.0,
@@ -4390,20 +4542,21 @@
     'emoji' => '🇲🇶',
     'callingcode' => '596',
     'currency' => 'EUR',
+    'code' => 'MQ',
   ),
-  'MR' =>
+  'MR' => 
   array (
     'name' => 'Mauritania',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Nouakchott',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 20.0,
       1 => -12.0,
@@ -4416,20 +4569,21 @@
     'emoji' => '🇲🇷',
     'callingcode' => '222',
     'currency' => 'MRO',
+    'code' => 'MR',
   ),
-  'MS' =>
+  'MS' => 
   array (
     'name' => 'Montserrat',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Montserrat',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 16.75,
       1 => -62.2,
@@ -4442,20 +4596,21 @@
     'emoji' => '🇲🇸',
     'callingcode' => '1664',
     'currency' => 'XCD',
+    'code' => 'MS',
   ),
-  'MT' =>
+  'MT' => 
   array (
     'name' => 'Malta',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Malta',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 35.92,
       1 => 14.42,
@@ -4468,20 +4623,21 @@
     'emoji' => '🇲🇹',
     'callingcode' => '356',
     'currency' => 'EUR',
+    'code' => 'MT',
   ),
-  'MU' =>
+  'MU' => 
   array (
     'name' => 'Mauritius',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Mauritius',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -20.3,
       1 => 57.58,
@@ -4494,20 +4650,21 @@
     'emoji' => '🇲🇺',
     'callingcode' => '230',
     'currency' => 'MUR',
+    'code' => 'MU',
   ),
-  'MV' =>
+  'MV' => 
   array (
     'name' => 'Maldives',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Maldives',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 3.2,
       1 => 73.0,
@@ -4520,20 +4677,21 @@
     'emoji' => '🇲🇻',
     'callingcode' => '960',
     'currency' => 'MVR',
+    'code' => 'MV',
   ),
-  'MW' =>
+  'MW' => 
   array (
     'name' => 'Malawi',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Blantyre',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -13.5,
       1 => 34.0,
@@ -4546,55 +4704,56 @@
     'emoji' => '🇲🇼',
     'callingcode' => '265',
     'currency' => 'MWK',
+    'code' => 'MW',
   ),
-  'MX' =>
+  'MX' => 
   array (
     'name' => 'Mexico',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Cancun',
         1 => -86.766667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'America/Chihuahua',
         1 => -106.083333,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'America/Hermosillo',
         1 => -110.966667,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'America/Mazatlan',
         1 => -106.416667,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'America/Merida',
         1 => -89.616667,
       ),
-      5 =>
+      5 => 
       array (
         0 => 'America/Mexico_City',
         1 => -99.15,
       ),
-      6 =>
+      6 => 
       array (
         0 => 'America/Monterrey',
         1 => -100.316667,
       ),
-      7 =>
+      7 => 
       array (
         0 => 'America/Tijuana',
         1 => -117.016667,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 23.0,
       1 => -102.0,
@@ -4607,25 +4766,26 @@
     'emoji' => '🇲🇽',
     'callingcode' => '52',
     'currency' => 'MXN',
+    'code' => 'MX',
   ),
-  'MY' =>
+  'MY' => 
   array (
     'name' => 'Malaysia',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Kuala_Lumpur',
         1 => 101.7,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Asia/Kuching',
         1 => 110.333333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 4.22,
       1 => 101.97,
@@ -4638,20 +4798,21 @@
     'emoji' => '🇲🇾',
     'callingcode' => '60',
     'currency' => 'MYR',
+    'code' => 'MY',
   ),
-  'MZ' =>
+  'MZ' => 
   array (
     'name' => 'Mozambique',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Maputo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -18.25,
       1 => 35.0,
@@ -4664,20 +4825,21 @@
     'emoji' => '🇲🇿',
     'callingcode' => '258',
     'currency' => 'MZN',
+    'code' => 'MZ',
   ),
-  'NA' =>
+  'NA' => 
   array (
     'name' => 'Namibia',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Windhoek',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -22.0,
       1 => 17.0,
@@ -4690,20 +4852,21 @@
     'emoji' => '🇳🇦',
     'callingcode' => '264',
     'currency' => 'NAD',
+    'code' => 'NA',
   ),
-  'NC' =>
+  'NC' => 
   array (
     'name' => 'New Caledonia',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Noumea',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -21.5,
       1 => 165.5,
@@ -4716,20 +4879,21 @@
     'emoji' => '🇳🇨',
     'callingcode' => '687',
     'currency' => 'XPF',
+    'code' => 'NC',
   ),
-  'NE' =>
+  'NE' => 
   array (
     'name' => 'Niger',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Niamey',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 16.0,
       1 => 8.0,
@@ -4742,20 +4906,21 @@
     'emoji' => '🇳🇪',
     'callingcode' => '227',
     'currency' => 'XOF',
+    'code' => 'NE',
   ),
-  'NF' =>
+  'NF' => 
   array (
     'name' => 'Norfolk Island',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Norfolk',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -29.08,
       1 => 167.92,
@@ -4768,20 +4933,21 @@
     'emoji' => '🇳🇫',
     'callingcode' => '672',
     'currency' => 'AUD',
+    'code' => 'NF',
   ),
-  'NG' =>
+  'NG' => 
   array (
     'name' => 'Nigeria',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Lagos',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 10.0,
       1 => 8.0,
@@ -4794,20 +4960,21 @@
     'emoji' => '🇳🇬',
     'callingcode' => '234',
     'currency' => 'NGN',
+    'code' => 'NG',
   ),
-  'NI' =>
+  'NI' => 
   array (
     'name' => 'Nicaragua',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Managua',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.0,
       1 => -85.0,
@@ -4820,20 +4987,21 @@
     'emoji' => '🇳🇮',
     'callingcode' => '505',
     'currency' => 'NIO',
+    'code' => 'NI',
   ),
-  'NL' =>
+  'NL' => 
   array (
     'name' => 'Netherlands',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Amsterdam',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 52.5,
       1 => 5.75,
@@ -4846,20 +5014,21 @@
     'emoji' => '🇳🇱',
     'callingcode' => '31',
     'currency' => 'EUR',
+    'code' => 'NL',
   ),
-  'NO' =>
+  'NO' => 
   array (
     'name' => 'Norway',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Oslo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 62.0,
       1 => 10.0,
@@ -4872,20 +5041,21 @@
     'emoji' => '🇳🇴',
     'callingcode' => '47',
     'currency' => 'NOK',
+    'code' => 'NO',
   ),
-  'NP' =>
+  'NP' => 
   array (
     'name' => 'Nepal',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Katmandu',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 28.0,
       1 => 84.0,
@@ -4898,20 +5068,21 @@
     'emoji' => '🇳🇵',
     'callingcode' => '977',
     'currency' => 'NPR',
+    'code' => 'NP',
   ),
-  'NR' =>
+  'NR' => 
   array (
     'name' => 'Nauru',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Nauru',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -0.53,
       1 => 166.92,
@@ -4924,20 +5095,21 @@
     'emoji' => '🇳🇷',
     'callingcode' => '674',
     'currency' => 'AUD',
+    'code' => 'NR',
   ),
-  'NU' =>
+  'NU' => 
   array (
     'name' => 'Niue',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Niue',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -19.03,
       1 => -169.87,
@@ -4950,25 +5122,26 @@
     'emoji' => '🇳🇺',
     'callingcode' => '683',
     'currency' => 'NZD',
+    'code' => 'NU',
   ),
-  'NZ' =>
+  'NZ' => 
   array (
     'name' => 'New Zealand',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Auckland',
         1 => 174.766667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Pacific/Chatham',
         1 => -176.55,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -42.0,
       1 => 174.0,
@@ -4981,20 +5154,21 @@
     'emoji' => '🇳🇿',
     'callingcode' => '64',
     'currency' => 'NZD',
+    'code' => 'NZ',
   ),
-  'OM' =>
+  'OM' => 
   array (
     'name' => 'Oman',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Muscat',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 21.0,
       1 => 57.0,
@@ -5007,20 +5181,21 @@
     'emoji' => '🇴🇲',
     'callingcode' => '968',
     'currency' => 'OMR',
+    'code' => 'OM',
   ),
-  'PA' =>
+  'PA' => 
   array (
     'name' => 'Panama',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Panama',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 9.0,
       1 => -80.0,
@@ -5033,20 +5208,21 @@
     'emoji' => '🇵🇦',
     'callingcode' => '507',
     'currency' => 'PAB',
+    'code' => 'PA',
   ),
-  'PE' =>
+  'PE' => 
   array (
     'name' => 'Peru',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Lima',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -10.0,
       1 => -76.0,
@@ -5059,30 +5235,31 @@
     'emoji' => '🇵🇪',
     'callingcode' => '51',
     'currency' => 'PEN',
+    'code' => 'PE',
   ),
-  'PF' =>
+  'PF' => 
   array (
     'name' => 'French Polynesia',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Gambier',
         1 => -134.95,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Pacific/Marquesas',
         1 => -139.5,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Pacific/Tahiti',
         1 => -149.566667,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -15.0,
       1 => -140.0,
@@ -5095,20 +5272,21 @@
     'emoji' => '🇵🇫',
     'callingcode' => '689',
     'currency' => 'XPF',
+    'code' => 'PF',
   ),
-  'PG' =>
+  'PG' => 
   array (
     'name' => 'Papua New Guinea',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Port_Moresby',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -6.0,
       1 => 147.0,
@@ -5121,20 +5299,21 @@
     'emoji' => '🇵🇬',
     'callingcode' => '675',
     'currency' => 'PGK',
+    'code' => 'PG',
   ),
-  'PH' =>
+  'PH' => 
   array (
     'name' => 'Philippines',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Manila',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.0,
       1 => 122.0,
@@ -5147,20 +5326,21 @@
     'emoji' => '🇵🇭',
     'callingcode' => '63',
     'currency' => 'PHP',
+    'code' => 'PH',
   ),
-  'PK' =>
+  'PK' => 
   array (
     'name' => 'Pakistan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Karachi',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 30.0,
       1 => 70.0,
@@ -5173,20 +5353,21 @@
     'emoji' => '🇵🇰',
     'callingcode' => '92',
     'currency' => 'PKR',
+    'code' => 'PK',
   ),
-  'PL' =>
+  'PL' => 
   array (
     'name' => 'Poland',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Warsaw',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 52.0,
       1 => 20.0,
@@ -5199,20 +5380,21 @@
     'emoji' => '🇵🇱',
     'callingcode' => '48',
     'currency' => 'PLN',
+    'code' => 'PL',
   ),
-  'PM' =>
+  'PM' => 
   array (
     'name' => 'Saint Pierre and Miquelon',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Miquelon',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 46.83,
       1 => -56.33,
@@ -5225,20 +5407,21 @@
     'emoji' => '🇵🇲',
     'callingcode' => '508',
     'currency' => 'EUR',
+    'code' => 'PM',
   ),
-  'PN' =>
+  'PN' => 
   array (
     'name' => 'Pitcairn',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Pitcairn',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -25.07,
       1 => -130.08,
@@ -5251,20 +5434,21 @@
     'emoji' => '🇵🇳',
     'callingcode' => '64',
     'currency' => 'NZD',
+    'code' => 'PN',
   ),
-  'PR' =>
+  'PR' => 
   array (
     'name' => 'Puerto Rico',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Puerto_Rico',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 18.23,
       1 => -66.55,
@@ -5277,20 +5461,21 @@
     'emoji' => '🇵🇷',
     'callingcode' => '1787',
     'currency' => 'USD',
+    'code' => 'PR',
   ),
-  'PS' =>
+  'PS' => 
   array (
     'name' => 'Palestinian Territory',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Gaza',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 32.0,
       1 => 35.25,
@@ -5303,30 +5488,31 @@
     'emoji' => '🇵🇸',
     'callingcode' => '970',
     'currency' => 'ILS',
+    'code' => 'PS',
   ),
-  'PT' =>
+  'PT' => 
   array (
     'name' => 'Portugal',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Atlantic/Azores',
         1 => -25.666667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Atlantic/Madeira',
         1 => -16.9,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Europe/Lisbon',
         1 => -9.133333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 39.5,
       1 => -8.0,
@@ -5339,20 +5525,21 @@
     'emoji' => '🇵🇹',
     'callingcode' => '351',
     'currency' => 'EUR',
+    'code' => 'PT',
   ),
-  'PW' =>
+  'PW' => 
   array (
     'name' => 'Palau',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Palau',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 6.0,
       1 => 134.0,
@@ -5365,20 +5552,21 @@
     'emoji' => '🇵🇼',
     'callingcode' => '680',
     'currency' => 'USD',
+    'code' => 'PW',
   ),
-  'PY' =>
+  'PY' => 
   array (
     'name' => 'Paraguay',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Asuncion',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -23.0,
       1 => -58.0,
@@ -5391,20 +5579,21 @@
     'emoji' => '🇵🇾',
     'callingcode' => '595',
     'currency' => 'PYG',
+    'code' => 'PY',
   ),
-  'QA' =>
+  'QA' => 
   array (
     'name' => 'Qatar',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Qatar',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 25.5,
       1 => 51.25,
@@ -5417,20 +5606,21 @@
     'emoji' => '🇶🇦',
     'callingcode' => '974',
     'currency' => 'QAR',
+    'code' => 'QA',
   ),
-  'RE' =>
+  'RE' => 
   array (
     'name' => 'Reunion',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Reunion',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -21.1,
       1 => 55.6,
@@ -5443,20 +5633,21 @@
     'emoji' => '🇷🇪',
     'callingcode' => '262',
     'currency' => 'EUR',
+    'code' => 'RE',
   ),
-  'RO' =>
+  'RO' => 
   array (
     'name' => 'Romania',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Bucharest',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 46.0,
       1 => 25.0,
@@ -5469,20 +5660,21 @@
     'emoji' => '🇷🇴',
     'callingcode' => '40',
     'currency' => 'RON',
+    'code' => 'RO',
   ),
-  'RS' =>
+  'RS' => 
   array (
     'name' => 'Serbia',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Belgrade',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 43.8,
       1 => 21.0,
@@ -5495,90 +5687,91 @@
     'emoji' => '🇷🇸',
     'callingcode' => '381',
     'currency' => 'RSD',
+    'code' => 'RS',
   ),
-  'RU' =>
+  'RU' => 
   array (
     'name' => 'Russia',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Anadyr',
         1 => 177.483333,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Asia/Irkutsk',
         1 => 104.333333,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Asia/Kamchatka',
         1 => 158.65,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'Asia/Krasnoyarsk',
         1 => 92.833333,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'Asia/Magadan',
         1 => 150.8,
       ),
-      5 =>
+      5 => 
       array (
         0 => 'Asia/Novosibirsk',
         1 => 82.916667,
       ),
-      6 =>
+      6 => 
       array (
         0 => 'Asia/Omsk',
         1 => 73.4,
       ),
-      7 =>
+      7 => 
       array (
         0 => 'Asia/Sakhalin',
         1 => 142.7,
       ),
-      8 =>
+      8 => 
       array (
         0 => 'Asia/Vladivostok',
         1 => 131.933333,
       ),
-      9 =>
+      9 => 
       array (
         0 => 'Asia/Yakutsk',
         1 => 129.666667,
       ),
-      10 =>
+      10 => 
       array (
         0 => 'Asia/Yekaterinburg',
         1 => 60.6,
       ),
-      11 =>
+      11 => 
       array (
         0 => 'Europe/Kaliningrad',
         1 => 20.5,
       ),
-      12 =>
+      12 => 
       array (
         0 => 'Europe/Moscow',
         1 => 37.583333,
       ),
-      13 =>
+      13 => 
       array (
         0 => 'Europe/Samara',
         1 => 50.15,
       ),
-      14 =>
+      14 => 
       array (
         0 => 'Europe/Volgograd',
         1 => 44.416667,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 60.0,
       1 => 47.0,
@@ -5591,20 +5784,21 @@
     'emoji' => '🇷🇺',
     'callingcode' => '7',
     'currency' => 'RUB',
+    'code' => 'RU',
   ),
-  'RW' =>
+  'RW' => 
   array (
     'name' => 'Rwanda',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Kigali',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -2.0,
       1 => 30.0,
@@ -5617,20 +5811,21 @@
     'emoji' => '🇷🇼',
     'callingcode' => '250',
     'currency' => 'RWF',
+    'code' => 'RW',
   ),
-  'SA' =>
+  'SA' => 
   array (
     'name' => 'Saudi Arabia',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Riyadh',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 25.0,
       1 => 45.0,
@@ -5643,20 +5838,21 @@
     'emoji' => '🇸🇦',
     'callingcode' => '966',
     'currency' => 'SAR',
+    'code' => 'SA',
   ),
-  'SB' =>
+  'SB' => 
   array (
     'name' => 'Solomon Islands',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Guadalcanal',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -8.0,
       1 => 159.0,
@@ -5669,20 +5865,21 @@
     'emoji' => '🇸🇧',
     'callingcode' => '677',
     'currency' => 'SBD',
+    'code' => 'SB',
   ),
-  'SC' =>
+  'SC' => 
   array (
     'name' => 'Seychelles',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Mahe',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -4.58,
       1 => 55.67,
@@ -5695,20 +5892,21 @@
     'emoji' => '🇸🇨',
     'callingcode' => '248',
     'currency' => 'SCR',
+    'code' => 'SC',
   ),
-  'SD' =>
+  'SD' => 
   array (
     'name' => 'Sudan',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Khartoum',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 15.0,
       1 => 30.0,
@@ -5721,20 +5919,21 @@
     'emoji' => '🇸🇩',
     'callingcode' => '249',
     'currency' => 'SDG',
+    'code' => 'SD',
   ),
-  'SE' =>
+  'SE' => 
   array (
     'name' => 'Sweden',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Stockholm',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 62.0,
       1 => 15.0,
@@ -5747,20 +5946,21 @@
     'emoji' => '🇸🇪',
     'callingcode' => '46',
     'currency' => 'SEK',
+    'code' => 'SE',
   ),
-  'SG' =>
+  'SG' => 
   array (
     'name' => 'Singapore',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Singapore',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 1.37,
       1 => 103.8,
@@ -5773,20 +5973,21 @@
     'emoji' => '🇸🇬',
     'callingcode' => '65',
     'currency' => 'SGD',
+    'code' => 'SG',
   ),
-  'SH' =>
+  'SH' => 
   array (
     'name' => 'Saint Helena',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Atlantic/St_Helena',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -15.95,
       1 => -5.7,
@@ -5798,20 +5999,21 @@
     'capital' => NULL,
     'emoji' => '🇸🇭',
     'currency' => 'SHP',
+    'code' => 'SH',
   ),
-  'SI' =>
+  'SI' => 
   array (
     'name' => 'Slovenia',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Ljubljana',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 46.25,
       1 => 15.17,
@@ -5824,25 +6026,26 @@
     'emoji' => '🇸🇮',
     'callingcode' => '386',
     'currency' => 'EUR',
+    'code' => 'SI',
   ),
-  'SJ' =>
+  'SJ' => 
   array (
     'name' => 'Svalbard and Jan Mayen',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Arctic/Longyearbyen',
         1 => 16,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Atlantic/Jan_Mayen',
         1 => -8.083333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 78.0,
       1 => 20.0,
@@ -5855,20 +6058,21 @@
     'emoji' => '🇸🇯',
     'callingcode' => '4779',
     'currency' => 'NOK',
+    'code' => 'SJ',
   ),
-  'SK' =>
+  'SK' => 
   array (
     'name' => 'Slovakia',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Bratislava',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 48.67,
       1 => 19.5,
@@ -5881,20 +6085,21 @@
     'emoji' => '🇸🇰',
     'callingcode' => '421',
     'currency' => 'EUR',
+    'code' => 'SK',
   ),
-  'SL' =>
+  'SL' => 
   array (
     'name' => 'Sierra Leone',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Freetown',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 8.5,
       1 => -11.5,
@@ -5907,20 +6112,21 @@
     'emoji' => '🇸🇱',
     'callingcode' => '232',
     'currency' => 'SLL',
+    'code' => 'SL',
   ),
-  'SM' =>
+  'SM' => 
   array (
     'name' => 'San Marino',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/San_Marino',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 43.93,
       1 => 12.42,
@@ -5933,20 +6139,21 @@
     'emoji' => '🇸🇲',
     'callingcode' => '378',
     'currency' => 'EUR',
+    'code' => 'SM',
   ),
-  'SN' =>
+  'SN' => 
   array (
     'name' => 'Senegal',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Dakar',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 14.0,
       1 => -14.0,
@@ -5959,20 +6166,21 @@
     'emoji' => '🇸🇳',
     'callingcode' => '221',
     'currency' => 'XOF',
+    'code' => 'SN',
   ),
-  'SO' =>
+  'SO' => 
   array (
     'name' => 'Somalia',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Mogadishu',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 6.0,
       1 => 48.0,
@@ -5985,20 +6193,21 @@
     'emoji' => '🇸🇴',
     'callingcode' => '252',
     'currency' => 'SOS',
+    'code' => 'SO',
   ),
-  'SR' =>
+  'SR' => 
   array (
     'name' => 'Suriname',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Paramaribo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 4.0,
       1 => -56.0,
@@ -6011,18 +6220,19 @@
     'emoji' => '🇸🇷',
     'callingcode' => '597',
     'currency' => 'SRD',
+    'code' => 'SR',
   ),
-  'SS' =>
+  'SS' => 
   array (
     'name' => 'South Sudan',
     'iso-3166-alpha-2' => 'SS',
     'iso-3166-alpha-3' => 'SSD',
     'tld' => '.ss',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => NULL,
       1 => NULL,
@@ -6032,20 +6242,21 @@
     'emoji' => '🇸🇸',
     'callingcode' => '211',
     'currency' => 'SSP',
+    'code' => 'SS',
   ),
-  'ST' =>
+  'ST' => 
   array (
     'name' => 'Sao Tome and Principe',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Sao_Tome',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 1.0,
       1 => 7.0,
@@ -6058,20 +6269,21 @@
     'emoji' => '🇸🇹',
     'callingcode' => '239',
     'currency' => 'STD',
+    'code' => 'ST',
   ),
-  'SV' =>
+  'SV' => 
   array (
     'name' => 'El Salvador',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/El_Salvador',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.83,
       1 => -88.92,
@@ -6084,18 +6296,19 @@
     'emoji' => '🇸🇻',
     'callingcode' => '503',
     'currency' => 'SVC',
+    'code' => 'SV',
   ),
-  'SX' =>
+  'SX' => 
   array (
     'name' => 'Sint Maarten',
     'iso-3166-alpha-2' => 'SX',
     'iso-3166-alpha-3' => 'SXM',
     'tld' => '.sx',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => NULL,
       1 => NULL,
@@ -6105,20 +6318,21 @@
     'emoji' => '🇸🇽',
     'callingcode' => '1721',
     'currency' => 'ANG',
+    'code' => 'SX',
   ),
-  'SY' =>
+  'SY' => 
   array (
     'name' => 'Syria',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Damascus',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 35.0,
       1 => 38.0,
@@ -6131,20 +6345,21 @@
     'emoji' => '🇸🇾',
     'callingcode' => '963',
     'currency' => 'SYP',
+    'code' => 'SY',
   ),
-  'SZ' =>
+  'SZ' => 
   array (
     'name' => 'Swaziland',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Mbabane',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -26.5,
       1 => 31.5,
@@ -6157,20 +6372,21 @@
     'emoji' => '🇸🇿',
     'callingcode' => '268',
     'currency' => 'SZL',
+    'code' => 'SZ',
   ),
-  'TC' =>
+  'TC' => 
   array (
     'name' => 'Turks and Caicos Islands',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Grand_Turk',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 21.73,
       1 => -71.58,
@@ -6183,20 +6399,21 @@
     'emoji' => '🇹🇨',
     'callingcode' => '1649',
     'currency' => 'USD',
+    'code' => 'TC',
   ),
-  'TD' =>
+  'TD' => 
   array (
     'name' => 'Chad',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Ndjamena',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 15.0,
       1 => 19.0,
@@ -6209,20 +6426,21 @@
     'emoji' => '🇹🇩',
     'callingcode' => '235',
     'currency' => 'XAF',
+    'code' => 'TD',
   ),
-  'TF' =>
+  'TF' => 
   array (
     'name' => 'French Southern Territories',
     'continent' => 'AN',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Kerguelen',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -43.0,
       1 => 67.0,
@@ -6234,20 +6452,21 @@
     'capital' => 'Port-aux-Français',
     'emoji' => '🇹🇫',
     'currency' => 'EUR',
+    'code' => 'TF',
   ),
-  'TG' =>
+  'TG' => 
   array (
     'name' => 'Togo',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Lome',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 8.0,
       1 => 1.17,
@@ -6260,20 +6479,21 @@
     'emoji' => '🇹🇬',
     'callingcode' => '228',
     'currency' => 'XOF',
+    'code' => 'TG',
   ),
-  'TH' =>
+  'TH' => 
   array (
     'name' => 'Thailand',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Bangkok',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 15.0,
       1 => 100.0,
@@ -6286,20 +6506,21 @@
     'emoji' => '🇹🇭',
     'callingcode' => '66',
     'currency' => 'THB',
+    'code' => 'TH',
   ),
-  'TJ' =>
+  'TJ' => 
   array (
     'name' => 'Tajikistan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Dushanbe',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 39.0,
       1 => 71.0,
@@ -6312,20 +6533,21 @@
     'emoji' => '🇹🇯',
     'callingcode' => '992',
     'currency' => 'TJS',
+    'code' => 'TJ',
   ),
-  'TK' =>
+  'TK' => 
   array (
     'name' => 'Tokelau',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Fakaofo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -9.0,
       1 => -171.75,
@@ -6338,20 +6560,21 @@
     'emoji' => '🇹🇰',
     'callingcode' => '690',
     'currency' => 'NZD',
+    'code' => 'TK',
   ),
-  'TL' =>
+  'TL' => 
   array (
     'name' => 'East Timor',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Dili',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -8.87,
       1 => 125.72,
@@ -6364,20 +6587,21 @@
     'emoji' => '🇹🇱',
     'callingcode' => '670',
     'currency' => 'USD',
+    'code' => 'TL',
   ),
-  'TM' =>
+  'TM' => 
   array (
     'name' => 'Turkmenistan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Ashgabat',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 40.0,
       1 => 60.0,
@@ -6390,20 +6614,21 @@
     'emoji' => '🇹🇲',
     'callingcode' => '993',
     'currency' => 'TMT',
+    'code' => 'TM',
   ),
-  'TN' =>
+  'TN' => 
   array (
     'name' => 'Tunisia',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Tunis',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 34.0,
       1 => 9.0,
@@ -6416,20 +6641,21 @@
     'emoji' => '🇹🇳',
     'callingcode' => '216',
     'currency' => 'TND',
+    'code' => 'TN',
   ),
-  'TO' =>
+  'TO' => 
   array (
     'name' => 'Tonga',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Tongatapu',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -20.0,
       1 => -175.0,
@@ -6442,20 +6668,21 @@
     'emoji' => '🇹🇴',
     'callingcode' => '676',
     'currency' => 'TOP',
+    'code' => 'TO',
   ),
-  'TP' =>
+  'TP' => 
   array (
     'name' => 'East Timor',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Dili',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -8.87,
       1 => 125.72,
@@ -6463,20 +6690,21 @@
     'iso-3166-alpha-2' => 'TL',
     'iso-3166-alpha-3' => 'TLS',
     'tld' => '.tl',
+    'code' => 'TP',
   ),
-  'TR' =>
+  'TR' => 
   array (
     'name' => 'Turkey',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Istanbul',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 39.0,
       1 => 35.0,
@@ -6489,20 +6717,21 @@
     'emoji' => '🇹🇷',
     'callingcode' => '90',
     'currency' => 'TRY',
+    'code' => 'TR',
   ),
-  'TT' =>
+  'TT' => 
   array (
     'name' => 'Trinidad and Tobago',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Port_of_Spain',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 11.0,
       1 => -61.0,
@@ -6515,20 +6744,21 @@
     'emoji' => '🇹🇹',
     'callingcode' => '1868',
     'currency' => 'TTD',
+    'code' => 'TT',
   ),
-  'TV' =>
+  'TV' => 
   array (
     'name' => 'Tuvalu',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Funafuti',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -8.0,
       1 => 178.0,
@@ -6541,20 +6771,21 @@
     'emoji' => '🇹🇻',
     'callingcode' => '688',
     'currency' => 'AUD',
+    'code' => 'TV',
   ),
-  'TW' =>
+  'TW' => 
   array (
     'name' => 'Taiwan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Taipei',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 23.5,
       1 => 121.0,
@@ -6567,20 +6798,21 @@
     'emoji' => '🇹🇼',
     'callingcode' => '886',
     'currency' => 'TWD',
+    'code' => 'TW',
   ),
-  'TZ' =>
+  'TZ' => 
   array (
     'name' => 'Tanzania',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Dar_es_Salaam',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -6.0,
       1 => 35.0,
@@ -6593,35 +6825,36 @@
     'emoji' => '🇹🇿',
     'callingcode' => '255',
     'currency' => 'TZS',
+    'code' => 'TZ',
   ),
-  'UA' =>
+  'UA' => 
   array (
     'name' => 'Ukraine',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Kiev',
         1 => 30.516667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Europe/Simferopol',
         1 => 34.1,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Europe/Uzhgorod',
         1 => 22.3,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'Europe/Zaporozhye',
         1 => 35.166667,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 49.0,
       1 => 32.0,
@@ -6634,20 +6867,21 @@
     'emoji' => '🇺🇦',
     'callingcode' => '380',
     'currency' => 'UAH',
+    'code' => 'UA',
   ),
-  'UG' =>
+  'UG' => 
   array (
     'name' => 'Uganda',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Kampala',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 2.0,
       1 => 33.0,
@@ -6660,30 +6894,31 @@
     'emoji' => '🇺🇬',
     'callingcode' => '256',
     'currency' => 'UGX',
+    'code' => 'UG',
   ),
-  'UM' =>
+  'UM' => 
   array (
     'name' => 'United States Minor Outlying Islands',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Johnston',
         1 => -169.516667,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Pacific/Midway',
         1 => -177.366667,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'Pacific/Wake',
         1 => 166.616667,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 10.0,
       1 => -175.0,
@@ -6696,150 +6931,151 @@
     'emoji' => '🇺🇲',
     'callingcode' => '246',
     'currency' => 'USD',
+    'code' => 'UM',
   ),
-  'US' =>
+  'US' => 
   array (
     'name' => 'United States',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Adak',
         1 => -176.658056,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'America/Anchorage',
         1 => -149.900278,
       ),
-      2 =>
+      2 => 
       array (
         0 => 'America/Boise',
         1 => -116.2025,
       ),
-      3 =>
+      3 => 
       array (
         0 => 'America/Chicago',
         1 => -87.65,
       ),
-      4 =>
+      4 => 
       array (
         0 => 'America/Denver',
         1 => -104.984167,
       ),
-      5 =>
+      5 => 
       array (
         0 => 'America/Detroit',
         1 => -83.045833,
       ),
-      6 =>
+      6 => 
       array (
         0 => 'America/Indiana/Indianapolis',
         1 => -86.158056,
       ),
-      7 =>
+      7 => 
       array (
         0 => 'America/Indiana/Knox',
         1 => -86.625,
       ),
-      8 =>
+      8 => 
       array (
         0 => 'America/Indiana/Marengo',
         1 => -86.344722,
       ),
-      9 =>
+      9 => 
       array (
         0 => 'America/Indiana/Petersburg',
         1 => -87.278611,
       ),
-      10 =>
+      10 => 
       array (
         0 => 'America/Indiana/Tell_City',
         1 => -86.761389,
       ),
-      11 =>
+      11 => 
       array (
         0 => 'America/Indiana/Vevay',
         1 => -85.067222,
       ),
-      12 =>
+      12 => 
       array (
         0 => 'America/Indiana/Vincennes',
         1 => -87.528611,
       ),
-      13 =>
+      13 => 
       array (
         0 => 'America/Indiana/Winamac',
         1 => -86.603056,
       ),
-      14 =>
+      14 => 
       array (
         0 => 'America/Juneau',
         1 => -134.419722,
       ),
-      15 =>
+      15 => 
       array (
         0 => 'America/Kentucky/Louisville',
         1 => -85.759444,
       ),
-      16 =>
+      16 => 
       array (
         0 => 'America/Kentucky/Monticello',
         1 => -84.849167,
       ),
-      17 =>
+      17 => 
       array (
         0 => 'America/Los_Angeles',
         1 => -118.242778,
       ),
-      18 =>
+      18 => 
       array (
         0 => 'America/Menominee',
         1 => -87.614167,
       ),
-      19 =>
+      19 => 
       array (
         0 => 'America/New_York',
         1 => -74.006389,
       ),
-      20 =>
+      20 => 
       array (
         0 => 'America/Nome',
         1 => -165.406389,
       ),
-      21 =>
+      21 => 
       array (
         0 => 'America/North_Dakota/Center',
         1 => -101.299167,
       ),
-      22 =>
+      22 => 
       array (
         0 => 'America/North_Dakota/New_Salem',
         1 => -101.410833,
       ),
-      23 =>
+      23 => 
       array (
         0 => 'America/Phoenix',
         1 => -112.073333,
       ),
-      24 =>
+      24 => 
       array (
         0 => 'America/Shiprock',
         1 => -108.686389,
       ),
-      25 =>
+      25 => 
       array (
         0 => 'America/Yakutat',
         1 => -139.727222,
       ),
-      26 =>
+      26 => 
       array (
         0 => 'Pacific/Honolulu',
         1 => -157.858333,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 38.0,
       1 => -98.0,
@@ -6852,20 +7088,21 @@
     'emoji' => '🇺🇸',
     'callingcode' => '1',
     'currency' => 'USD',
+    'code' => 'US',
   ),
-  'UY' =>
+  'UY' => 
   array (
     'name' => 'Uruguay',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Montevideo',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -33.0,
       1 => -56.0,
@@ -6878,25 +7115,26 @@
     'emoji' => '🇺🇾',
     'callingcode' => '598',
     'currency' => 'UYU',
+    'code' => 'UY',
   ),
-  'UZ' =>
+  'UZ' => 
   array (
     'name' => 'Uzbekistan',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Samarkand',
         1 => 66.8,
       ),
-      1 =>
+      1 => 
       array (
         0 => 'Asia/Tashkent',
         1 => 69.3,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 41.0,
       1 => 64.0,
@@ -6909,20 +7147,21 @@
     'emoji' => '🇺🇿',
     'callingcode' => '998',
     'currency' => 'UZS',
+    'code' => 'UZ',
   ),
-  'VA' =>
+  'VA' => 
   array (
     'name' => 'Vatican',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Europe/Vatican',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 41.9,
       1 => 12.45,
@@ -6935,20 +7174,21 @@
     'emoji' => '🇻🇦',
     'callingcode' => '3906698',
     'currency' => 'EUR',
+    'code' => 'VA',
   ),
-  'VC' =>
+  'VC' => 
   array (
     'name' => 'Saint Vincent and the Grenadines',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/St_Vincent',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 13.08,
       1 => -61.2,
@@ -6961,20 +7201,21 @@
     'emoji' => '🇻🇨',
     'callingcode' => '1784',
     'currency' => 'XCD',
+    'code' => 'VC',
   ),
-  'VE' =>
+  'VE' => 
   array (
     'name' => 'Venezuela',
     'continent' => 'SA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Caracas',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 8.0,
       1 => -66.0,
@@ -6987,20 +7228,21 @@
     'emoji' => '🇻🇪',
     'callingcode' => '58',
     'currency' => 'VEF',
+    'code' => 'VE',
   ),
-  'VG' =>
+  'VG' => 
   array (
     'name' => 'British Virgin Islands',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/Tortola',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 18.5,
       1 => -64.5,
@@ -7013,20 +7255,21 @@
     'emoji' => '🇻🇬',
     'callingcode' => '1284',
     'currency' => 'USD',
+    'code' => 'VG',
   ),
-  'VI' =>
+  'VI' => 
   array (
     'name' => 'U.S. Virgin Islands',
     'continent' => 'NA',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'America/St_Thomas',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 18.5,
       1 => -64.43,
@@ -7039,20 +7282,21 @@
     'emoji' => '🇻🇮',
     'callingcode' => '1340',
     'currency' => 'USD',
+    'code' => 'VI',
   ),
-  'VN' =>
+  'VN' => 
   array (
     'name' => 'Vietnam',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Saigon',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 16.0,
       1 => 106.0,
@@ -7065,20 +7309,21 @@
     'emoji' => '🇻🇳',
     'callingcode' => '84',
     'currency' => 'VND',
+    'code' => 'VN',
   ),
-  'VU' =>
+  'VU' => 
   array (
     'name' => 'Vanuatu',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Efate',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -16.0,
       1 => 167.0,
@@ -7091,20 +7336,21 @@
     'emoji' => '🇻🇺',
     'callingcode' => '678',
     'currency' => 'VUV',
+    'code' => 'VU',
   ),
-  'WF' =>
+  'WF' => 
   array (
     'name' => 'Wallis and Futuna',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Wallis',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -14.0,
       1 => -177.0,
@@ -7117,20 +7363,21 @@
     'emoji' => '🇼🇫',
     'callingcode' => '681',
     'currency' => 'XPF',
+    'code' => 'WF',
   ),
-  'WS' =>
+  'WS' => 
   array (
     'name' => 'Samoa',
     'continent' => 'OC',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Pacific/Apia',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -13.58,
       1 => -172.33,
@@ -7143,18 +7390,19 @@
     'emoji' => '🇼🇸',
     'callingcode' => '685',
     'currency' => 'WST',
+    'code' => 'WS',
   ),
-  'XK' =>
+  'XK' => 
   array (
     'name' => 'Kosovo',
     'iso-3166-alpha-2' => 'XK',
     'iso-3166-alpha-3' => 'XXK',
     'tld' => 'Kuwait',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => NULL,
       1 => NULL,
@@ -7164,20 +7412,21 @@
     'emoji' => '🇽🇰',
     'callingcode' => '383',
     'currency' => 'EUR',
+    'code' => 'XK',
   ),
-  'YE' =>
+  'YE' => 
   array (
     'name' => 'Yemen',
     'continent' => 'AS',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Asia/Aden',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 15.5,
       1 => 47.5,
@@ -7190,20 +7439,21 @@
     'emoji' => '🇾🇪',
     'callingcode' => '967',
     'currency' => 'YER',
+    'code' => 'YE',
   ),
-  'YT' =>
+  'YT' => 
   array (
     'name' => 'Mayotte',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Indian/Mayotte',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -12.83,
       1 => 45.17,
@@ -7216,36 +7466,38 @@
     'emoji' => '🇾🇹',
     'callingcode' => '262',
     'currency' => 'EUR',
+    'code' => 'YT',
   ),
-  'YU' =>
+  'YU' => 
   array (
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => 44.0,
       1 => 21.0,
     ),
     'name' => 'Yugoslavia',
     'continent' => 'EU',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
     'iso-3166-alpha-2' => NULL,
     'iso-3166-alpha-3' => NULL,
     'tld' => NULL,
+    'code' => 'YU',
   ),
-  'ZA' =>
+  'ZA' => 
   array (
     'name' => 'South Africa',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Johannesburg',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -30.0,
       1 => 26.0,
@@ -7258,20 +7510,21 @@
     'emoji' => '🇿🇦',
     'callingcode' => '27',
     'currency' => 'ZAR',
+    'code' => 'ZA',
   ),
-  'ZM' =>
+  'ZM' => 
   array (
     'name' => 'Zambia',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Lusaka',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -15.0,
       1 => 30.0,
@@ -7284,36 +7537,38 @@
     'emoji' => '🇿🇲',
     'callingcode' => '260',
     'currency' => 'ZMW',
+    'code' => 'ZM',
   ),
-  'ZR' =>
+  'ZR' => 
   array (
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -1.0,
       1 => 22.0,
     ),
     'name' => 'Republic of Zaire',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
     ),
     'iso-3166-alpha-2' => NULL,
     'iso-3166-alpha-3' => NULL,
     'tld' => NULL,
+    'code' => 'ZR',
   ),
-  'ZW' =>
+  'ZW' => 
   array (
     'name' => 'Zimbabwe',
     'continent' => 'AF',
-    'timezone' =>
+    'timezone' => 
     array (
-      0 =>
+      0 => 
       array (
         0 => 'Africa/Harare',
         1 => NULL,
       ),
     ),
-    'coordinates' =>
+    'coordinates' => 
     array (
       0 => -19.0,
       1 => 29.0,
@@ -7326,5 +7581,6 @@
     'emoji' => '🇿🇼',
     'callingcode' => '263',
     'currency' => 'ZWL',
+    'code' => 'ZW',
   ),
 );

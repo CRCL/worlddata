@@ -3,46 +3,46 @@ CRCL world data
 
 Enrich country codes with names, continent, time zone, coordinates and tld.
 
+### ** Warning ** this package is still in development
+use at your own risk - before we release a major version, ever update can contain CB's
+
+
 Installation / Usage
 --------------------
-
-*Warning* this package is still in development -
-
 
 Download and install this package via composer.
 
 `composer require crcl/worlddata`
 
 ```php
-$oContinent = \CRCL\worlddata\World::continents();
+$oContinent = \CRCL\worlddata\World::continents(); // all continents
 $oContinent = \CRCL\worlddata\World::continents()->find('EU'); // Continent instance
-
 $oContinent->code; // EU
 $oContinent->name; // Europe
-$oContinent->countries; // [Country1, Country2,..]
+$oContinent->countries(); // [CountryObj1, CountryObj2,..]
 
 $oCountry = \crcl\worlddata\World::countries()->find('DE'); // or use shortcut ::countries('DE')
 $oCountry->name; // Germany
-$oCountry->continent; // ['code' => 'EU', 'name' => 'Europe']
 $oCountry->coordinates; // [latitude , longitude] of country center
 $oCountry->timezones; // [["Europe/Berlin", null]] Countries with multiple time-zones are represented by an array of time-zone name and time-zone longitude pairs.
 $oCountry->tld; // .de
+$oCountry->continent; // EU
+$oCountry->continent(); // ContinentObj
 
 // additional data sets
 \crcl\worlddata\World::currencies();
-\crcl\worlddata\World::languages()
 \crcl\worlddata\World::languages();
 \crcl\worlddata\World::topLevelDomains();
 
 // useful samples
-
-\crcl\worlddata\World::countries()->groupBy('continent');
-
+\crcl\worlddata\World::countries()->groupBy('continent'); // countries grouped by continents
+\crcl\worlddata\World::countries()->contains('name', 'Germany') // check by any property
+\crcl\worlddata\World::currencies()->exist('USD'); // check by code true
+// etc..
 ```
+*Tipp!* All collections are a instance of \Illuminate\Support\Collection
 
-all collections are a instance of \Illuminate\Support\Collection
-
-Please take a look at [Laravel Collections Doku](https://laravel.com/docs/8.x/collections#available-methods)
+Please take a look at [Laravel Collections Doku](https://laravel.com/docs/8.x/collections#available-methods) for all available methods
 
 Requirements
 ------------

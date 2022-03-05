@@ -5,23 +5,23 @@ namespace crcl\worlddata;
 use Illuminate\Support\Pluralizer;
 
 /**
- * @method static continents($name = null)
- * @method static countries()
- * @method static currencies()
- * @method static languages()
- * @method static topLevelDomains()
+ * @method static continents($code = null)
+ * @method static countries($code = null)
+ * @method static currencies($code = null)
+ * @method static languages($code = null)
+ * @method static topLevelDomains($code = null)
  */
 class World
 {
-    public static function __callStatic($name, $args)
+    public static function __callStatic($fn_name, $args)
     {
-        $name = strtolower(str_replace(['-', '_', ' '], '', $name));
+        $fn_name = strtolower(str_replace(['-', '_', ' '], '', $fn_name));
 
-        if (self::checkValidFunction($name)) {
-            //$file = Pluralizer::plural($name);
-            $class = '\crcl\worlddata\items\\'.ucfirst(Pluralizer::singular($name));
+        if (self::checkValidFunction($fn_name)) {
 
-            $items = include dirname(__FILE__).'/data/'.$name.'.php';
+            $class = '\crcl\worlddata\items\\'.ucfirst(Pluralizer::singular($fn_name));
+
+            $items = include dirname(__FILE__).'/data/'.$fn_name.'.php';
             $collection = Collection::create($items, $class);
 
             if (isset($args[0])) {
@@ -30,7 +30,7 @@ class World
 
             return $collection;
         } else {
-            throw new WorldException("Method '{$name}' not found in ".__CLASS__);
+            throw new WorldException("Method '{$fn_name}' not found in ".__CLASS__);
         }
     }
 

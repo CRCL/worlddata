@@ -10,7 +10,7 @@ $TLDs = [];
 foreach ($new_data as $tld) {
     $tld = trim($tld);
 
-    if ($tld !== '') {
+    if ($tld !== '' && !\Illuminate\Support\Str::startsWith($tld, '#')) {
         $TLDs[strtoupper($tld)] = [
             'code' =>   strtoupper($tld),
             'tld' => '.'.strtolower($tld),
@@ -22,5 +22,5 @@ foreach ($new_data as $tld) {
 ksort($TLDs);
 
 //write data
-file_put_contents(dirname(__FILE__).'/../src/data/tlds.php',
+file_put_contents(dirname(__FILE__).'/../src/data/topleveldomains.php',
                   '<?php return '.var_export($TLDs, true).';');

@@ -2,7 +2,8 @@
 
 namespace crcl\worlddata\items;
 
-use crcl\worlddata\WorldException;
+use crcl\worlddata\Collection;
+use crcl\worlddata\World;
 
 class Continent extends Base
 {
@@ -15,8 +16,8 @@ class Continent extends Base
         $this->code = $item['code'];
     }
 
-    public function countries() : array
+    public function countries() : Collection
     {
-        throw new WorldException('not implemented yet');
+        return World::countries()->where('continent', $this->code);
     }
  }

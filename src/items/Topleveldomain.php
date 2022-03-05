@@ -2,20 +2,17 @@
 
 namespace crcl\worlddata\items;
 
-class Topleveldomain
+class Topleveldomain extends Base
 {
-    private string $code;
+    public string $code;
+    public string $tld;
+    public array $countries;
 
-    public function __construct($items)
+    public function __construct($item)
     {
-        $this->code = self::normalise($items['code']);
-        $this->tld = $items['tld'];
+        $this->code = self::normalise($item['code']);
+        $this->tld = $item['tld'];
         $this->countries = [];
-    }
-
-    public function countries() : array
-    {
-        return Data::getTLDs()[$this->code]['countries'];
     }
 
     public static function normalise($code) : string

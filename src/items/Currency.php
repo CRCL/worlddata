@@ -2,17 +2,17 @@
 
 namespace crcl\worlddata\items;
 
-class Currency
+class Currency extends Base
 {
     public string $code;
     public string $name;
     public string $country;
 
-    public function __construct($items)
+    public function __construct($item)
     {
-        $this->code = strtoupper($items['code']);
-        $this->name = $items['name'];
-        $this->country = $items['country'];
+        $this->code = strtoupper($item['code']);
+        $this->name = $item['name'];
+        $this->country = $item['country'];
     }
 
 

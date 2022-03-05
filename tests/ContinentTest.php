@@ -31,10 +31,9 @@ class ContinentTest extends TestCase
 
         $countries = $oContinent->countries();
 
-        $this->assertIsArray($countries);
+        $this->assertInstanceOf(crcl\worlddata\Collection::class, $countries);
         $this->assertCount(18, $countries);
-        $this->assertEquals(crcl\worlddata\Country::class,
-                            get_class($countries['AR']));
+        $this->assertEquals(crcl\worlddata\items\Country::class, get_class($countries['AR']));
     }
 
     public function test_invalid()
@@ -51,7 +50,8 @@ class ContinentTest extends TestCase
         $oContinents = World::continents();
 
         $this->assertInstanceOf(ArrayAccess::class, $oContinents);
-        $this->assertInstanceOf(Continent::class, $oContinents->find('eu'));
+        $this->assertInstanceOf(Continent::class, $oContinents['EU']);
+        $this->assertInstanceOf(ArrayAccess::class, $oContinents['EU']);
     }
 
     function test_supports_json()

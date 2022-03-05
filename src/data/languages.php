@@ -3,7 +3,8 @@
   array (
     'name' => 'Afar',
     'name_native' => 'Afaraf',
-    'code_iso3' => 'aar',
+    'iso3' => 'AAR',
+    'code' => 'AA',
     'countries' => 
     array (
     ),
@@ -12,7 +13,8 @@
   array (
     'name' => 'Abkhazian',
     'name_native' => 'аҧсуа бызшәа, аҧсшәа',
-    'code_iso3' => 'abk',
+    'iso3' => 'ABK',
+    'code' => 'AB',
     'countries' => 
     array (
     ),
@@ -21,7 +23,8 @@
   array (
     'name' => 'Avestan',
     'name_native' => 'avesta',
-    'code_iso3' => 'ave',
+    'iso3' => 'AVE',
+    'code' => 'AE',
     'countries' => 
     array (
     ),
@@ -30,7 +33,8 @@
   array (
     'name' => 'Afrikaans',
     'name_native' => 'Afrikaans',
-    'code_iso3' => 'afr',
+    'iso3' => 'AFR',
+    'code' => 'AF',
     'countries' => 
     array (
     ),
@@ -39,7 +43,8 @@
   array (
     'name' => 'Akan',
     'name_native' => 'Akan',
-    'code_iso3' => 'aka',
+    'iso3' => 'AKA',
+    'code' => 'AK',
     'countries' => 
     array (
     ),
@@ -48,7 +53,8 @@
   array (
     'name' => 'Amharic',
     'name_native' => 'አማርኛ',
-    'code_iso3' => 'amh',
+    'iso3' => 'AMH',
+    'code' => 'AM',
     'countries' => 
     array (
     ),
@@ -57,7 +63,8 @@
   array (
     'name' => 'Aragonese',
     'name_native' => 'aragonés',
-    'code_iso3' => 'arg',
+    'iso3' => 'ARG',
+    'code' => 'AN',
     'countries' => 
     array (
     ),
@@ -66,7 +73,8 @@
   array (
     'name' => 'Arabic',
     'name_native' => 'العربية',
-    'code_iso3' => 'ara',
+    'iso3' => 'ARA',
+    'code' => 'AR',
     'countries' => 
     array (
     ),
@@ -75,7 +83,8 @@
   array (
     'name' => 'Assamese',
     'name_native' => 'অসমীয়া',
-    'code_iso3' => 'asm',
+    'iso3' => 'ASM',
+    'code' => 'AS',
     'countries' => 
     array (
     ),
@@ -84,7 +93,8 @@
   array (
     'name' => 'Avaric',
     'name_native' => 'авар мацӀ, магӀарул мацӀ',
-    'code_iso3' => 'ava',
+    'iso3' => 'AVA',
+    'code' => 'AV',
     'countries' => 
     array (
     ),
@@ -93,7 +103,8 @@
   array (
     'name' => 'Aymara',
     'name_native' => 'aymar aru',
-    'code_iso3' => 'aym',
+    'iso3' => 'AYM',
+    'code' => 'AY',
     'countries' => 
     array (
     ),
@@ -102,7 +113,8 @@
   array (
     'name' => 'Azerbaijani',
     'name_native' => 'azərbaycan dili',
-    'code_iso3' => 'aze',
+    'iso3' => 'AZE',
+    'code' => 'AZ',
     'countries' => 
     array (
     ),
@@ -111,7 +123,8 @@
   array (
     'name' => 'Bashkir',
     'name_native' => 'башҡорт теле',
-    'code_iso3' => 'bak',
+    'iso3' => 'BAK',
+    'code' => 'BA',
     'countries' => 
     array (
     ),
@@ -120,7 +133,8 @@
   array (
     'name' => 'Belarusian',
     'name_native' => 'беларуская мова',
-    'code_iso3' => 'bel',
+    'iso3' => 'BEL',
+    'code' => 'BE',
     'countries' => 
     array (
     ),
@@ -129,7 +143,8 @@
   array (
     'name' => 'Bulgarian',
     'name_native' => 'български език',
-    'code_iso3' => 'bul',
+    'iso3' => 'BUL',
+    'code' => 'BG',
     'countries' => 
     array (
     ),
@@ -138,7 +153,8 @@
   array (
     'name' => 'Bihari languages',
     'name_native' => 'भोजपुरी',
-    'code_iso3' => 'bih',
+    'iso3' => 'BIH',
+    'code' => 'BH',
     'countries' => 
     array (
     ),
@@ -147,7 +163,8 @@
   array (
     'name' => 'Bislama',
     'name_native' => 'Bislama',
-    'code_iso3' => 'bis',
+    'iso3' => 'BIS',
+    'code' => 'BI',
     'countries' => 
     array (
     ),
@@ -156,7 +173,8 @@
   array (
     'name' => 'Bambara',
     'name_native' => 'bamanankan',
-    'code_iso3' => 'bam',
+    'iso3' => 'BAM',
+    'code' => 'BM',
     'countries' => 
     array (
     ),
@@ -165,7 +183,8 @@
   array (
     'name' => 'Bengali',
     'name_native' => 'বাংলা',
-    'code_iso3' => 'ben',
+    'iso3' => 'BEN',
+    'code' => 'BN',
     'countries' => 
     array (
     ),
@@ -174,7 +193,8 @@
   array (
     'name' => 'Tibetan',
     'name_native' => 'བོད་ཡིག',
-    'code_iso3' => 'bod',
+    'iso3' => 'BOD',
+    'code' => 'BO',
     'countries' => 
     array (
     ),
@@ -183,7 +203,8 @@
   array (
     'name' => 'Breton',
     'name_native' => 'brezhoneg',
-    'code_iso3' => 'bre',
+    'iso3' => 'BRE',
+    'code' => 'BR',
     'countries' => 
     array (
     ),
@@ -192,7 +213,8 @@
   array (
     'name' => 'Bosnian',
     'name_native' => 'bosanski jezik',
-    'code_iso3' => 'bos',
+    'iso3' => 'BOS',
+    'code' => 'BS',
     'countries' => 
     array (
     ),
@@ -201,7 +223,8 @@
   array (
     'name' => 'Catalan, Valencian',
     'name_native' => 'català, valencià',
-    'code_iso3' => 'cat',
+    'iso3' => 'CAT',
+    'code' => 'CA',
     'countries' => 
     array (
     ),
@@ -210,7 +233,8 @@
   array (
     'name' => 'Chechen',
     'name_native' => 'нохчийн мотт',
-    'code_iso3' => 'che',
+    'iso3' => 'CHE',
+    'code' => 'CE',
     'countries' => 
     array (
     ),
@@ -219,7 +243,8 @@
   array (
     'name' => 'Chamorro',
     'name_native' => 'Chamoru',
-    'code_iso3' => 'cha',
+    'iso3' => 'CHA',
+    'code' => 'CH',
     'countries' => 
     array (
     ),
@@ -228,7 +253,8 @@
   array (
     'name' => 'Corsican',
     'name_native' => 'corsu, lingua corsa',
-    'code_iso3' => 'cos',
+    'iso3' => 'COS',
+    'code' => 'CO',
     'countries' => 
     array (
     ),
@@ -237,7 +263,8 @@
   array (
     'name' => 'Cree',
     'name_native' => 'ᓀᐦᐃᔭᐍᐏᐣ',
-    'code_iso3' => 'cre',
+    'iso3' => 'CRE',
+    'code' => 'CR',
     'countries' => 
     array (
     ),
@@ -246,7 +273,8 @@
   array (
     'name' => 'Czech',
     'name_native' => 'čeština, český jazyk',
-    'code_iso3' => 'ces',
+    'iso3' => 'CES',
+    'code' => 'CS',
     'countries' => 
     array (
     ),
@@ -255,7 +283,8 @@
   array (
     'name' => 'Church Slavic, Old Slavonic, Church Slavonic, Old Bulgarian, Old Church Slavonic',
     'name_native' => 'ѩзыкъ словѣньскъ',
-    'code_iso3' => 'chu',
+    'iso3' => 'CHU',
+    'code' => 'CU',
     'countries' => 
     array (
     ),
@@ -264,7 +293,8 @@
   array (
     'name' => 'Chuvash',
     'name_native' => 'чӑваш чӗлхи',
-    'code_iso3' => 'chv',
+    'iso3' => 'CHV',
+    'code' => 'CV',
     'countries' => 
     array (
     ),
@@ -273,7 +303,8 @@
   array (
     'name' => 'Welsh',
     'name_native' => 'Cymraeg',
-    'code_iso3' => 'cym',
+    'iso3' => 'CYM',
+    'code' => 'CY',
     'countries' => 
     array (
     ),
@@ -282,7 +313,8 @@
   array (
     'name' => 'Danish',
     'name_native' => 'dansk',
-    'code_iso3' => 'dan',
+    'iso3' => 'DAN',
+    'code' => 'DA',
     'countries' => 
     array (
     ),
@@ -291,7 +323,8 @@
   array (
     'name' => 'German',
     'name_native' => 'Deutsch',
-    'code_iso3' => 'deu',
+    'iso3' => 'DEU',
+    'code' => 'DE',
     'countries' => 
     array (
     ),
@@ -300,7 +333,8 @@
   array (
     'name' => 'Divehi, Dhivehi, Maldivian',
     'name_native' => 'ދިވެހި',
-    'code_iso3' => 'div',
+    'iso3' => 'DIV',
+    'code' => 'DV',
     'countries' => 
     array (
     ),
@@ -309,7 +343,8 @@
   array (
     'name' => 'Dzongkha',
     'name_native' => 'རྫོང་ཁ',
-    'code_iso3' => 'dzo',
+    'iso3' => 'DZO',
+    'code' => 'DZ',
     'countries' => 
     array (
     ),
@@ -318,7 +353,8 @@
   array (
     'name' => 'Ewe',
     'name_native' => 'Eʋegbe',
-    'code_iso3' => 'ewe',
+    'iso3' => 'EWE',
+    'code' => 'EE',
     'countries' => 
     array (
     ),
@@ -327,7 +363,8 @@
   array (
     'name' => 'Greek, Modern (1453-)',
     'name_native' => 'ελληνικά',
-    'code_iso3' => 'ell',
+    'iso3' => 'ELL',
+    'code' => 'EL',
     'countries' => 
     array (
     ),
@@ -336,7 +373,8 @@
   array (
     'name' => 'English',
     'name_native' => 'English',
-    'code_iso3' => 'eng',
+    'iso3' => 'ENG',
+    'code' => 'EN',
     'countries' => 
     array (
     ),
@@ -345,7 +383,8 @@
   array (
     'name' => 'Esperanto',
     'name_native' => 'Esperanto',
-    'code_iso3' => 'epo',
+    'iso3' => 'EPO',
+    'code' => 'EO',
     'countries' => 
     array (
     ),
@@ -354,7 +393,8 @@
   array (
     'name' => 'Spanish, Castilian',
     'name_native' => 'Español',
-    'code_iso3' => 'spa',
+    'iso3' => 'SPA',
+    'code' => 'ES',
     'countries' => 
     array (
     ),
@@ -363,7 +403,8 @@
   array (
     'name' => 'Estonian',
     'name_native' => 'eesti, eesti keel',
-    'code_iso3' => 'est',
+    'iso3' => 'EST',
+    'code' => 'ET',
     'countries' => 
     array (
     ),
@@ -372,7 +413,8 @@
   array (
     'name' => 'Basque',
     'name_native' => 'euskara, euskera',
-    'code_iso3' => 'eus',
+    'iso3' => 'EUS',
+    'code' => 'EU',
     'countries' => 
     array (
     ),
@@ -381,7 +423,8 @@
   array (
     'name' => 'Persian',
     'name_native' => 'فارسی',
-    'code_iso3' => 'fas',
+    'iso3' => 'FAS',
+    'code' => 'FA',
     'countries' => 
     array (
     ),
@@ -390,7 +433,8 @@
   array (
     'name' => 'Fulah',
     'name_native' => 'Fulfulde, Pulaar, Pular',
-    'code_iso3' => 'ful',
+    'iso3' => 'FUL',
+    'code' => 'FF',
     'countries' => 
     array (
     ),
@@ -399,7 +443,8 @@
   array (
     'name' => 'Finnish',
     'name_native' => 'suomi, suomen kieli',
-    'code_iso3' => 'fin',
+    'iso3' => 'FIN',
+    'code' => 'FI',
     'countries' => 
     array (
     ),
@@ -408,7 +453,8 @@
   array (
     'name' => 'Fijian',
     'name_native' => 'vosa Vakaviti',
-    'code_iso3' => 'fij',
+    'iso3' => 'FIJ',
+    'code' => 'FJ',
     'countries' => 
     array (
     ),
@@ -417,7 +463,8 @@
   array (
     'name' => 'Faroese',
     'name_native' => 'føroyskt',
-    'code_iso3' => 'fao',
+    'iso3' => 'FAO',
+    'code' => 'FO',
     'countries' => 
     array (
     ),
@@ -426,7 +473,8 @@
   array (
     'name' => 'French',
     'name_native' => 'français, langue française',
-    'code_iso3' => 'fra',
+    'iso3' => 'FRA',
+    'code' => 'FR',
     'countries' => 
     array (
     ),
@@ -435,7 +483,8 @@
   array (
     'name' => 'Western Frisian',
     'name_native' => 'Frysk',
-    'code_iso3' => 'fry',
+    'iso3' => 'FRY',
+    'code' => 'FY',
     'countries' => 
     array (
     ),
@@ -444,7 +493,8 @@
   array (
     'name' => 'Irish',
     'name_native' => 'Gaeilge',
-    'code_iso3' => 'gle',
+    'iso3' => 'GLE',
+    'code' => 'GA',
     'countries' => 
     array (
     ),
@@ -453,7 +503,8 @@
   array (
     'name' => 'Gaelic, Scottish Gaelic',
     'name_native' => 'Gàidhlig',
-    'code_iso3' => 'gla',
+    'iso3' => 'GLA',
+    'code' => 'GD',
     'countries' => 
     array (
     ),
@@ -462,7 +513,8 @@
   array (
     'name' => 'Galician',
     'name_native' => 'Galego',
-    'code_iso3' => 'glg',
+    'iso3' => 'GLG',
+    'code' => 'GL',
     'countries' => 
     array (
     ),
@@ -471,7 +523,8 @@
   array (
     'name' => 'Guarani',
     'name_native' => 'Avañe\'ẽ',
-    'code_iso3' => 'grn',
+    'iso3' => 'GRN',
+    'code' => 'GN',
     'countries' => 
     array (
     ),
@@ -480,7 +533,8 @@
   array (
     'name' => 'Gujarati',
     'name_native' => 'ગુજરાતી',
-    'code_iso3' => 'guj',
+    'iso3' => 'GUJ',
+    'code' => 'GU',
     'countries' => 
     array (
     ),
@@ -489,7 +543,8 @@
   array (
     'name' => 'Manx',
     'name_native' => 'Gaelg, Gailck',
-    'code_iso3' => 'glv',
+    'iso3' => 'GLV',
+    'code' => 'GV',
     'countries' => 
     array (
     ),
@@ -498,7 +553,8 @@
   array (
     'name' => 'Hausa',
     'name_native' => '(Hausa) هَوُسَ',
-    'code_iso3' => 'hau',
+    'iso3' => 'HAU',
+    'code' => 'HA',
     'countries' => 
     array (
     ),
@@ -507,7 +563,8 @@
   array (
     'name' => 'Hebrew',
     'name_native' => 'עברית',
-    'code_iso3' => 'heb',
+    'iso3' => 'HEB',
+    'code' => 'HE',
     'countries' => 
     array (
     ),
@@ -516,7 +573,8 @@
   array (
     'name' => 'Hindi',
     'name_native' => 'हिन्दी, हिंदी',
-    'code_iso3' => 'hin',
+    'iso3' => 'HIN',
+    'code' => 'HI',
     'countries' => 
     array (
     ),
@@ -525,7 +583,8 @@
   array (
     'name' => 'Hiri Motu',
     'name_native' => 'Hiri Motu',
-    'code_iso3' => 'hmo',
+    'iso3' => 'HMO',
+    'code' => 'HO',
     'countries' => 
     array (
     ),
@@ -534,7 +593,8 @@
   array (
     'name' => 'Croatian',
     'name_native' => 'hrvatski jezik',
-    'code_iso3' => 'hrv',
+    'iso3' => 'HRV',
+    'code' => 'HR',
     'countries' => 
     array (
     ),
@@ -543,7 +603,8 @@
   array (
     'name' => 'Haitian, Haitian Creole',
     'name_native' => 'Kreyòl ayisyen',
-    'code_iso3' => 'hat',
+    'iso3' => 'HAT',
+    'code' => 'HT',
     'countries' => 
     array (
     ),
@@ -552,7 +613,8 @@
   array (
     'name' => 'Hungarian',
     'name_native' => 'magyar',
-    'code_iso3' => 'hun',
+    'iso3' => 'HUN',
+    'code' => 'HU',
     'countries' => 
     array (
     ),
@@ -561,7 +623,8 @@
   array (
     'name' => 'Armenian',
     'name_native' => 'Հայերեն',
-    'code_iso3' => 'hye',
+    'iso3' => 'HYE',
+    'code' => 'HY',
     'countries' => 
     array (
     ),
@@ -570,7 +633,8 @@
   array (
     'name' => 'Herero',
     'name_native' => 'Otjiherero',
-    'code_iso3' => 'her',
+    'iso3' => 'HER',
+    'code' => 'HZ',
     'countries' => 
     array (
     ),
@@ -579,7 +643,8 @@
   array (
     'name' => 'Interlingua (International Auxiliary Language Association)',
     'name_native' => 'Interlingua',
-    'code_iso3' => 'ina',
+    'iso3' => 'INA',
+    'code' => 'IA',
     'countries' => 
     array (
     ),
@@ -588,7 +653,8 @@
   array (
     'name' => 'Indonesian',
     'name_native' => 'Bahasa Indonesia',
-    'code_iso3' => 'ind',
+    'iso3' => 'IND',
+    'code' => 'ID',
     'countries' => 
     array (
     ),
@@ -597,7 +663,8 @@
   array (
     'name' => 'Interlingue, Occidental',
     'name_native' => '(originally:) Occidental, (after WWII:) Interlingue',
-    'code_iso3' => 'ile',
+    'iso3' => 'ILE',
+    'code' => 'IE',
     'countries' => 
     array (
     ),
@@ -606,7 +673,8 @@
   array (
     'name' => 'Igbo',
     'name_native' => 'Asụsụ Igbo',
-    'code_iso3' => 'ibo',
+    'iso3' => 'IBO',
+    'code' => 'IG',
     'countries' => 
     array (
     ),
@@ -615,7 +683,8 @@
   array (
     'name' => 'Sichuan Yi, Nuosu',
     'name_native' => 'ꆈꌠ꒿ Nuosuhxop',
-    'code_iso3' => 'iii',
+    'iso3' => 'III',
+    'code' => 'II',
     'countries' => 
     array (
     ),
@@ -624,7 +693,8 @@
   array (
     'name' => 'Inupiaq',
     'name_native' => 'Iñupiaq, Iñupiatun',
-    'code_iso3' => 'ipk',
+    'iso3' => 'IPK',
+    'code' => 'IK',
     'countries' => 
     array (
     ),
@@ -633,7 +703,8 @@
   array (
     'name' => 'Ido',
     'name_native' => 'Ido',
-    'code_iso3' => 'ido',
+    'iso3' => 'IDO',
+    'code' => 'IO',
     'countries' => 
     array (
     ),
@@ -642,7 +713,8 @@
   array (
     'name' => 'Icelandic',
     'name_native' => 'Íslenska',
-    'code_iso3' => 'isl',
+    'iso3' => 'ISL',
+    'code' => 'IS',
     'countries' => 
     array (
     ),
@@ -651,7 +723,8 @@
   array (
     'name' => 'Italian',
     'name_native' => 'Italiano',
-    'code_iso3' => 'ita',
+    'iso3' => 'ITA',
+    'code' => 'IT',
     'countries' => 
     array (
     ),
@@ -660,7 +733,8 @@
   array (
     'name' => 'Inuktitut',
     'name_native' => 'ᐃᓄᒃᑎᑐᑦ',
-    'code_iso3' => 'iku',
+    'iso3' => 'IKU',
+    'code' => 'IU',
     'countries' => 
     array (
     ),
@@ -669,7 +743,8 @@
   array (
     'name' => 'Japanese',
     'name_native' => '日本語 (にほんご)',
-    'code_iso3' => 'jpn',
+    'iso3' => 'JPN',
+    'code' => 'JA',
     'countries' => 
     array (
     ),
@@ -678,7 +753,8 @@
   array (
     'name' => 'Javanese',
     'name_native' => 'ꦧꦱꦗꦮ, Basa Jawa',
-    'code_iso3' => 'jav',
+    'iso3' => 'JAV',
+    'code' => 'JV',
     'countries' => 
     array (
     ),
@@ -687,7 +763,8 @@
   array (
     'name' => 'Georgian',
     'name_native' => 'ქართული',
-    'code_iso3' => 'kat',
+    'iso3' => 'KAT',
+    'code' => 'KA',
     'countries' => 
     array (
     ),
@@ -696,7 +773,8 @@
   array (
     'name' => 'Kongo',
     'name_native' => 'Kikongo',
-    'code_iso3' => 'kon',
+    'iso3' => 'KON',
+    'code' => 'KG',
     'countries' => 
     array (
     ),
@@ -705,7 +783,8 @@
   array (
     'name' => 'Kikuyu, Gikuyu',
     'name_native' => 'Gĩkũyũ',
-    'code_iso3' => 'kik',
+    'iso3' => 'KIK',
+    'code' => 'KI',
     'countries' => 
     array (
     ),
@@ -714,7 +793,8 @@
   array (
     'name' => 'Kuanyama, Kwanyama',
     'name_native' => 'Kuanyama',
-    'code_iso3' => 'kua',
+    'iso3' => 'KUA',
+    'code' => 'KJ',
     'countries' => 
     array (
     ),
@@ -723,7 +803,8 @@
   array (
     'name' => 'Kazakh',
     'name_native' => 'қазақ тілі',
-    'code_iso3' => 'kaz',
+    'iso3' => 'KAZ',
+    'code' => 'KK',
     'countries' => 
     array (
     ),
@@ -732,7 +813,8 @@
   array (
     'name' => 'Kalaallisut, Greenlandic',
     'name_native' => 'kalaallisut, kalaallit oqaasii',
-    'code_iso3' => 'kal',
+    'iso3' => 'KAL',
+    'code' => 'KL',
     'countries' => 
     array (
     ),
@@ -741,7 +823,8 @@
   array (
     'name' => 'Central Khmer',
     'name_native' => 'ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ',
-    'code_iso3' => 'khm',
+    'iso3' => 'KHM',
+    'code' => 'KM',
     'countries' => 
     array (
     ),
@@ -750,7 +833,8 @@
   array (
     'name' => 'Kannada',
     'name_native' => 'ಕನ್ನಡ',
-    'code_iso3' => 'kan',
+    'iso3' => 'KAN',
+    'code' => 'KN',
     'countries' => 
     array (
     ),
@@ -759,7 +843,8 @@
   array (
     'name' => 'Korean',
     'name_native' => '한국어',
-    'code_iso3' => 'kor',
+    'iso3' => 'KOR',
+    'code' => 'KO',
     'countries' => 
     array (
     ),
@@ -768,7 +853,8 @@
   array (
     'name' => 'Kanuri',
     'name_native' => 'Kanuri',
-    'code_iso3' => 'kau',
+    'iso3' => 'KAU',
+    'code' => 'KR',
     'countries' => 
     array (
     ),
@@ -777,7 +863,8 @@
   array (
     'name' => 'Kashmiri',
     'name_native' => 'कश्मीरी, كشميري‎',
-    'code_iso3' => 'kas',
+    'iso3' => 'KAS',
+    'code' => 'KS',
     'countries' => 
     array (
     ),
@@ -786,7 +873,8 @@
   array (
     'name' => 'Kurdish',
     'name_native' => 'Kurdî, کوردی‎',
-    'code_iso3' => 'kur',
+    'iso3' => 'KUR',
+    'code' => 'KU',
     'countries' => 
     array (
     ),
@@ -795,7 +883,8 @@
   array (
     'name' => 'Komi',
     'name_native' => 'коми кыв',
-    'code_iso3' => 'kom',
+    'iso3' => 'KOM',
+    'code' => 'KV',
     'countries' => 
     array (
     ),
@@ -804,7 +893,8 @@
   array (
     'name' => 'Cornish',
     'name_native' => 'Kernewek',
-    'code_iso3' => 'cor',
+    'iso3' => 'COR',
+    'code' => 'KW',
     'countries' => 
     array (
     ),
@@ -813,7 +903,8 @@
   array (
     'name' => 'Kirghiz, Kyrgyz',
     'name_native' => 'Кыргызча, Кыргыз тили',
-    'code_iso3' => 'kir',
+    'iso3' => 'KIR',
+    'code' => 'KY',
     'countries' => 
     array (
     ),
@@ -822,7 +913,8 @@
   array (
     'name' => 'Latin',
     'name_native' => 'latine, lingua latina',
-    'code_iso3' => 'lat',
+    'iso3' => 'LAT',
+    'code' => 'LA',
     'countries' => 
     array (
     ),
@@ -831,7 +923,8 @@
   array (
     'name' => 'Luxembourgish, Letzeburgesch',
     'name_native' => 'Lëtzebuergesch',
-    'code_iso3' => 'ltz',
+    'iso3' => 'LTZ',
+    'code' => 'LB',
     'countries' => 
     array (
     ),
@@ -840,7 +933,8 @@
   array (
     'name' => 'Ganda',
     'name_native' => 'Luganda',
-    'code_iso3' => 'lug',
+    'iso3' => 'LUG',
+    'code' => 'LG',
     'countries' => 
     array (
     ),
@@ -849,7 +943,8 @@
   array (
     'name' => 'Limburgan, Limburger, Limburgish',
     'name_native' => 'Limburgs',
-    'code_iso3' => 'lim',
+    'iso3' => 'LIM',
+    'code' => 'LI',
     'countries' => 
     array (
     ),
@@ -858,7 +953,8 @@
   array (
     'name' => 'Lingala',
     'name_native' => 'Lingála',
-    'code_iso3' => 'lin',
+    'iso3' => 'LIN',
+    'code' => 'LN',
     'countries' => 
     array (
     ),
@@ -867,7 +963,8 @@
   array (
     'name' => 'Lao',
     'name_native' => 'ພາສາລາວ',
-    'code_iso3' => 'lao',
+    'iso3' => 'LAO',
+    'code' => 'LO',
     'countries' => 
     array (
     ),
@@ -876,7 +973,8 @@
   array (
     'name' => 'Lithuanian',
     'name_native' => 'lietuvių kalba',
-    'code_iso3' => 'lit',
+    'iso3' => 'LIT',
+    'code' => 'LT',
     'countries' => 
     array (
     ),
@@ -885,7 +983,8 @@
   array (
     'name' => 'Luba-Katanga',
     'name_native' => 'Kiluba',
-    'code_iso3' => 'lub',
+    'iso3' => 'LUB',
+    'code' => 'LU',
     'countries' => 
     array (
     ),
@@ -894,7 +993,8 @@
   array (
     'name' => 'Latvian',
     'name_native' => 'latviešu valoda',
-    'code_iso3' => 'lav',
+    'iso3' => 'LAV',
+    'code' => 'LV',
     'countries' => 
     array (
     ),
@@ -903,7 +1003,8 @@
   array (
     'name' => 'Malagasy',
     'name_native' => 'fiteny malagasy',
-    'code_iso3' => 'mlg',
+    'iso3' => 'MLG',
+    'code' => 'MG',
     'countries' => 
     array (
     ),
@@ -912,7 +1013,8 @@
   array (
     'name' => 'Marshallese',
     'name_native' => 'Kajin M̧ajeļ',
-    'code_iso3' => 'mah',
+    'iso3' => 'MAH',
+    'code' => 'MH',
     'countries' => 
     array (
     ),
@@ -921,7 +1023,8 @@
   array (
     'name' => 'Maori',
     'name_native' => 'te reo Māori',
-    'code_iso3' => 'mri',
+    'iso3' => 'MRI',
+    'code' => 'MI',
     'countries' => 
     array (
     ),
@@ -930,7 +1033,8 @@
   array (
     'name' => 'Macedonian',
     'name_native' => 'македонски јазик',
-    'code_iso3' => 'mkd',
+    'iso3' => 'MKD',
+    'code' => 'MK',
     'countries' => 
     array (
     ),
@@ -939,7 +1043,8 @@
   array (
     'name' => 'Malayalam',
     'name_native' => 'മലയാളം',
-    'code_iso3' => 'mal',
+    'iso3' => 'MAL',
+    'code' => 'ML',
     'countries' => 
     array (
     ),
@@ -948,7 +1053,8 @@
   array (
     'name' => 'Mongolian',
     'name_native' => 'Монгол хэл',
-    'code_iso3' => 'mon',
+    'iso3' => 'MON',
+    'code' => 'MN',
     'countries' => 
     array (
     ),
@@ -957,7 +1063,8 @@
   array (
     'name' => 'Marathi',
     'name_native' => 'मराठी',
-    'code_iso3' => 'mar',
+    'iso3' => 'MAR',
+    'code' => 'MR',
     'countries' => 
     array (
     ),
@@ -966,7 +1073,8 @@
   array (
     'name' => 'Malay',
     'name_native' => 'Bahasa Melayu, بهاس ملايو‎',
-    'code_iso3' => 'msa',
+    'iso3' => 'MSA',
+    'code' => 'MS',
     'countries' => 
     array (
     ),
@@ -975,7 +1083,8 @@
   array (
     'name' => 'Maltese',
     'name_native' => 'Malti',
-    'code_iso3' => 'mlt',
+    'iso3' => 'MLT',
+    'code' => 'MT',
     'countries' => 
     array (
     ),
@@ -984,7 +1093,8 @@
   array (
     'name' => 'Burmese',
     'name_native' => 'ဗမာစာ',
-    'code_iso3' => 'mya',
+    'iso3' => 'MYA',
+    'code' => 'MY',
     'countries' => 
     array (
     ),
@@ -993,7 +1103,8 @@
   array (
     'name' => 'Nauru',
     'name_native' => 'Dorerin Naoero',
-    'code_iso3' => 'nau',
+    'iso3' => 'NAU',
+    'code' => 'NA',
     'countries' => 
     array (
     ),
@@ -1002,7 +1113,8 @@
   array (
     'name' => 'Norwegian Bokmål',
     'name_native' => 'Norsk Bokmål',
-    'code_iso3' => 'nob',
+    'iso3' => 'NOB',
+    'code' => 'NB',
     'countries' => 
     array (
     ),
@@ -1011,7 +1123,8 @@
   array (
     'name' => 'North Ndebele',
     'name_native' => 'isiNdebele',
-    'code_iso3' => 'nde',
+    'iso3' => 'NDE',
+    'code' => 'ND',
     'countries' => 
     array (
     ),
@@ -1020,7 +1133,8 @@
   array (
     'name' => 'Nepali',
     'name_native' => 'नेपाली',
-    'code_iso3' => 'nep',
+    'iso3' => 'NEP',
+    'code' => 'NE',
     'countries' => 
     array (
     ),
@@ -1029,7 +1143,8 @@
   array (
     'name' => 'Ndonga',
     'name_native' => 'Owambo',
-    'code_iso3' => 'ndo',
+    'iso3' => 'NDO',
+    'code' => 'NG',
     'countries' => 
     array (
     ),
@@ -1038,7 +1153,8 @@
   array (
     'name' => 'Dutch, Flemish',
     'name_native' => 'Nederlands, Vlaams',
-    'code_iso3' => 'nld',
+    'iso3' => 'NLD',
+    'code' => 'NL',
     'countries' => 
     array (
     ),
@@ -1047,7 +1163,8 @@
   array (
     'name' => 'Norwegian Nynorsk',
     'name_native' => 'Norsk Nynorsk',
-    'code_iso3' => 'nno',
+    'iso3' => 'NNO',
+    'code' => 'NN',
     'countries' => 
     array (
     ),
@@ -1056,7 +1173,8 @@
   array (
     'name' => 'Norwegian',
     'name_native' => 'Norsk',
-    'code_iso3' => 'nor',
+    'iso3' => 'NOR',
+    'code' => 'NO',
     'countries' => 
     array (
     ),
@@ -1065,7 +1183,8 @@
   array (
     'name' => 'South Ndebele',
     'name_native' => 'isiNdebele',
-    'code_iso3' => 'nbl',
+    'iso3' => 'NBL',
+    'code' => 'NR',
     'countries' => 
     array (
     ),
@@ -1074,7 +1193,8 @@
   array (
     'name' => 'Navajo, Navaho',
     'name_native' => 'Diné bizaad',
-    'code_iso3' => 'nav',
+    'iso3' => 'NAV',
+    'code' => 'NV',
     'countries' => 
     array (
     ),
@@ -1083,7 +1203,8 @@
   array (
     'name' => 'Chichewa, Chewa, Nyanja',
     'name_native' => 'chiCheŵa, chinyanja',
-    'code_iso3' => 'nya',
+    'iso3' => 'NYA',
+    'code' => 'NY',
     'countries' => 
     array (
     ),
@@ -1092,7 +1213,8 @@
   array (
     'name' => 'Occitan',
     'name_native' => 'occitan, lenga d\'òc',
-    'code_iso3' => 'oci',
+    'iso3' => 'OCI',
+    'code' => 'OC',
     'countries' => 
     array (
     ),
@@ -1101,7 +1223,8 @@
   array (
     'name' => 'Ojibwa',
     'name_native' => 'ᐊᓂᔑᓈᐯᒧᐎᓐ',
-    'code_iso3' => 'oji',
+    'iso3' => 'OJI',
+    'code' => 'OJ',
     'countries' => 
     array (
     ),
@@ -1110,7 +1233,8 @@
   array (
     'name' => 'Oromo',
     'name_native' => 'Afaan Oromoo',
-    'code_iso3' => 'orm',
+    'iso3' => 'ORM',
+    'code' => 'OM',
     'countries' => 
     array (
     ),
@@ -1119,7 +1243,8 @@
   array (
     'name' => 'Oriya',
     'name_native' => 'ଓଡ଼ିଆ',
-    'code_iso3' => 'ori',
+    'iso3' => 'ORI',
+    'code' => 'OR',
     'countries' => 
     array (
     ),
@@ -1128,7 +1253,8 @@
   array (
     'name' => 'Ossetian, Ossetic',
     'name_native' => 'ирон æвзаг',
-    'code_iso3' => 'oss',
+    'iso3' => 'OSS',
+    'code' => 'OS',
     'countries' => 
     array (
     ),
@@ -1137,7 +1263,8 @@
   array (
     'name' => 'Punjabi, Panjabi',
     'name_native' => 'ਪੰਜਾਬੀ, پنجابی‎',
-    'code_iso3' => 'pan',
+    'iso3' => 'PAN',
+    'code' => 'PA',
     'countries' => 
     array (
     ),
@@ -1146,7 +1273,8 @@
   array (
     'name' => 'Pali',
     'name_native' => 'पालि, पाळि',
-    'code_iso3' => 'pli',
+    'iso3' => 'PLI',
+    'code' => 'PI',
     'countries' => 
     array (
     ),
@@ -1155,7 +1283,8 @@
   array (
     'name' => 'Polish',
     'name_native' => 'język polski, polszczyzna',
-    'code_iso3' => 'pol',
+    'iso3' => 'POL',
+    'code' => 'PL',
     'countries' => 
     array (
     ),
@@ -1164,7 +1293,8 @@
   array (
     'name' => 'Pashto, Pushto',
     'name_native' => 'پښتو',
-    'code_iso3' => 'pus',
+    'iso3' => 'PUS',
+    'code' => 'PS',
     'countries' => 
     array (
     ),
@@ -1173,7 +1303,8 @@
   array (
     'name' => 'Portuguese',
     'name_native' => 'Português',
-    'code_iso3' => 'por',
+    'iso3' => 'POR',
+    'code' => 'PT',
     'countries' => 
     array (
     ),
@@ -1182,7 +1313,8 @@
   array (
     'name' => 'Quechua',
     'name_native' => 'Runa Simi, Kichwa',
-    'code_iso3' => 'que',
+    'iso3' => 'QUE',
+    'code' => 'QU',
     'countries' => 
     array (
     ),
@@ -1191,7 +1323,8 @@
   array (
     'name' => 'Romansh',
     'name_native' => 'Rumantsch Grischun',
-    'code_iso3' => 'roh',
+    'iso3' => 'ROH',
+    'code' => 'RM',
     'countries' => 
     array (
     ),
@@ -1200,7 +1333,8 @@
   array (
     'name' => 'Rundi',
     'name_native' => 'Ikirundi',
-    'code_iso3' => 'run',
+    'iso3' => 'RUN',
+    'code' => 'RN',
     'countries' => 
     array (
     ),
@@ -1209,7 +1343,8 @@
   array (
     'name' => 'Romanian, Moldavian, Moldovan',
     'name_native' => 'Română',
-    'code_iso3' => 'ron',
+    'iso3' => 'RON',
+    'code' => 'RO',
     'countries' => 
     array (
     ),
@@ -1218,7 +1353,8 @@
   array (
     'name' => 'Russian',
     'name_native' => 'русский',
-    'code_iso3' => 'rus',
+    'iso3' => 'RUS',
+    'code' => 'RU',
     'countries' => 
     array (
     ),
@@ -1227,7 +1363,8 @@
   array (
     'name' => 'Kinyarwanda',
     'name_native' => 'Ikinyarwanda',
-    'code_iso3' => 'kin',
+    'iso3' => 'KIN',
+    'code' => 'RW',
     'countries' => 
     array (
     ),
@@ -1236,7 +1373,8 @@
   array (
     'name' => 'Sanskrit',
     'name_native' => 'संस्कृतम्',
-    'code_iso3' => 'san',
+    'iso3' => 'SAN',
+    'code' => 'SA',
     'countries' => 
     array (
     ),
@@ -1245,7 +1383,8 @@
   array (
     'name' => 'Sardinian',
     'name_native' => 'sardu',
-    'code_iso3' => 'srd',
+    'iso3' => 'SRD',
+    'code' => 'SC',
     'countries' => 
     array (
     ),
@@ -1254,7 +1393,8 @@
   array (
     'name' => 'Sindhi',
     'name_native' => 'सिन्धी, سنڌي، سندھی‎',
-    'code_iso3' => 'snd',
+    'iso3' => 'SND',
+    'code' => 'SD',
     'countries' => 
     array (
     ),
@@ -1263,7 +1403,8 @@
   array (
     'name' => 'Northern Sami',
     'name_native' => 'Davvisámegiella',
-    'code_iso3' => 'sme',
+    'iso3' => 'SME',
+    'code' => 'SE',
     'countries' => 
     array (
     ),
@@ -1272,7 +1413,8 @@
   array (
     'name' => 'Sango',
     'name_native' => 'yângâ tî sängö',
-    'code_iso3' => 'sag',
+    'iso3' => 'SAG',
+    'code' => 'SG',
     'countries' => 
     array (
     ),
@@ -1281,7 +1423,8 @@
   array (
     'name' => 'Sinhala, Sinhalese',
     'name_native' => 'සිංහල',
-    'code_iso3' => 'sin',
+    'iso3' => 'SIN',
+    'code' => 'SI',
     'countries' => 
     array (
     ),
@@ -1290,7 +1433,8 @@
   array (
     'name' => 'Slovak',
     'name_native' => 'Slovenčina, Slovenský Jazyk',
-    'code_iso3' => 'slk',
+    'iso3' => 'SLK',
+    'code' => 'SK',
     'countries' => 
     array (
     ),
@@ -1299,7 +1443,8 @@
   array (
     'name' => 'Slovenian',
     'name_native' => 'Slovenski Jezik, Slovenščina',
-    'code_iso3' => 'slv',
+    'iso3' => 'SLV',
+    'code' => 'SL',
     'countries' => 
     array (
     ),
@@ -1308,7 +1453,8 @@
   array (
     'name' => 'Samoan',
     'name_native' => 'gagana fa\'a Samoa',
-    'code_iso3' => 'smo',
+    'iso3' => 'SMO',
+    'code' => 'SM',
     'countries' => 
     array (
     ),
@@ -1317,7 +1463,8 @@
   array (
     'name' => 'Shona',
     'name_native' => 'chiShona',
-    'code_iso3' => 'sna',
+    'iso3' => 'SNA',
+    'code' => 'SN',
     'countries' => 
     array (
     ),
@@ -1326,7 +1473,8 @@
   array (
     'name' => 'Somali',
     'name_native' => 'Soomaaliga, af Soomaali',
-    'code_iso3' => 'som',
+    'iso3' => 'SOM',
+    'code' => 'SO',
     'countries' => 
     array (
     ),
@@ -1335,7 +1483,8 @@
   array (
     'name' => 'Albanian',
     'name_native' => 'Shqip',
-    'code_iso3' => 'sqi',
+    'iso3' => 'SQI',
+    'code' => 'SQ',
     'countries' => 
     array (
     ),
@@ -1344,7 +1493,8 @@
   array (
     'name' => 'Serbian',
     'name_native' => 'српски језик',
-    'code_iso3' => 'srp',
+    'iso3' => 'SRP',
+    'code' => 'SR',
     'countries' => 
     array (
     ),
@@ -1353,7 +1503,8 @@
   array (
     'name' => 'Swati',
     'name_native' => 'SiSwati',
-    'code_iso3' => 'ssw',
+    'iso3' => 'SSW',
+    'code' => 'SS',
     'countries' => 
     array (
     ),
@@ -1362,7 +1513,8 @@
   array (
     'name' => 'Southern Sotho',
     'name_native' => 'Sesotho',
-    'code_iso3' => 'sot',
+    'iso3' => 'SOT',
+    'code' => 'ST',
     'countries' => 
     array (
     ),
@@ -1371,7 +1523,8 @@
   array (
     'name' => 'Sundanese',
     'name_native' => 'Basa Sunda',
-    'code_iso3' => 'sun',
+    'iso3' => 'SUN',
+    'code' => 'SU',
     'countries' => 
     array (
     ),
@@ -1380,7 +1533,8 @@
   array (
     'name' => 'Swedish',
     'name_native' => 'Svenska',
-    'code_iso3' => 'swe',
+    'iso3' => 'SWE',
+    'code' => 'SV',
     'countries' => 
     array (
     ),
@@ -1389,7 +1543,8 @@
   array (
     'name' => 'Swahili',
     'name_native' => 'Kiswahili',
-    'code_iso3' => 'swa',
+    'iso3' => 'SWA',
+    'code' => 'SW',
     'countries' => 
     array (
     ),
@@ -1398,7 +1553,8 @@
   array (
     'name' => 'Tamil',
     'name_native' => 'தமிழ்',
-    'code_iso3' => 'tam',
+    'iso3' => 'TAM',
+    'code' => 'TA',
     'countries' => 
     array (
     ),
@@ -1407,7 +1563,8 @@
   array (
     'name' => 'Telugu',
     'name_native' => 'తెలుగు',
-    'code_iso3' => 'tel',
+    'iso3' => 'TEL',
+    'code' => 'TE',
     'countries' => 
     array (
     ),
@@ -1416,7 +1573,8 @@
   array (
     'name' => 'Tajik',
     'name_native' => 'тоҷикӣ, toçikī, تاجیکی‎',
-    'code_iso3' => 'tgk',
+    'iso3' => 'TGK',
+    'code' => 'TG',
     'countries' => 
     array (
     ),
@@ -1425,7 +1583,8 @@
   array (
     'name' => 'Thai',
     'name_native' => 'ไทย',
-    'code_iso3' => 'tha',
+    'iso3' => 'THA',
+    'code' => 'TH',
     'countries' => 
     array (
     ),
@@ -1434,7 +1593,8 @@
   array (
     'name' => 'Tigrinya',
     'name_native' => 'ትግርኛ',
-    'code_iso3' => 'tir',
+    'iso3' => 'TIR',
+    'code' => 'TI',
     'countries' => 
     array (
     ),
@@ -1443,7 +1603,8 @@
   array (
     'name' => 'Turkmen',
     'name_native' => 'Türkmen, Түркмен',
-    'code_iso3' => 'tuk',
+    'iso3' => 'TUK',
+    'code' => 'TK',
     'countries' => 
     array (
     ),
@@ -1452,7 +1613,8 @@
   array (
     'name' => 'Tagalog',
     'name_native' => 'Wikang Tagalog',
-    'code_iso3' => 'tgl',
+    'iso3' => 'TGL',
+    'code' => 'TL',
     'countries' => 
     array (
     ),
@@ -1461,7 +1623,8 @@
   array (
     'name' => 'Tswana',
     'name_native' => 'Setswana',
-    'code_iso3' => 'tsn',
+    'iso3' => 'TSN',
+    'code' => 'TN',
     'countries' => 
     array (
     ),
@@ -1470,7 +1633,8 @@
   array (
     'name' => 'Tonga (Tonga Islands)',
     'name_native' => 'Faka Tonga',
-    'code_iso3' => 'ton',
+    'iso3' => 'TON',
+    'code' => 'TO',
     'countries' => 
     array (
     ),
@@ -1479,7 +1643,8 @@
   array (
     'name' => 'Turkish',
     'name_native' => 'Türkçe',
-    'code_iso3' => 'tur',
+    'iso3' => 'TUR',
+    'code' => 'TR',
     'countries' => 
     array (
     ),
@@ -1488,7 +1653,8 @@
   array (
     'name' => 'Tsonga',
     'name_native' => 'Xitsonga',
-    'code_iso3' => 'tso',
+    'iso3' => 'TSO',
+    'code' => 'TS',
     'countries' => 
     array (
     ),
@@ -1497,7 +1663,8 @@
   array (
     'name' => 'Tatar',
     'name_native' => 'татар теле, tatar tele',
-    'code_iso3' => 'tat',
+    'iso3' => 'TAT',
+    'code' => 'TT',
     'countries' => 
     array (
     ),
@@ -1506,7 +1673,8 @@
   array (
     'name' => 'Twi',
     'name_native' => 'Twi',
-    'code_iso3' => 'twi',
+    'iso3' => 'TWI',
+    'code' => 'TW',
     'countries' => 
     array (
     ),
@@ -1515,7 +1683,8 @@
   array (
     'name' => 'Tahitian',
     'name_native' => 'Reo Tahiti',
-    'code_iso3' => 'tah',
+    'iso3' => 'TAH',
+    'code' => 'TY',
     'countries' => 
     array (
     ),
@@ -1524,7 +1693,8 @@
   array (
     'name' => 'Uighur, Uyghur',
     'name_native' => 'ئۇيغۇرچە‎, Uyghurche',
-    'code_iso3' => 'uig',
+    'iso3' => 'UIG',
+    'code' => 'UG',
     'countries' => 
     array (
     ),
@@ -1533,7 +1703,8 @@
   array (
     'name' => 'Ukrainian',
     'name_native' => 'Українська',
-    'code_iso3' => 'ukr',
+    'iso3' => 'UKR',
+    'code' => 'UK',
     'countries' => 
     array (
     ),
@@ -1542,7 +1713,8 @@
   array (
     'name' => 'Urdu',
     'name_native' => 'اردو',
-    'code_iso3' => 'urd',
+    'iso3' => 'URD',
+    'code' => 'UR',
     'countries' => 
     array (
     ),
@@ -1551,7 +1723,8 @@
   array (
     'name' => 'Uzbek',
     'name_native' => 'Oʻzbek, Ўзбек, أۇزبېك‎',
-    'code_iso3' => 'uzb',
+    'iso3' => 'UZB',
+    'code' => 'UZ',
     'countries' => 
     array (
     ),
@@ -1560,7 +1733,8 @@
   array (
     'name' => 'Venda',
     'name_native' => 'Tshivenḓa',
-    'code_iso3' => 'ven',
+    'iso3' => 'VEN',
+    'code' => 'VE',
     'countries' => 
     array (
     ),
@@ -1569,7 +1743,8 @@
   array (
     'name' => 'Vietnamese',
     'name_native' => 'Tiếng Việt',
-    'code_iso3' => 'vie',
+    'iso3' => 'VIE',
+    'code' => 'VI',
     'countries' => 
     array (
     ),
@@ -1578,7 +1753,8 @@
   array (
     'name' => 'Volapük',
     'name_native' => 'Volapük',
-    'code_iso3' => 'vol',
+    'iso3' => 'VOL',
+    'code' => 'VO',
     'countries' => 
     array (
     ),
@@ -1587,7 +1763,8 @@
   array (
     'name' => 'Walloon',
     'name_native' => 'Walon',
-    'code_iso3' => 'wln',
+    'iso3' => 'WLN',
+    'code' => 'WA',
     'countries' => 
     array (
     ),
@@ -1596,7 +1773,8 @@
   array (
     'name' => 'Wolof',
     'name_native' => 'Wollof',
-    'code_iso3' => 'wol',
+    'iso3' => 'WOL',
+    'code' => 'WO',
     'countries' => 
     array (
     ),
@@ -1605,7 +1783,8 @@
   array (
     'name' => 'Xhosa',
     'name_native' => 'isiXhosa',
-    'code_iso3' => 'xho',
+    'iso3' => 'XHO',
+    'code' => 'XH',
     'countries' => 
     array (
     ),
@@ -1614,7 +1793,8 @@
   array (
     'name' => 'Yiddish',
     'name_native' => 'ייִדיש',
-    'code_iso3' => 'yid',
+    'iso3' => 'YID',
+    'code' => 'YI',
     'countries' => 
     array (
     ),
@@ -1623,7 +1803,8 @@
   array (
     'name' => 'Yoruba',
     'name_native' => 'Yorùbá',
-    'code_iso3' => 'yor',
+    'iso3' => 'YOR',
+    'code' => 'YO',
     'countries' => 
     array (
     ),
@@ -1632,7 +1813,8 @@
   array (
     'name' => 'Zhuang, Chuang',
     'name_native' => 'Saɯ cueŋƅ, Saw cuengh',
-    'code_iso3' => 'zha',
+    'iso3' => 'ZHA',
+    'code' => 'ZA',
     'countries' => 
     array (
     ),
@@ -1641,7 +1823,8 @@
   array (
     'name' => 'Chinese',
     'name_native' => '中文 (Zhōngwén), 汉语, 漢語',
-    'code_iso3' => 'zho',
+    'iso3' => 'ZHO',
+    'code' => 'ZH',
     'countries' => 
     array (
     ),
@@ -1650,7 +1833,8 @@
   array (
     'name' => 'Zulu',
     'name_native' => 'isiZulu',
-    'code_iso3' => 'zul',
+    'iso3' => 'ZUL',
+    'code' => 'ZU',
     'countries' => 
     array (
     ),

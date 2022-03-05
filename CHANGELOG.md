@@ -1,3 +1,8 @@
+### [0.3.0] WIP
+
+* Rename functions ::countries() is much better than getCountries()
+* Use Illuminate/Support/Collections instead of arrays
+
 ### [0.2.0] 2022-02-28
 
 * ADD: new data: currency, language, emoji, capital, calling code, currency, native names
