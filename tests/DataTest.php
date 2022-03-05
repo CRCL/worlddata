@@ -1,28 +1,17 @@
 <?php
 
-use crcl\worlddata\Data;
+use crcl\worlddata\World;
 use PHPUnit\Framework\TestCase;
 
 class DataTest extends TestCase
 {
-    public function test_number_of_continents()
-    {
-        $this->assertCount(7, Data::getContinents());
-    }
+
 
     public function test_check_name()
     {
         foreach (Data::getCountries() as $code => $data) {
             $this->assertArrayHasKey('name', $data, $code.' has no key "name"');
             $this->assertNotEmpty($data['name'], $code.' name is empty');
-        }
-    }
-
-    public function test_check_continent()
-    {
-        foreach (Data::getCountries() as $code => $data) {
-            $this->assertArrayHasKey('continent', $data, $code.' has no key "continent"');
-            $this->assertNotEmpty($data['continent'], $code.' continent is empty');
         }
     }
 

@@ -6,29 +6,43 @@ Enrich country codes with names, continent, time zone, coordinates and tld.
 Installation / Usage
 --------------------
 
+*Warning* this package is still in development -
+
+
 Download and install this package via composer.
 
 `composer require crcl/worlddata`
 
 ```php
-$oCountry = \crcl\worlddata\World::getCountry('DE');
-$oCountry->getName(); // Germany
-$oCountry->getContinent(); // ['code' => 'EU', 'name' => 'Europe']
-$oCountry->getCoordinates(); // [latitude , longitude] of country center
-$oCountry->getTimezones(); // [["Europe/Berlin", null]]
-$oCountry->getTld(); // .de
-// Countries with multiple time-zones are represented by an array of time-zone name and time-zone longitude pairs.
+$oContinent = \CRCL\worlddata\World::continents();
+$oContinent = \CRCL\worlddata\World::continents()->find('EU'); // Continent instance
 
-$oContinent = \CRCL\worlddata\World::getContinent('EU');
-$oContinent->getCode(); // EU
-$oContinent->getName(); // Europe
-$oContinent->getCountries(); // [Country1, Country2,..]
+$oContinent->code; // EU
+$oContinent->name; // Europe
+$oContinent->countries; // [Country1, Country2,..]
 
+$oCountry = \crcl\worlddata\World::countries()->find('DE'); // or use shortcut ::countries('DE')
+$oCountry->name; // Germany
+$oCountry->continent; // ['code' => 'EU', 'name' => 'Europe']
+$oCountry->coordinates; // [latitude , longitude] of country center
+$oCountry->timezones; // [["Europe/Berlin", null]] Countries with multiple time-zones are represented by an array of time-zone name and time-zone longitude pairs.
+$oCountry->tld; // .de
 
-\crcl\worlddata\World::getCurrency('EUR');
-\crcl\worlddata\World::getLanguage('FR');
-\crcl\worlddata\World::getTld('.de');
+// additional data sets
+\crcl\worlddata\World::currencies();
+\crcl\worlddata\World::languages()
+\crcl\worlddata\World::languages();
+\crcl\worlddata\World::topLevelDomains();
+
+// useful samples
+
+\crcl\worlddata\World::countries()->groupBy('continent');
+
 ```
+
+all collections are a instance of \Illuminate\Support\Collection
+
+Please take a look at [Laravel Collections Doku](https://laravel.com/docs/8.x/collections#available-methods)
 
 Requirements
 ------------

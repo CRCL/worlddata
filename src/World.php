@@ -2,61 +2,56 @@
 
 namespace crcl\worlddata;
 
+use Illuminate\Support\Pluralizer;
+
+/**
+ * @method static continents($name = null)
+ * @method static countries()
+ * @method static currencies()
+ * @method static languages()
+ * @method static topLevelDomains()
+ */
 class World
 {
-    public static function getCountry(string $isoCode) : ?\crcl\worlddata\Country
+    public static function __callStatic($name, $args)
     {
-        $isoCode = strtoupper($isoCode);
+        $name = strtolower(str_replace(['-', '_', ' '], '', $name));
 
-        if (array_key_exists($isoCode, Data::getCountries())) {
-            return new Country($isoCode);
+        if (self::checkValidFunction($name)) {
+            //$file = Pluralizer::plural($name);
+            $class = '\crcl\worlddata\items\\'.ucfirst(Pluralizer::singular($name));
+
+            $items = include dirname(__FILE__).'/data/'.$name.'.php';
+            $collection = Collection::create($items, $class);
+
+            if (isset($args[0])) {
+                return $collection->find($args[0]);
+            }
+
+            return $collection;
+        } else {
+            throw new WorldException("Method '{$name}' not found in ".__CLASS__);
         }
-
-        return null;
     }
 
-    public static function getContinent(string $isoCode) : ?\crcl\worlddata\Continent
+
+    private function __construct()
     {
-        $isoCode = strtoupper($isoCode);
-
-        if (array_key_exists($isoCode, Data::getContinents())) {
-            return new Continent($isoCode);
-        }
-
-        return null;
     }
 
-    public static function getLanguage(string $code) : ?\crcl\worlddata\Language
+    private function __clone()
     {
-        $code = strtoupper($code);
-
-        if (array_key_exists($code, Data::getLanguages())) {
-            return new Language($code);
-        }
-
-        return null;
     }
 
-    public static function getCurrency(string $code) : ?\crcl\worlddata\Currency
+    private static function checkValidFunction($name)
     {
-        $code = strtoupper($code);
-
-        if (array_key_exists($code, Data::getCurrencies())) {
-            return new Currency($code);
-        }
-
-        return null;
-    }
-
-    public static function getTld(string $code) : ?\crcl\worlddata\Tld
-    {
-        $code = Tld::normalise($code);
-
-        if (array_key_exists($code, Data::getTLDs())) {
-            return new Tld($code);
-        }
-
-        return null;
+        return in_array($name, [
+            'continents',
+            'countries',
+            'currencies',
+            'languages',
+            'topleveldomains'
+        ]);
     }
 
 

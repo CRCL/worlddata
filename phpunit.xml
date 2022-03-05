@@ -8,6 +8,7 @@
          beStrictAboutTodoAnnotatedTests="true"
          failOnRisky="true"
          failOnWarning="true"
+         stopOnFailure="false"
          verbose="true">
     <testsuites>
         <testsuite name="default">

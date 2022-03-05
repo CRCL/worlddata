@@ -12,6 +12,7 @@ foreach ($new_data as $tld) {
 
     if ($tld !== '') {
         $TLDs[strtoupper($tld)] = [
+            'code' =>   strtoupper($tld),
             'tld' => '.'.strtolower($tld),
             'countries' => []
         ];

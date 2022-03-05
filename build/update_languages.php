@@ -10,7 +10,7 @@ foreach ($new_data as $lang) {
     $languages[strtoupper($lang['iso2'])] = [
         'name'        => $lang['iso_language_name'],
         'name_native' => $lang['native_name'],
-        'code_iso3'   => $lang['iso3'],
+        'code'        => $lang['iso3'],
         'countries'   => [],
     ];
 

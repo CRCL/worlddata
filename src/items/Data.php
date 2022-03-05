@@ -1,6 +1,6 @@
 <?php
 
-namespace crcl\worlddata;
+namespace crcl\worlddata\items;
 
 class Data
 {
@@ -11,15 +11,6 @@ class Data
 
     public static function getContinents() : array
     {
-        return [
-            'AS' => 'Asia',
-            'AN' => 'Antarctica',
-            'AF' => 'Africa',
-            'SA' => 'South America',
-            'EU' => 'Europe',
-            'OC' => 'Oceania',
-            'NA' => 'North America',
-        ];
     }
 
     public static function getCountries() : array

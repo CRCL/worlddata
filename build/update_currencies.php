@@ -9,6 +9,7 @@ foreach ($new_data as $currency) {
         $currencies[strtoupper($currency['currency_code'])] = [
             'name'    => $currency['currency_name'],
             'country' => strtoupper($currency['code']),
+            'code' => strtoupper($currency['currency_code'])
         ];
     }
 }

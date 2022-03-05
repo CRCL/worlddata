@@ -1,6 +1,6 @@
 <?php
 
-namespace crcl\worlddata;
+namespace crcl\worlddata\items;
 
 class Currency
 {

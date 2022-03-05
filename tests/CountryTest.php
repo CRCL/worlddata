@@ -5,47 +5,26 @@ use PHPUnit\Framework\TestCase;
 
 class CountryTest extends TestCase
 {
-    public function test_get_code()
+    public function test_get_item()
     {
-        $oCountry = World::getCountry('de');
+        $oCountry =
+            World::countries()
+                 ->find('de');
 
-        $this->assertEquals('DE',
-                            $oCountry->getCode());
-    }
+        $this->assertEquals('DE', $oCountry->code);
+        $this->assertEquals('Italy', $oCountry->getName());
 
-    public function test_get_name()
-    {
-        $oCountry = World::getCountry('it');
+        $this->assertEquals('.de', $oCountry->getTld());
 
-        $this->assertEquals('Italy',
-                            $oCountry->getName());
-    }
-
-    public function test_get_continent()
-    {
-        $oCountry = World::getCountry('SE');
-
-        $aContinent = $oCountry->getContinent();
+        $aContinent = $oCountry->continent;
 
         $this->assertIsArray($aContinent);
-        $this->assertEquals(['code' => 'EU', 'name' => 'Europe'],
-                            $aContinent);
+        $this->assertEquals(['code' => 'EU', 'name' => 'Europe'], $aContinent);
     }
-    
-    /* no continent is missing
-        public function test_get_continent_test_missing()
-        {
-            $oCountry = World::getCountry('FX');
-
-            $this->assertIsArray($oCountry->getContinent());
-            $this->assertEquals(['code' => '', 'name' => null],
-                                $oCountry->getContinent());
-        }
-    */
 
     public function test_get_coordinates()
     {
-        $oCountry = World::getCountry('CN');
+        $oCountry = World::countries('CN');
 
         $this->assertIsArray($oCountry->getCoordinates());
         $this->assertEquals([35.0, 105.0],
@@ -61,18 +40,28 @@ class CountryTest extends TestCase
                             $oCountry->getTimezones());
     }
 
-    public function test_get_tld()
-    {
-        $oCountry = World::getCountry('DE');
-
-        $this->assertEquals('.de',
-                            $oCountry->getTld());
-    }
 
     public function test_invalid()
     {
-        $oCountry = World::getCountry('invalid');
+        $oCountry = World::countries('invalid');
 
         $this->assertNull($oCountry);
+    }
+
+    /*
+     * Data tests
+     */
+    public function test_number_of_continents()
+    {
+        $this->assertCount(7, World::countries());
+    }
+
+    public function test_check_continent_data()
+    {
+        foreach (World::countries() as $code => $data) {
+            $this->assertArrayHasKey('continent', $data, $code.' has no key "continent"');
+            $this->assertNotEmpty($data['continent'], $code.' continent is empty');
+            $this->assertNotEmpty($data['code'], $code.' continent is empty');
+        }
     }
 }

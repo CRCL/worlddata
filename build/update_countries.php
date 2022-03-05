@@ -37,6 +37,7 @@ foreach ($countries_data as $code => $item) {
             $countries_data[$code]['name'] = $countries_data_new[$code]['name'];
         }
         //copy new data to old data
+        $countries_data[$code]['code'] = $code;
         $countries_data[$code]['iso-3166-alpha-2'] = $countries_data_new[$code]['iso-3166-alpha-2'];
         $countries_data[$code]['iso-3166-alpha-3'] = $countries_data_new[$code]['iso-3166-alpha-3'];
         $countries_data[$code]['tld'] = $countries_data_new[$code]['tld'];
