@@ -11,8 +11,6 @@ class CountryTest extends TestCase
             World::countries()
                  ->find('de');
 
-        var_dump($oCountry);
-
         $this->assertEquals('DE', $oCountry->code);
         $this->assertEquals('Germany', $oCountry->name);
         $this->assertEquals('.de', $oCountry->tld);
@@ -65,7 +63,6 @@ class CountryTest extends TestCase
             $this->assertArrayHasKey('timezones', $data, $code.' has no key "timezone"');
             $this->assertArrayHasKey('coordinates', $data, $code.' has no key "name"');
 
-            var_dump($data);
             //$this->assertArrayHasKey('tld', $data, $code.' has no key "tld"');
             //$this->assertArrayHasKey('iso-3166-alpha-2', $data, $code.' has no key "iso-3166-alpha-2"');
             //$this->assertArrayHasKey('iso-3166-alpha-3', $data, $code.' has no key "iso-3166-alpha-3"');
