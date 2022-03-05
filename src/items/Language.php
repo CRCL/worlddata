@@ -4,29 +4,20 @@ namespace crcl\worlddata\items;
 
 class Language
 {
-    private string $code;
+    public string $code;
+    public string $name;
+    public string $name_native;
+    public array $countries;
 
-    public function __construct($code)
+    public function __construct($items)
     {
-        $this->code = strtoupper($code);
+        $this->code = strtoupper($items['code']);
+        $this->name = $items['name'];
+        $this->name_native = $items['name_native'];
+        $this->countries = [];
     }
 
-    public function getName() : string
-    {
-        return Data::getLanguages()[$this->code]['name'];
-    }
-
-    public function getNameNative() : string
-    {
-        return Data::getLanguages()[$this->code]['name_native'];
-    }
-
-    public function getCode() : string
-    {
-        return $this->code;
-    }
-
-    public function getCountries() : array
+    public function countries() : array
     {
         return [];
     }

@@ -4,24 +4,19 @@ namespace crcl\worlddata\items;
 
 class Currency
 {
-    private string $code;
+    public string $code;
+    public string $name;
+    public string $country;
 
-    public function __construct($code)
+    public function __construct($items)
     {
-        $this->code = strtoupper($code);
+        $this->code = strtoupper($items['code']);
+        $this->name = $items['name'];
+        $this->country = $items['country'];
     }
 
-    public function getName() : string
-    {
-        return Data::getCurrencies()[$this->code]['name'];
-    }
 
-    public function getCode() : string
-    {
-        return $this->code;
-    }
-
-    public function getCountry() : array
+    public function country() : array
     {
         return Data::getCurrencies()[$this->code]['country'];
     }
