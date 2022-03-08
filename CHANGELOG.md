@@ -1,7 +1,7 @@
 ### [0.3.0] 2022-03-08
 
-* Rename functions ::countries() is much better than getCountries() see [README.md](README.md) for the current documentation 
-* Use Illuminate/Support/Collections instead of arrays
+* Rename functions: use functions like ::countries() as a factory method, see [README.md](README.md) for the current documentation.
+* Use of Illuminate/Support/Collections instead of arrays
 
 ### [0.2.0] 2022-02-28
 

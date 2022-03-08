@@ -1,10 +1,10 @@
 CRCL world data
 =========
 
-Enrich country codes with names, continent, time zone, coordinates and tld.
+Enrich country codes with names, continent, time zone, coordinates, and TLDs.
 
 ### ** Warning ** this package is still in development
-use at your own risk - before we release a major version, every update can contain CB's
+Use at your own risk - before we release a major version, every update can contain compatibility breaks!
 
 
 Installation / Usage
@@ -15,7 +15,8 @@ Download and install this package via composer.
 `composer require crcl/worlddata`
 
 ```php
-$oContinent = \CRCL\worlddata\World::continents(); // all continents
+$oContinents = \CRCL\worlddata\World::continents(); // all continents
+
 $oContinent = \CRCL\worlddata\World::continents()->find('EU'); // Continent instance
 $oContinent->code; // EU
 $oContinent->name; // Europe
@@ -40,14 +41,14 @@ $oCountry->continent(); // ContinentObj
 \crcl\worlddata\World::currencies()->exist('USD'); // check by code true
 // etc..
 ```
-*Tip!* All collections are a instance of \Illuminate\Support\Collection
+*Tip!* All collections are an instance of \Illuminate\Support\Collection
 
 Please take a look at [Laravel Collections Doku](https://laravel.com/docs/8.x/collections#available-methods) for all available methods
 
 Requirements
 ------------
 
-Tested and developed under `PHP 8.0`
+Tested and developed under `PHP 8.0`.
 
 Security Reports
 ----------------
