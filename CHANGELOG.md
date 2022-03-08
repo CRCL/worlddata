@@ -1,4 +1,4 @@
-### [0.3.0] WIP
+### [0.3.0] 2022-03-08
 
 * Rename functions ::countries() is much better than getCountries() see [README.md](README.md) for the current documentation 
 * Use Illuminate/Support/Collections instead of arrays
