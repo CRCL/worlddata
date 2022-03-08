@@ -4,7 +4,7 @@ CRCL world data
 Enrich country codes with names, continent, time zone, coordinates and tld.
 
 ### ** Warning ** this package is still in development
-use at your own risk - before we release a major version, ever update can contain CB's
+use at your own risk - before we release a major version, every update can contain CB's
 
 
 Installation / Usage
@@ -40,7 +40,7 @@ $oCountry->continent(); // ContinentObj
 \crcl\worlddata\World::currencies()->exist('USD'); // check by code true
 // etc..
 ```
-*Tipp!* All collections are a instance of \Illuminate\Support\Collection
+*Tip!* All collections are a instance of \Illuminate\Support\Collection
 
 Please take a look at [Laravel Collections Doku](https://laravel.com/docs/8.x/collections#available-methods) for all available methods
 
