@@ -5231,6 +5231,14 @@
     array (
     ),
   ),
+  'KIDS' => 
+  array (
+    'code' => 'KIDS',
+    'tld' => '.kids',
+    'countries' => 
+    array (
+    ),
+  ),
   'KIM' => 
   array (
     'code' => 'KIM',
