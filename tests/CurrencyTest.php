@@ -1,5 +1,6 @@
 <?php
 
+use crcl\worlddata\items\Currency;
 use crcl\worlddata\World;
 use PHPUnit\Framework\TestCase;
 
@@ -29,7 +30,7 @@ class CurrencyTest extends TestCase
         $oCurr = World::currencies();
 
         $this->assertInstanceOf(ArrayAccess::class, $oCurr);
-        $this->assertInstanceOf(\crcl\worlddata\items\Currency::class, $oCurr['EUR']);
+        $this->assertInstanceOf(Currency::class, $oCurr['EUR']);
         $this->assertInstanceOf(ArrayAccess::class, $oCurr['EUR']);
     }
 

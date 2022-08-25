@@ -5,8 +5,8 @@
         "world data", "continents", "countries", "currencies", "tld", "timezones"
     ],
     "require": {
-        "php": "^8.0",
-        "illuminate/support": "^v8.83"
+        "php": "^8.0.2",
+        "illuminate/support": "^v8.83|^v9.26"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5.14"

@@ -1,5 +1,6 @@
 <?php
 
+use crcl\worlddata\items\Continent;
 use crcl\worlddata\World;
 use PHPUnit\Framework\TestCase;
 
@@ -15,7 +16,7 @@ class CountryTest extends TestCase
         $this->assertEquals('Germany', $oCountry->name);
         $this->assertEquals('.de', $oCountry->tld);
         $this->assertEquals('EU', $oCountry->continent);
-        $this->assertInstanceOf(\crcl\worlddata\items\Continent::class, $oCountry->continent());
+        $this->assertInstanceOf(Continent::class, $oCountry->continent());
     }
 
     public function test_get_coordinates()

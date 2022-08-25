@@ -1,5 +1,6 @@
 <?php
 
+use crcl\worlddata\items\Topleveldomain;
 use crcl\worlddata\World;
 use PHPUnit\Framework\TestCase;
 
@@ -15,8 +16,7 @@ class TldTest extends TestCase
 
     public function test_get_short_cut()
     {
-        $this->assertEquals(World::topLevelDomains()
-                                 ->find('com'),
+        $this->assertEquals(World::topLevelDomains()->find('com'),
                             World::topleveldomains('com'));
     }
 
@@ -30,7 +30,7 @@ class TldTest extends TestCase
         $oTLD = World::topLevelDomains();
 
         $this->assertInstanceOf(ArrayAccess::class, $oTLD);
-        $this->assertInstanceOf(\crcl\worlddata\items\Topleveldomain::class, $oTLD['CLOUD']);
+        $this->assertInstanceOf(Topleveldomain::class, $oTLD['CLOUD']);
         $this->assertInstanceOf(ArrayAccess::class, $oTLD['CLOUD']);
     }
 
@@ -39,7 +39,7 @@ class TldTest extends TestCase
      */
     public function test_number_of_tlds()
     {
-        $this->assertCount(1486, World::topLevelDomains());
+        $this->assertCount(1487, World::topLevelDomains());
     }
 
     public function test_check_data()

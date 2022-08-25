@@ -1,3 +1,7 @@
+### [0.4.0] 2022-08-25
+
+* Laravel 9 support
+
 ### [0.3.0] 2022-03-08
 
 * Rename functions: use functions like ::countries() as a factory method, see [README.md](README.md) for the current documentation.

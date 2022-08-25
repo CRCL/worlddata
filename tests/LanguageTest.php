@@ -1,5 +1,6 @@
 <?php
 
+use crcl\worlddata\items\Language;
 use crcl\worlddata\World;
 use PHPUnit\Framework\TestCase;
 
@@ -29,7 +30,7 @@ class LanguageTest extends TestCase
         $lang = World::languages();
 
         $this->assertInstanceOf(ArrayAccess::class, $lang);
-        $this->assertInstanceOf(\crcl\worlddata\items\Language::class, $lang['FR']);
+        $this->assertInstanceOf(Language::class, $lang['FR']);
         $this->assertInstanceOf(ArrayAccess::class, $lang['FR']);
     }
 
